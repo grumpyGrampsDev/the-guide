@@ -6,6 +6,55 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
+## [0.2.0] - 2026-07-22
+
+### Added
+
+- Expanded The Guide from foundational philosophy into practical formation rhythms.
+- Added the Journal Framework:
+  - Scripture Reflection
+  - Sermon Reflection
+  - Bible Study Reflection
+- Added examples demonstrating how the framework may be applied personally.
+- Introduced Stones of Remembrance:
+  - Purpose of Stones of Remembrance
+  - Recognizing a Stone of Remembrance
+  - Stones in Practice
+- Added examples of Stones emerging from:
+  - Scripture reflection
+  - Sermon reflection
+  - Bible study
+  - Prayer and seasons of life
+- Added the Walking framework:
+  - Purpose of Walking
+  - Walking in the Light
+  - The Next Faithful Step
+
+### Philosophy
+
+- Preserved the principle that The Guide documents faithful practices rather than creating spiritual formulas.
+- Established that Stones of Remembrance are not created for the sake of collecting, but emerge as markers of God's faithfulness.
+- Clarified that walking with God is not about seeing the entire path, but faithfully taking the next step with the light provided.
+
+### Notes
+
+This milestone completes the first expression of the Formation Stack:
+
+> Scripture → Prayer → Reflection → Remembrance → Walking
+
+The Guide now contains both the foundational philosophy and practical examples of how these rhythms may look when lived out.
+
+Future development will continue refining practices, resources, and reflections while maintaining the core purpose:
+
+Open your Bible.  
+Read carefully.  
+Pray honestly.  
+Reflect thoughtfully.  
+Remember faithfully.  
+Walk faithfully.
+
+---
+
 ## [0.1.0] - 2026-07-22
 
 ### Added
