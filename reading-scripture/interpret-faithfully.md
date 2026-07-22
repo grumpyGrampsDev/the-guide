@@ -1,0 +1,131 @@
+# Interpret Faithfully
+
+Every time we read Scripture, we are seeking to understand its meaning.
+
+This process is called interpretation.
+
+Interpretation is not about discovering a hidden meaning that no one has seen before.
+
+It is about faithfully understanding what God has communicated through His Word.
+
+Good interpretation listens before it speaks.
+
+## Meaning Comes Before Application
+
+One of the most important habits in studying Scripture is separating meaning from application.
+
+First ask:
+
+"What did God communicate through this passage?"
+
+Then ask:
+
+"How should I respond?"
+
+A passage can have many applications.
+
+But it has one intended meaning.
+
+Understanding that meaning gives application a faithful foundation.
+
+## Begin With What Is Clear
+
+Scripture contains passages that are simple and passages that require deeper study.
+
+When approaching a difficult passage, begin with what is clear.
+
+Look at the surrounding context.
+
+Consider the rest of Scripture.
+
+Avoid building a major conclusion on a passage that is unclear while ignoring passages that speak plainly.
+
+God's Word is unified.
+
+## Let Scripture Interpret Scripture
+
+The Bible is one story.
+
+Individual passages should be understood within the whole counsel of God.
+
+A difficult passage should not be used to contradict clear teaching elsewhere in Scripture.
+
+Instead, allow the broader witness of Scripture to help illuminate what may be difficult to understand.
+
+## Consider the Whole Passage
+
+A single verse rarely communicates the complete thought.
+
+Read the verses before and after it.
+
+Understand the paragraph.
+
+Consider the chapter.
+
+Understand the purpose of the book.
+
+The meaning of a passage is found within the message of the author, not isolated fragments.
+
+## Be Careful With Assumptions
+
+Every reader brings assumptions to Scripture.
+
+Culture.
+
+Personal experience.
+
+Tradition.
+
+Previous teaching.
+
+Even good experiences can sometimes influence how we see a passage.
+
+Humility requires us to continually ask:
+
+"Am I seeing what the text says, or am I seeing what I expect it to say?"
+
+## Seek Understanding, Not Arguments
+
+Scripture should not become a tool for proving ourselves right.
+
+The purpose of interpretation is not winning disagreements.
+
+The purpose is knowing God more faithfully.
+
+A correct interpretation that produces pride has missed the heart of Scripture.
+
+Truth and humility belong together.
+
+## Accept Mystery
+
+Not every question receives an immediate answer.
+
+Some passages require more study.
+
+Some questions may remain unresolved.
+
+That does not mean Scripture has failed.
+
+It reminds us that we are finite people seeking to understand an infinite God.
+
+Faithfulness does not require pretending to know what we do not know.
+
+## A Final Encouragement
+
+Faithful interpretation is an act of humility.
+
+We listen carefully.
+
+We study diligently.
+
+We seek understanding.
+
+And we trust that God has spoken clearly enough for us to know Him, while remaining greater than anything we can fully comprehend.
+
+Open Scripture with humility.
+
+Listen carefully.
+
+Understand faithfully.
+
+Respond obediently.
