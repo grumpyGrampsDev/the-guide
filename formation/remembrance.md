@@ -1,0 +1,139 @@
+# Remembrance
+
+Throughout Scripture, God's people are repeatedly called to remember.
+
+Not because God changes.
+
+Not because His faithfulness needs to be proven again.
+
+But because we are often quick to forget.
+
+Remembrance is the practice of looking back and recognizing the ways God has been faithful.
+
+It strengthens our trust for the steps ahead.
+
+---
+
+## Remember What God Has Done
+
+The story of Scripture is filled with reminders to remember.
+
+God's people built memorials.
+
+They sang songs.
+
+They told stories.
+
+They celebrated what He had done.
+
+Remembering was not simply looking backward.
+
+It was an act of faith.
+
+The God who was faithful before is the same God who remains faithful today.
+
+---
+
+## Remembering Is Not Self-Glorification
+
+There is a difference between remembering God's work and celebrating ourselves.
+
+The purpose of remembrance is not:
+
+"Look what I accomplished."
+
+It is:
+
+"Look how faithful God has been."
+
+Every answered prayer.
+
+Every moment of conviction.
+
+Every season of growth.
+
+Every unexpected provision.
+
+Every step forward.
+
+These are reminders of God's grace.
+
+---
+
+## Create Stones of Remembrance
+
+Throughout life, God gives us moments we do not want to forget.
+
+A passage that changed how we see Him.
+
+A prayer He answered.
+
+A truth He used to encourage us.
+
+A season where His presence carried us.
+
+A moment where He brought clarity, comfort, or correction.
+
+Write these moments down.
+
+Keep them.
+
+Return to them.
+
+They become stones of remembrance.
+
+---
+
+## Remember During Difficult Seasons
+
+Remembrance becomes especially important when circumstances change.
+
+Difficult seasons can make present struggles feel larger than God's past faithfulness.
+
+Returning to what God has already done reminds us that He has not changed.
+
+The same God who carried us before remains with us now.
+
+---
+
+## Remembering Builds Hope
+
+Hope is not built on our ability to predict the future.
+
+Hope is built on the character of God.
+
+When we remember His faithfulness, we are reminded that our confidence rests in Him.
+
+Past faithfulness becomes fuel for present trust.
+
+---
+
+## Share What God Has Done
+
+Remembrance is not only personal.
+
+God's faithfulness is meant to encourage others.
+
+The stories we preserve can become reminders for those walking through similar seasons.
+
+Share with humility.
+
+Point toward God.
+
+Give Him the glory.
+
+---
+
+## A Final Encouragement
+
+Do not rush past the places where God has met you.
+
+Pause.
+
+Remember.
+
+Give thanks.
+
+The moments we preserve are not monuments to ourselves.
+
+They are reminders of the faithfulness of God.
