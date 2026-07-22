@@ -2,25 +2,34 @@
 
 The Guide is not a checklist to complete.
 
-It is a rhythm to return to.
+It is not a measure of spiritual maturity.
+
+It is a rhythm of returning.
 
 The following is one example of how Scripture, prayer, reflection, remembrance, and walking may come together throughout an ordinary day.
 
+There is no formula here.
+
+The purpose is simply to create space to listen, respond, and walk faithfully with God.
+
 ---
 
-# Morning — Begin With God
+# Morning — Begin With Scripture
 
-## Scripture
+The day begins by opening God's Word.
 
-Open the Bible.
+Before asking what to do, begin by receiving what God has said.
 
 Read slowly.
+
+Pay attention.
 
 Notice:
 
 - What does this reveal about God?
-- What stands out?
+- What does this reveal about His character?
 - What questions arise?
+- What words or ideas stand out?
 
 The goal is not to finish a passage quickly.
 
@@ -28,15 +37,19 @@ The goal is to listen.
 
 ---
 
-## Prayer
+# Morning Prayer — Respond Honestly
 
-Respond to what God has revealed.
+Scripture invites a response.
 
-A simple prayer:
+Prayer is where we come before God with humility and dependence.
+
+A simple prayer may be:
 
 Lord,
 
-Give me light for today.
+Thank You for another day.
+
+Give me light.
 
 Guide my steps.
 
@@ -44,7 +57,7 @@ Form my heart.
 
 Bear Your fruit through me.
 
-Help me walk faithfully.
+Help me walk faithfully today.
 
 Amen.
 
@@ -52,11 +65,11 @@ Amen.
 
 # Throughout The Day — Walk In The Light Given
 
-The goal is not to carry the entire path.
+God does not always reveal the entire path ahead.
 
-It is to walk faithfully with the light God has provided.
+Often, He provides enough light for the next step.
 
-Return to simple prayers:
+Throughout the day, return to simple prayers:
 
 Thank You.
 
@@ -64,7 +77,7 @@ Give me light.
 
 Guide my next step.
 
-Pay attention.
+Pay attention to where God is leading.
 
 Look for opportunities to respond faithfully.
 
@@ -72,39 +85,61 @@ Look for opportunities to respond faithfully.
 
 # Evening — Reflect and Remember
 
-## Reflection
+At the end of the day, look back.
 
-Look back.
+Not to measure performance.
+
+Not to judge success or failure.
+
+But to recognize God's presence and faithfulness.
+
+Consider:
+
+## Look Back
 
 What happened today?
 
-Look up.
+Where did I see God's provision?
 
-What does God have to say about it?
-
-Look ahead.
-
-How can I walk faithfully tomorrow?
+Where did I struggle?
 
 ---
 
-## A Stone of Remembrance
+## Look Up
 
-Sometimes a truth continues to echo.
+What does God have to say about it?
+
+What did Scripture reveal?
+
+What truth continues to remain?
+
+---
+
+## Look Ahead
+
+How can I walk faithfully tomorrow?
+
+What is the next faithful step?
+
+---
+
+# Reflection and Remembrance
+
+As we reflect, sometimes a truth continues to echo.
 
 A passage.
 
-A moment.
+A prayer.
 
 A lesson.
 
-A reminder of God's faithfulness.
+A moment where God's faithfulness became clearer.
 
 These moments become Stones of Remembrance.
 
-Not because we created something significant,
+Not monuments to ourselves.
 
-but because God was faithful and we want to remember.
+Markers pointing back to God.
 
 ---
 
@@ -112,43 +147,47 @@ but because God was faithful and we want to remember.
 
 The Guide follows this movement:
 
-Scripture
+    Scripture
+        ↓
+    Prayer
+        ↓
+    Reflection
+        ↓
+    Remembrance
+        ↓
+    Walking
 
-↓
+God speaks.
 
-Prayer
+We respond.
 
-↓
+He forms us.
 
-Reflection
+We remember His faithfulness.
 
-↓
-
-Remembrance
-
-↓
-
-Walking
-
----
-
-The purpose is not to perfectly follow a routine.
-
-The purpose is to remain close to God through His Word and respond faithfully to what He reveals.
+We continue walking with Him.
 
 ---
+
+# Begin Again
+
+Tomorrow begins the same way.
+
+Not with perfection.
+
+Not with having everything figured out.
+
+But with another invitation:
 
 Open your Bible.
 
-Read carefully.
+Receive God's Word.
 
-Pray honestly.
+Respond honestly.
 
-Reflect thoughtfully.
+Remember His faithfulness.
 
-Remember faithfully.
-
-Walk faithfully.
+Take the next faithful step.
 
 ---
 
