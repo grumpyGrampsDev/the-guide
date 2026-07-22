@@ -6,6 +6,72 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
+## [0.4.0] - 2026-07-22
+
+### Added
+
+- Added the Path Into The Guide as the entry point for beginning the journey.
+- Added the Biblical Books section:
+  - Bible Reading Plan
+  - Guidance for approaching the reading journey
+- Added Field Notes as a place for examples, observations, and lessons gathered while walking with God.
+- Added examples demonstrating The Guide in practice:
+  - A Day With The Guide
+  - Hebrews 6 Reflection Example
+- Added The Resources That Shaped The Journey:
+  - Personal study resources.
+  - Additional study resources.
+  - Authors and teachers who have influenced reflection and formation.
+
+### Philosophy
+
+- Clarified the distinction between:
+  - The Guide as a companion to Scripture.
+  - The Formation Map as a rhythm of practices.
+  - Field Notes as observations and examples from the journey.
+- Reinforced that resources, teachers, and tools are companions to Scripture rather than authorities over Scripture.
+- Preserved the principle that personal experiences and reflections should point beyond themselves toward God's faithfulness.
+
+### Refined
+
+- Refined repository navigation to create a clearer path for new readers:
+  - Introduction provides orientation.
+  - Biblical Books provides a starting point in Scripture.
+  - Reading Scripture provides interpretive practices.
+  - Formation provides connected practices.
+  - Field Notes provides examples of the journey lived out.
+- Refined the project structure from a collection of resources into a navigable path of formation.
+
+### Notes
+
+This milestone completes the first expression of The Guide as a journey:
+
+> Open your Bible.
+>
+> Read carefully.
+>
+> Pray honestly.
+>
+> Reflect thoughtfully.
+>
+> Remember faithfully.
+>
+> Walk faithfully.
+
+The Guide now contains:
+
+- A front door.
+- A path into Scripture.
+- A formation rhythm.
+- Practical examples.
+- Field notes from the journey.
+
+Future development will continue refining practices, resources, and reflections while maintaining the core purpose:
+
+The Guide points. God transforms.
+
+---
+
 ## [0.3.0] - 2026-07-22
 
 ### Added
