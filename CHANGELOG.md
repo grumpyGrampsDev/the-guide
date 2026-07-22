@@ -10,7 +10,8 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ### Added
 
-- Added the Formation Map as the orientation point for The Guide.
+- Added the Formation Compass as the orientation point for The Guide.
+- Added the Formation Map as the framework connecting the practices of formation.
 - Added the Prayer framework:
   - Purpose of Prayer
   - Praying Honestly
@@ -33,12 +34,15 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 ### Refined
 
 - Refined the language of the Formation framework from "Formation Stack" toward "Formation Map."
-  - The Formation Stack describes the connected relationship between practices.
+  - The Formation Stack describes how the connected practices were discovered.
   - The Formation Map describes how people orient themselves within those practices.
+- Refined the project structure to distinguish between:
+  - Formation Compass: orientation within The Guide.
+  - Formation Map: the connected rhythm of formation practices.
 
 ### Notes
 
-This milestone completes the first public expression of the Formation Map:
+This milestone completes the first expression of the Formation Map:
 
 > Scripture → Prayer → Reflection → Remembrance → Walking
 
@@ -48,10 +52,10 @@ The Guide now contains:
 - A Scripture approach.
 - A reflection practice.
 - A remembrance practice.
-- A walking framework.
 - A prayer rhythm.
+- A walking framework.
 
-Future development will continue refining resources while maintaining the core purpose:
+Future development will continue refining practices, resources, and reflections while maintaining the core purpose:
 
 Open your Bible.  
 Read carefully.  
