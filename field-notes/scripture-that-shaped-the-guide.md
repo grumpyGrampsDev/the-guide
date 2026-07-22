@@ -10,7 +10,7 @@ I wasn't trying to develop a philosophy of Bible study or create a framework for
 
 Looking back now, I can see that these Scriptures quietly shaped far more than I realized.
 
-Many of the ideas found throughout _The Guide_—its journal rhythm, its Formation Map, its emphasis on remembrance, and especially its focus on walking faithfully—did not begin as systems or principles.
+Many of the ideas found throughout _The Guide_, its journal rhythm, its Formation Map, its emphasis on remembrance, and especially its focus on walking faithfully, did not begin as systems or principles.
 
 They began here.
 
