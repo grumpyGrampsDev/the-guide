@@ -33,6 +33,11 @@ The first step is not knowing everything.
 
 The first step is opening the Bible.
 
+If you are beginning this journey, start by opening Scripture.
+The Bible Reading Plan provides one possible path through God's Word.
+
+[bible-reading-plan](../biblical-books/README.md)
+
 ---
 
 # Respond Through Prayer
