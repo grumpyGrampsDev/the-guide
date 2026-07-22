@@ -1,4 +1,4 @@
-# The Formation Map - How The Guide Works
+# The Formation Compass - How The Guide Works
 
 The Guide is shaped around a simple rhythm of formation:
 

@@ -1,4 +1,4 @@
-# The Formation Stack
+# The Formation Map
 
 Spiritual formation is not a single practice.
 
@@ -6,7 +6,7 @@ It is the ongoing work of being shaped into the person God is calling us to beco
 
 God forms us through His Word, through prayer, through reflection, through remembrance, through community, and through faithful obedience.
 
-The Formation Stack is a simple framework for remembering the rhythms that help us remain attentive to God's work.
+The Formation Map is a simple framework for remembering the rhythms that help us remain attentive to God's work.
 
 It is not a formula.
 
