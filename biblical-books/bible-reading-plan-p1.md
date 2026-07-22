@@ -1,4 +1,4 @@
-# Bible Reading Order — NASB 2020
+# Bible Reading Order
 
 _A structured reading plan focused on understanding context, themes, and connections rather than speed._
 
