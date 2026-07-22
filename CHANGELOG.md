@@ -6,6 +6,62 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
+## [0.3.0] - 2026-07-22
+
+### Added
+
+- Added the Formation Map as the orientation point for The Guide.
+- Added the Prayer framework:
+  - Purpose of Prayer
+  - Praying Honestly
+  - Daily Prayer Rhythm
+  - Daily Prayer Set
+- Expanded the Formation Map:
+  - Scripture
+  - Prayer
+  - Reflection
+  - Remembrance
+  - Walking
+
+### Philosophy
+
+- Clarified that The Guide is shaped around a rhythm of formation rather than a system of spiritual achievement.
+- Established that prayer is a response to God's revelation, rooted in relationship and dependence.
+- Preserved prayer practices as anchors for returning to God rather than formulas to complete.
+- Reinforced that spiritual formation begins with God's work and flows into faithful response.
+
+### Refined
+
+- Refined the language of the Formation framework from "Formation Stack" toward "Formation Map."
+  - The Formation Stack describes the connected relationship between practices.
+  - The Formation Map describes how people orient themselves within those practices.
+
+### Notes
+
+This milestone completes the first public expression of the Formation Map:
+
+> Scripture → Prayer → Reflection → Remembrance → Walking
+
+The Guide now contains:
+
+- A foundational purpose and philosophy.
+- A Scripture approach.
+- A reflection practice.
+- A remembrance practice.
+- A walking framework.
+- A prayer rhythm.
+
+Future development will continue refining resources while maintaining the core purpose:
+
+Open your Bible.  
+Read carefully.  
+Pray honestly.  
+Reflect thoughtfully.  
+Remember faithfully.  
+Walk faithfully.
+
+---
+
 ## [0.2.0] - 2026-07-22
 
 ### Added
