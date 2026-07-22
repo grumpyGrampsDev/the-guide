@@ -10,6 +10,10 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ### Added
 
+- Added the Bible Reading Plan:
+  - A structured path through Scripture focused on context, themes, and connections rather than speed.
+  - Added Matthew as the conclusion of the New Testament section to return focus to Christ and the Kingdom.
+  - Connected the reading plan with The Guide's practices of prayer, reflection, remembrance, and faithful walking.
 - Added the Formation Compass as the orientation point for The Guide.
 - Added the Formation Map as the framework connecting the practices of formation.
 - Added the Prayer framework:
