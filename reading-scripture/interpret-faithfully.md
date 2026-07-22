@@ -84,6 +84,28 @@ Humility requires us to continually ask:
 
 "Am I seeing what the text says, or am I seeing what I expect it to say?"
 
+## The Heart of the Reader Matters
+
+Faithful interpretation requires more than careful study.
+
+It also requires humility.
+
+The goal is not to stand above Scripture and decide whether it agrees with us.
+
+The goal is to come beneath God's Word and allow it to examine us.
+
+A hardened heart can approach Scripture looking only for confirmation.
+
+A humble heart approaches Scripture willing to be corrected.
+
+The truth of Scripture does not change based on our posture, but our ability to receive, understand, and respond to that truth is deeply affected by it.
+
+Come as a student.
+
+Come ready to listen.
+
+Come willing to be shaped by what God has said.
+
 ## Seek Understanding, Not Arguments
 
 Scripture should not become a tool for proving ourselves right.
