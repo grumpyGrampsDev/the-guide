@@ -10,6 +10,20 @@ As this guide grows, it will be shaped by the following principles.
 
 ---
 
+## The Proper Place of This Guide
+
+This guide cannot create faith, understanding, or spiritual growth.
+
+Only God can do that.
+
+Its purpose is simply to encourage faithful engagement with the means God has provided: His Word, prayer, the fellowship of believers, and the work of the Holy Spirit.
+
+The Guide points.
+
+God transforms.
+
+---
+
 ## Scripture Is the Authority
 
 Scripture is the final authority.
@@ -40,7 +54,7 @@ Chapters belong within books.
 Books belong within the whole counsel of Scripture.
 Individual passages should be understood in light of the author's intent and the unfolding story of redemption.
 
-Scripture interprets Scripture.
+Scripture helps us understand Scripture. Individual passages should be read within the whole counsel of God's Word.
 
 ---
 

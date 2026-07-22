@@ -10,7 +10,7 @@ My desire is not to tell others what to think.
 
 My desire is to encourage others to look carefully at what God has already said.
 
-If there is one posture I hope this guide cultivates, it is humility.
+If there is one posture I hope this guide encourages, it is humility.
 
 The Bible is not a puzzle to conquer.
 

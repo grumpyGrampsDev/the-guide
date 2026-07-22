@@ -112,7 +112,7 @@ Both can be acts of worship.
 
 Do not feel pressured to hurry through God's Word.
 
-It has waited thousands of years for you.
+It has endured through generations, and it is still speaking today.
 
 It will not resent another five minutes spent listening carefully.
 

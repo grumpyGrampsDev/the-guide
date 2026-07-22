@@ -34,7 +34,7 @@ Willing to replace long-held assumptions with what Scripture actually says.
 
 ## Come Prayerfully
 
-The Bible is not merely understood through intellectual effort.
+The Bible is not merely understood through intellectual effort alone.
 
 Understanding is a gift from God.
 
