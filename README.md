@@ -1,6 +1,6 @@
 # The Guide
 
-> _Don't panic. Open your Bible._
+> _Don't panic! Open your Bible._
 
 A version-controlled companion for reading, studying, praying, and being formed by Scripture.
 
