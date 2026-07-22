@@ -4,7 +4,9 @@
 
 > This is an example from a personal Scripture journal.
 >
-> It is not presented as a perfect model or required format. It is simply an example of how this framework may look when applied personally.
+> It is not presented as a perfect model or required format. It reflects a real entry from a specific point in an ongoing practice.
+>
+> Some elements of The Guide developed over time and may not appear in their current form within earlier entries.
 
 ---
 
@@ -106,3 +108,23 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+# The Stone of Remembrance
+
+_As The Guide developed, this practice was given a name._
+
+At the time this entry was written, this truth was captured separately through a Scripture commonplace book.
+
+This practice later became known as a Stone of Remembrance: a preserved truth that points back to God's faithfulness.
+
+A Stone is not simply a favorite verse or interesting observation.
+
+It is a truth worth carrying forward.
+
+**Stone that emerged from this entry:**
+
+My hope is not anchored in my ability to hold onto God.
+
+My hope is anchored in the character and faithfulness of the God who cannot lie.
