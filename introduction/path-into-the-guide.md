@@ -34,9 +34,24 @@ The first step is not knowing everything.
 The first step is opening the Bible.
 
 If you are beginning this journey, start by opening Scripture.
+
 The Bible Reading Plan provides one possible path through God's Word.
 
 [bible-reading-plan](../biblical-books/README.md)
+
+---
+
+# Scriptures That Shaped The Guide
+
+Every journey has passages that become familiar companions.
+
+Throughout this walk, certain Scriptures have repeatedly shaped the way I think about reading, praying, reflecting, remembering, and walking with God.
+
+These passages are not a replacement for Scripture as a whole.
+
+They are simply the Scriptures that God has used to shape the heart and language of The Guide.
+
+[the-scriptures-that-shaped-the-guide](../field-notes/the-scriptures-that-shaped-the-guide.md)
 
 ---
 
