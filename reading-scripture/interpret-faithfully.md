@@ -10,6 +10,8 @@ It is about faithfully understanding what God has communicated through His Word.
 
 Good interpretation listens before it speaks.
 
+This is a lesson I have had to return to often. The more I study Scripture, the more I realize how easy it is to rush toward an answer before I have truly understood the question the text is asking.
+
 ## Meaning Comes Before Application
 
 One of the most important habits in studying Scripture is separating meaning from application.
