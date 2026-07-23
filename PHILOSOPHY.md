@@ -5,6 +5,9 @@ This guide exists to point people toward Scripture, not toward itself.
 It is a companion, not a commentary.
 It is a collection of principles, not a replacement for personal study.
 Its purpose is not to provide answers to every question, but to encourage careful reading, thoughtful reflection, faithful prayer, and obedient living.
+It is not meant to stand between the reader and Scripture, but to encourage the reader to return to Scripture again and again.
+
+These principles emerged through the process of studying Scripture, journaling, asking questions, and learning to approach God's Word with humility.
 
 As this guide grows, it will be shaped by the following principles.
 
