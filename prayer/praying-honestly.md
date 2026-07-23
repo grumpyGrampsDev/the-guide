@@ -10,7 +10,9 @@ God does not need us to hide our fears, questions, struggles, or weaknesses.
 
 He already knows us completely.
 
-Prayer is where we learn to bring our whole selves before Him.
+Prayer is where we learn to bring our whole selves before Him, trusting that we are already fully known and still invited near.
+
+This was not always natural for me. When prayer was still unfamiliar, I often worried about saying the wrong thing or not knowing how to begin. Over time, I learned that God was not waiting for perfect words. He was inviting me to come to Him.
 
 ---
 
