@@ -1,6 +1,6 @@
 # Ask Good Questions
 
-One of the greatest habits a student of Scripture can develop is learning to ask good questions.
+One of the most valuable habits a student of Scripture can develop is learning to ask good questions.
 
 Questions slow us down.
 
@@ -11,6 +11,8 @@ They invite us to listen before we explain.
 A question does not mean you doubt God's Word.
 
 Often, it means you are finally paying attention.
+
+Over time, I have found that the questions I bring to Scripture often reveal how carefully I am actually listening to it.
 
 ## Start with Simple Questions
 
