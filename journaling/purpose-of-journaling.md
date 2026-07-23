@@ -12,6 +12,8 @@ It is not a record of how well we are performing.
 
 It is simply a place to remember God's faithfulness and our response to His work.
 
+Over time, I have found that writing things down helps me notice what I might otherwise forget: prayers answered, lessons repeated, and moments where God was faithful even when I did not recognize it immediately.
+
 ---
 
 ## Journaling Begins With Scripture
@@ -152,6 +154,6 @@ Reflect because you want to listen.
 
 Record because God's faithfulness is worth preserving.
 
-Your journal is not a monument to yourself.
+Your journal is not a record of your own accomplishments.
 
 It is a collection of reminders pointing back to the God who is faithful.
