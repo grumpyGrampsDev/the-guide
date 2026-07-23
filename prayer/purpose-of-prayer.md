@@ -14,6 +14,8 @@ It is dependence.
 
 It is learning to come honestly before the One who already knows us and loves us.
 
+This understanding of prayer was not something I always had. For a long time, prayer felt unfamiliar. I knew I was supposed to pray, but I did not always know how to begin. Over time, I learned that prayer was not about finding perfect words, but about learning to come before God honestly and trust that He welcomes me.
+
 ---
 
 # Prayer Begins With God
@@ -151,7 +153,7 @@ Trust His character.
 
 Allow Him to form your heart.
 
-Prayer is not simply where we ask God to bless our path.
+Prayer is not simply where we ask God to make our path easier.
 
 It is where we learn to walk with Him.
 
