@@ -6,7 +6,9 @@ A sermon is not a replacement for personal engagement with Scripture.
 
 The teaching we receive should always lead us back to God's Word.
 
-This framework is not meant to capture every detail of a sermon.
+This framework grew from the same rhythm used throughout The Guide: receiving what God has revealed, seeking understanding, responding faithfully, and remembering His work over time.
+
+It is not meant to capture every detail of a sermon.
 
 It is a way to remember what was taught, reflect on its truth, and respond faithfully.
 
@@ -44,7 +46,7 @@ The goal is to listen carefully.
 
 ---
 
-# Teaching Notes
+# Sermon Notes
 
 Record meaningful details from the sermon.
 
@@ -180,6 +182,8 @@ The Quiet Whisper may be:
 It is not the entire sermon summarized.
 
 It is the truth that remains with you.
+
+The message provides the context. Scripture provides the foundation.
 
 ---
 
