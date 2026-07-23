@@ -1,6 +1,6 @@
 # The Guide
 
-> _Don't panic! Open your Bible._
+> _Don't panic. Open your Bible._
 
 A version-controlled companion for reading, studying, praying, and being formed by Scripture.
 
@@ -8,11 +8,11 @@ A version-controlled companion for reading, studying, praying, and being formed 
 
 ## What is this?
 
-The Guide is a living collection of notes, principles, and practices that have helped me approach God's Word with greater humility, attentiveness, and faithfulness.
+The Guide is a living collection of notes, reflections, principles, and practices that have emerged as I have studied Scripture, prayed, journaled, and sought to follow Christ with greater humility, attentiveness, and faithfulness.
 
 It is not intended to replace Scripture, but to point back to it. Every page exists to encourage a deeper engagement with the Bible itself.
 
-The Guide follows a simple rhythm:
+The Guide follows a steady rhythm:
 
 **Scripture → Prayer → Reflection → Remembrance → Walking**
 
@@ -24,7 +24,7 @@ This repository grows alongside my own walk with Christ. As I continue to learn,
 
 ## Begin Here
 
-The Guide begins with a simple invitation:
+The Guide begins with the same invitation that continues to shape it:
 
 Open your Bible.
 
@@ -71,7 +71,7 @@ My hope is simply to share what God has taught me through Scripture in a way tha
     prayer/                   Responding to God through honest prayer.
     stones-of-remembrance/    Remembering God's faithfulness.
     walking/                  Living in response to God's Word.
-    appendix/                 Supplemental material and reference resources.
+    field-notes/              Supplemental material and reference resources.
 
 ---
 

@@ -6,7 +6,7 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
-## [0.4.0] - 2026-07-22
+## [0.4.0]
 
 ### Added
 
@@ -72,7 +72,7 @@ The Guide points. God transforms.
 
 ---
 
-## [0.3.0] - 2026-07-22
+## [0.3.0]
 
 ### Added
 
@@ -136,7 +136,7 @@ Walk faithfully.
 
 ---
 
-## [0.2.0] - 2026-07-22
+## [0.2.0]
 
 ### Added
 
@@ -185,7 +185,7 @@ Walk faithfully.
 
 ---
 
-## [0.1.0] - 2026-07-22
+## [0.1.0]
 
 ### Added
 
