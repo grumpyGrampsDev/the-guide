@@ -10,6 +10,8 @@ How many times have I read through the Bible?
 
 Those questions are not unimportant, but they are not the most important ones.
 
+Over time, I have found that some of the passages I remember most clearly were not the ones I read the fastest, but the ones I returned to slowly and repeatedly.
+
 A better question is this:
 
 **Did I truly listen to what God said?**
@@ -114,7 +116,7 @@ Do not feel pressured to hurry through God's Word.
 
 It has endured through generations, and it is still speaking today.
 
-It will not resent another five minutes spent listening carefully.
+Its truth will not become less valuable because we choose to spend another five minutes listening carefully.
 
 Open your Bible.
 
