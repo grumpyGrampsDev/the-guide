@@ -12,7 +12,9 @@ Not with anxiety, but with expectation.
 
 Not merely to gather information, but to know the One who has spoken.
 
-Before asking what a passage means, it is worth asking another question:
+Over time, I have found that the way we approach Scripture often shapes what we are able to receive from it.
+
+Before asking what a passage means, it is worth asking another question.
 
 **How should I come to it?**
 
@@ -66,7 +68,7 @@ Notice contrasts.
 
 Notice what surprises you.
 
-Many treasures of Scripture are not hidden because they are impossible to find.
+Many treasures of Scripture are not missed because they are impossible to find.
 
 They are overlooked because we hurry past them.
 
@@ -139,6 +141,8 @@ Come honestly.
 Come expectantly.
 
 Come ready to respond.
+
+Some days these postures will come naturally. Other days it will be something we intentionally return to.
 
 Then begin reading.
 
