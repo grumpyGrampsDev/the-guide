@@ -8,6 +8,8 @@ This framework is not intended to capture every detail of a discussion.
 
 It is a way to remember what was studied, consider what was learned, and reflect on how God is using His Word to shape us.
 
+This structure grew from the same rhythm used throughout The Guide: receiving God's Word, seeking understanding, responding faithfully, and remembering His faithfulness.
+
 The goal is not simply to record what others said.
 
 The goal is to faithfully understand and respond to what God has revealed through Scripture.
@@ -110,7 +112,7 @@ Reflection moves Scripture from something I studied into something I carry.
 
 ---
 
-# Personal Reflection
+# Consider the Soil
 
 Consider how this study connects with the broader work God is doing in your understanding, experience, and perspective.
 
@@ -163,6 +165,8 @@ It is becoming more faithful.
 ---
 
 # Bear Fruit
+
+Understanding and reflection should eventually lead somewhere. We do not study Scripture merely to understand more, but to become more faithful in how we live.
 
 Consider what obedience looks like.
 
