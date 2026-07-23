@@ -8,9 +8,9 @@ I wanted a place to collect those lessons—not so they would replace Scripture,
 
 This guide is the result.
 
-It is a record of what I am learning as I seek to follow Christ. It is neither comprehensive nor complete, and it makes no claim to be. Instead, it is a companion that reminds me how to approach God's Word with humility, patience, attentiveness, and faith.
+It is a record of what I am learning as I study Scripture, pray, reflect, and seek to follow Christ. It is neither comprehensive nor complete, and it makes no claim to be. Instead, it is a companion that reminds me how to approach God's Word with humility, patience, attentiveness, and faith.
 
-My hope is that every page encourages one simple habit:
+My hope is that every page encourages one steady rhythm:
 
 Open your Bible.
 
