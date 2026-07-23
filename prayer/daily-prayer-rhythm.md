@@ -10,7 +10,9 @@ A daily prayer rhythm creates space to return to Him throughout the day:
 - Remembering Him throughout ordinary moments.
 - Ending the day with gratitude and trust.
 
-This rhythm is not a requirement to complete.
+This rhythm developed as I found myself needing simple reminders to return to God throughout ordinary days. Not because He is distant, but because I am often distracted.
+
+It is not a requirement to complete.
 
 It is a reminder of relationship.
 
@@ -82,7 +84,9 @@ It is in God's faithfulness.
 
 # The Four Words
 
-A simple prayer rhythm can be remembered through four words:
+When prayer was still unfamiliar to me, I often struggled to know where to begin. I did not always know what to say or how to express what was happening in my heart. These words became simple anchors that helped me return to God, especially during difficult mornings when I needed to remember that I was not walking alone.
+
+These words became a simple way for me to remember how to begin when I did not know what to say:
 
 ## Morning
 
@@ -142,7 +146,7 @@ God meets us there.
 
 The purpose is not perfect consistency.
 
-The purpose is continuing relationship.
+The purpose is returning to relationship.
 
 ---
 
