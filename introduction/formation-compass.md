@@ -1,4 +1,4 @@
-# The Formation Compass - How The Guide Works
+# The Formation Compass - The Rhythm Behind The Guide
 
 The Guide is shaped around a simple rhythm of formation:
 
@@ -11,6 +11,8 @@ It is not a measure of spiritual maturity.
 It is a rhythm of returning to God.
 
 The Formation Map helps us recognize how these practices work together as we learn to walk with Him.
+
+This rhythm emerged from the repeated practice of reading Scripture, praying, reflecting, remembering what God has done, and taking the next faithful step.
 
 ---
 
@@ -116,7 +118,7 @@ They are markers pointing back to God's faithfulness.
 
 # Walking
 
-## We Respond Through Faithfulness
+## Faith Becomes Practice
 
 Walking is the ongoing response to what God has revealed.
 
