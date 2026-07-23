@@ -118,6 +118,8 @@ What is one faithful step I can take?
 
 Spiritual growth is often formed through ordinary steps of obedience.
 
+Over time, these moments become reminders of God's faithfulness and the ways He has continued to shape us through His Word.
+
 ---
 
 # Framework Connection
@@ -168,7 +170,7 @@ Ask:
 
 What continues to echo?
 
-What truth is God bringing to my attention?
+What truth from this passage continues to remain with me?
 
 ---
 
