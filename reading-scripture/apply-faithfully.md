@@ -10,6 +10,8 @@ It is transformation.
 
 Not transformation produced by our own effort, but transformation as God works through His Word.
 
+This is something I have had to learn repeatedly. It is easy to measure growth by what I know, but Scripture continually brings me back to the question of how I am being shaped by what God has revealed.
+
 ## Understanding Leads to Response
 
 A faithful reading of Scripture should lead somewhere.
@@ -140,7 +142,7 @@ The lessons God teaches us become reminders of His continued presence and care.
 
 ## A Final Encouragement
 
-The purpose of Scripture is not simply to make us better informed.
+The purpose of reading Scripture is not simply to make us better informed.
 
 It is to make us more faithful.
 
