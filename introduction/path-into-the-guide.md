@@ -49,9 +49,9 @@ Throughout this walk, certain Scriptures have repeatedly shaped the way I think 
 
 These passages are not a replacement for Scripture as a whole.
 
-They are simply the Scriptures that God has used to shape the heart and language of The Guide.
+They are simply the Scriptures God has repeatedly brought me back to as He shaped the heart and language of The Guide.
 
-[the-scriptures-that-shaped-the-guide](../field-notes/the-scriptures-that-shaped-the-guide.md)
+[the-scriptures-that-shaped-the-guide](../field-notes/scripture-that-shaped-the-guide.md)
 
 ---
 
@@ -156,7 +156,7 @@ We walk with Him.
 
 You do not need to have everything figured out.
 
-You do not need to know every answer.
+You do not need to begin with perfect understanding.
 
 Begin with the next faithful step.
 
