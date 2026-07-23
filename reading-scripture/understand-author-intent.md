@@ -10,6 +10,8 @@ The goal of studying Scripture is not to make a passage say something new.
 
 The goal is to understand what God has communicated through His Word.
 
+This is a lesson I continue to practice. The more I study Scripture, the more I recognize how easy it is to bring my own questions and experiences to a passage before I have first listened carefully to what was written.
+
 ## Scripture Was Written to Real People
 
 The books of the Bible were written to actual audiences.
@@ -126,7 +128,7 @@ Then we respond faithfully.
 
 ## A Final Encouragement
 
-The Bible is not a book that needs to be reinvented for every generation.
+The Bible is not a book whose meaning changes with every generation.
 
 It is a book that needs to be faithfully understood by every generation.
 
