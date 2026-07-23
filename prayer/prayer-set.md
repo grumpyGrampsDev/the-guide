@@ -11,6 +11,8 @@ They are anchors:
 - Offer your heart.
 - Trust His work.
 
+These words became especially meaningful during a season when prayer was still new to me. I needed simple reminders that helped me turn toward God when I did not know where to begin.
+
 ---
 
 # One Sentence Anchor
@@ -123,7 +125,7 @@ Rest in what God has done.
 
 God provides the light.
 
-My calling is to walk faithfully in it.
+My response is to walk faithfully in it.
 
 ---
 
