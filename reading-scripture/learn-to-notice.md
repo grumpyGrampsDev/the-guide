@@ -8,7 +8,9 @@ Before asking what a passage means, we must first see what is actually there.
 
 Many misunderstandings of Scripture begin, not because the Bible is unclear, but because we hurry past details that deserve our attention.
 
-Learning to notice is one of the greatest habits a student of Scripture can develop.
+Learning to notice is one of the most valuable habits a student of Scripture can develop.
+
+This is a lesson I continue to learn myself. The more slowly I read, the more I notice how much was already present in the text before I ever brought my own ideas to it.
 
 ## Read What Is There
 
@@ -22,7 +24,7 @@ We recall favorite verses.
 
 We think we already know the story.
 
-Good observation gently sets those things aside and asks a simple question:
+Good observation learns to hold those things lightly and asks a simple question:
 
 **"What does this passage actually say?"**
 
@@ -147,9 +149,3 @@ Pay attention.
 Ask good questions.
 
 The Bible has more to show us than we often realize.
-
-Sometimes
-
-```
-
-```
