@@ -1,6 +1,6 @@
 # Journal Framework
 
-A journal is a place to record the ongoing conversation between God's Word and our response.
+A journal is a place to record our response to God's Word as He speaks through Scripture.
 
 This framework is not a formula to complete.
 
@@ -11,6 +11,8 @@ Each entry is an opportunity to slow down, listen carefully, reflect honestly, a
 The purpose is not to produce perfect entries.
 
 The purpose is to create space for God's Word to continue shaping us.
+
+This rhythm developed from the way I found myself naturally returning to Scripture: reading a passage, noticing what was there, seeking understanding, reflecting honestly, and remembering what God had shown me.
 
 ---
 
