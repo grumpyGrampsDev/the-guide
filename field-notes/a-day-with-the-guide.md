@@ -6,6 +6,8 @@ It is not a measure of spiritual maturity.
 
 It is a rhythm of returning.
 
+I slowly found that my days became less about trying to do everything right and more about returning to God again and again.
+
 The following is one example of how Scripture, prayer, reflection, remembrance, and walking may come together throughout an ordinary day.
 
 There is no formula here.
@@ -135,7 +137,7 @@ A lesson.
 
 A moment where God's faithfulness became clearer.
 
-These moments become Stones of Remembrance.
+Sometimes these moments become Stones of Remembrance.
 
 Not monuments to ourselves.
 
