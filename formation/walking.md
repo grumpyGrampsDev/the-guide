@@ -16,6 +16,8 @@ We walk according to the Spirit.
 
 Walking is the ongoing response to what God has revealed.
 
+This understanding of walking became important to me because I often wanted to see further ahead than God was asking me to see. I wanted the whole path. I wanted certainty. Over time, I learned that God often provides something different: enough light for the next faithful step. Learning to walk with Him means trusting Him with what I cannot yet see.
+
 ---
 
 ## Knowledge Is Meant to Become Life
@@ -60,7 +62,7 @@ God often forms His people through the faithful steps of everyday life.
 
 We are not always shown the entire path ahead.
 
-Sometimes God gives enough light for only the next step.
+Often, God gives enough light for only the next step.
 
 That does not mean He has abandoned us.
 
@@ -138,6 +140,20 @@ Walking together reminds us that we belong to something larger than ourselves.
 
 ## A Final Encouragement
 
+Walking is not the beginning of the journey.
+
+It is the continued response to everything that came before.
+
+Scripture gives the light.
+
+Prayer keeps us dependent.
+
+Reflection helps us listen.
+
+Remembrance reminds us of God's faithfulness.
+
+Walking is where we continue forward with Him.
+
 Keep walking.
 
 Some steps will feel easy.
@@ -151,3 +167,9 @@ But the God who called you to walk with Him is faithful.
 Take the next step.
 
 Trust Him with the path.
+
+Lamp to my feet.
+
+Left foot.
+
+Right foot.
