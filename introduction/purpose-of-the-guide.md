@@ -48,7 +48,7 @@ Continue with [The Heart of the Guide](./heart-of-the-guide.md) to understand th
 
 - [Formation Compass](./formation-compass.md)
 - [Path Into the Guide](./path-into-the-guide.md)
-- [Project Philosophy](./PHILOSOPHY.md)
+- [Project Philosophy](./philosophy.md)
 
 ## Put It Into Practice
 

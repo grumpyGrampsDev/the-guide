@@ -187,7 +187,7 @@ Continue with [Purpose of the Guide](../introduction/purpose-of-the-guide.md) to
 
 ## Related Reading
 
-- [Project Philosophy](../introduction/PHILOSOPHY.md)
+- [Project Philosophy](../introduction/philosophy.md)
 - [Resources That Shaped the Journey](./resources-that-shaped-the-journey.md)
 
 ## Put It Into Practice

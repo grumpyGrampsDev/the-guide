@@ -23,7 +23,7 @@ This release transforms The Guide from a collection of connected resources into 
   - Stones of Remembrance
   - Walking
 - Added connections between foundational resources and the broader Guide:
-  - Linked `PHILOSOPHY.md` from relevant entry points.
+  - Linked `philosophy.md` from relevant entry points.
   - Connected the Biblical Reading Plan with the practices taught throughout The Guide.
   - Added pathways from Field Notes back into the broader journey.
 - Added navigation throughout the Biblical Reading Plans to help readers engage Scripture alongside the practices found throughout The Guide.
