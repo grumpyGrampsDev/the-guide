@@ -22,6 +22,8 @@ Scripture remains the foundation and authority.
 
 These are the resources, practices, communities, and rhythms that have helped shape my own walk with God and my approach to reading, studying, praying, and being formed by His Word.
 
+I didn't gather these all at once. Over time, God used different tools at different seasons to deepen my understanding of His Word.
+
 Each layer serves a distinct purpose.
 
 Together, they have helped me move from simply reading Scripture toward being formed by it.
@@ -158,7 +160,7 @@ This is where Scripture moves beyond the page into:
 - Worship.
 - Love.
 
-Formation is complete only when truth bears fruit.
+Formation bears fruit as truth is lived.
 
 ---
 
@@ -239,6 +241,8 @@ This work has contributed to reflection on recognizing God's presence, cultivati
 ---
 
 # My Formation Process
+
+Looking back, this is the rhythm that gradually emerged in my own study.
 
 1. Observation (NASB)
 2. Personal Synthesis (Bullet Journal)
