@@ -1,8 +1,6 @@
 # Purpose of Walking
 
-The Christian life is not only about knowing God's truth.
-
-It is about living in response to it.
+For a long time, I thought growing in knowledge was the goal. Over time, I began to see that Scripture consistently points beyond knowing toward walking.
 
 Throughout Scripture, followers of God are described as people who walk.
 
@@ -34,7 +32,7 @@ Remembrance reminds us of His faithfulness.
 
 Walking is the response:
 
-"Because God has revealed Himself, how should I faithfully respond?"
+"Because God has revealed Himself, how should I respond?"
 
 ---
 
