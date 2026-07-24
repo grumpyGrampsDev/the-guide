@@ -344,7 +344,7 @@ Right foot.
 
 ## Recommended Next Step
 
-Continue with [Project Philosophy](../PHILOSOPHY.md) to explore the principles and convictions that shaped the creation of _The Guide_.
+Continue with [Project Philosophy](../introduction/PHILOSOPHY.md) to explore the principles and convictions that shaped the creation of _The Guide_.
 
 ## Related Reading
 

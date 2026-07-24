@@ -152,8 +152,8 @@ Continue with [Purpose of the Guide](introduction/purpose-of-the-guide.md) to be
 
 ## Related Reading
 
-- [Heart of the Guide](introduction/heart-of-the-guide.md)
-- [Formation Compass](introduction/formation-compass.md)
+- [Heart of the Guide](./heart-of-the-guide.md)
+- [Formation Compass](./formation-compass.md)
 
 ## Put It Into Practice
 

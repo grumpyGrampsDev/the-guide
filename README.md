@@ -26,7 +26,7 @@ This repository grows alongside my own walk with Christ. As I continue to learn,
 
 The Guide is designed to accompany your time in Scripture by encouraging a slower, more thoughtful rhythm of reading, prayer, reflection, remembrance, and faithful walking.
 
-If you're interested in the educational philosophy and guiding principles behind this project, you may enjoy reading the [Project Philosophy](PHILOSOPHY.md).
+If you're interested in the educational philosophy and guiding principles behind this project, you may enjoy reading the [Project Philosophy](introduction/PHILOSOPHY.md).
 
 When you're ready to begin reading Scripture, the [Biblical Reading Plan](biblical-books/README.md) provides one possible path through the Bible while making use of the practices found throughout The Guide.
 
