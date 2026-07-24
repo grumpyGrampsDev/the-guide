@@ -10,7 +10,9 @@ But because we are often quick to forget.
 
 Remembrance is the practice of looking back and recognizing the ways God has been faithful.
 
-It strengthens our trust for the steps ahead.
+It strengthens our trust for the next faithful step.
+
+This practice became important to me because I realized how quickly meaningful moments could fade. A truth God used to encourage me, a prayer He answered, or a lesson learned during a difficult season could feel clear in the moment and become harder to remember later. Writing those things down helped me recognize patterns of God's faithfulness that I might otherwise have overlooked.
 
 ---
 
@@ -54,15 +56,15 @@ Every season of growth.
 
 Every unexpected provision.
 
-Every step forward.
+Every step His lamp illuminated.
 
 These are reminders of God's grace.
 
 ---
 
-## Create Stones of Remembrance
+## Preserve Stones of Remembrance
 
-Throughout life, God gives us moments we do not want to forget.
+Throughout life, God gives us moments of faithfulness we do not want to forget.
 
 A passage that changed how we see Him.
 
