@@ -4,11 +4,13 @@ Walking with God often means learning to move forward with the light He has prov
 
 We naturally want to see the entire path.
 
-We want to know where every decision will lead.
+We want to know where every decision will lead before we take the first step.
 
 We want certainty before we move.
 
-But throughout Scripture, God often calls His people to trust Him one step at a time.
+Over time, I began to realize that God was inviting me to trust him differently.
+
+Throughout Scripture, God often calls His people to trust Him one step at a time.
 
 The faithful question is not always:
 
