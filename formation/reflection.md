@@ -10,6 +10,8 @@ It is a quiet practice of returning to what God has revealed and asking:
 
 "What is He teaching me?"
 
+Reflection and journaling became important to me because I realized that simply reading Scripture was not the same as allowing it to remain with me. I would encounter something meaningful, then quickly move on with the rest of my day. Slowing down helped me notice what God was bringing to my attention and remember what He was teaching me.
+
 ---
 
 ## Reflection Is Not Self-Focus
@@ -54,7 +56,7 @@ Some truths take root slowly.
 
 Reflection does not require complicated methods.
 
-Simple questions can create meaningful conversations with God.
+Simple questions can create space to continue listening to God through His Word.
 
 Consider asking:
 
@@ -94,7 +96,7 @@ The goal is not to create perfect records.
 
 The goal is to create reminders of what God has been teaching.
 
-Written reflections become markers along the journey.
+Written reflections become markers along the journey, helping us remember what God has shown us when future seasons make those truths easy to forget.
 
 ---
 
