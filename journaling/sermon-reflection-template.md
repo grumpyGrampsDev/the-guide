@@ -212,3 +212,18 @@ Ask for help in living faithfully.
 Surrender what needs to be surrendered.
 
 Pray that His Word would continue its work in you.
+
+---
+
+## Recommended Next Step
+
+Continue with the [Sermon Reflection Example](./examples/sermon-reflection-example.md) to see how this template can help you engage more thoughtfully with the preaching of God's Word.
+
+## Related Reading
+
+- [Journal Framework](./journal-framework.md)
+- [Scripture Reflection Template](./scripture-reflection-template.md)
+
+## Put It Into Practice
+
+Use this template during your next sermon. Rather than trying to record every detail, focus on the truths that most clearly reveal God's character, challenge your thinking, or call you toward faithful obedience.

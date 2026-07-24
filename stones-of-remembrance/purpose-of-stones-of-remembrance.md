@@ -157,3 +157,18 @@ When they do, remember them.
 Not because God needs to be reminded of His faithfulness.
 
 Because we do.
+
+---
+
+## Recommended Next Step
+
+Continue with [Recognizing a Stone](./recognizing-a-stone.md) to learn how moments of God's faithfulness gradually become landmarks along the journey of faith.
+
+## Related Reading
+
+- [Formation: Remembrance](../formation/remembrance.md)
+- [Journal Framework](../journaling/journal-framework.md)
+
+## Put It Into Practice
+
+Think of one moment in your walk with Christ that continues to encourage your faith. It doesn't need to be dramatic. If it still reminds you of God's faithfulness today, it may already be one of your stones of remembrance.

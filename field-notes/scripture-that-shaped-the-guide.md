@@ -179,18 +179,17 @@ It is the patient work God has done through these passages over time.
 
 ---
 
-## See Also
+---
 
-Continue exploring:
+## Recommended Next Step
 
-- **[Resources That Shaped The Journey](./the-resources-that-shaped-the-journey.md)**  
-  The tools, books, communities, and practices that have helped shape this walk.
+Continue with [Purpose of the Guide](../introduction/purpose-of-the-guide.md) to begin exploring the journey that these Scriptures helped shape.
 
-- **[Formation Map](../formation/map.md)**  
-  The rhythm of formation that connects Scripture, Prayer, Reflection, Remembrance, and Walking.
+## Related Reading
 
-- **[Walking in the Light](../walking/walking-in-the-light.md)**  
-  Learning to take the next faithful step with the light God provides.
+- [Project Philosophy](../PHILOSOPHY.md)
+- [Resources That Shaped the Journey](./resources-that-shaped-the-journey.md)
 
-- **[Heart of The Guide](../introduction/heart-of-the-guide.md)**  
-  The posture and purpose behind this project.
+## Put It Into Practice
+
+Return to your own journal and consider which passages have shaped your walk with Christ. Record them, revisit them, and allow them to become reminders of God's faithfulness throughout your journey.

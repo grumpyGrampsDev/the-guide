@@ -135,3 +135,18 @@ Bring them to trusted believers.
 Then keep reading.
 
 God often answers sincere questions through the steady, faithful study of His Word.
+
+---
+
+## Recommended Next Step
+
+Continue with [Understand Author Intent](./understand-author-intent.md) to learn how thoughtful questions help uncover what the biblical author intended to communicate.
+
+## Related Reading
+
+- [Learn to Notice](./learn-to-notice.md)
+- [Interpret Faithfully](./interpret-faithfully.md)
+
+## Put It Into Practice
+
+Return to the observations you've already made and write down three to five questions about the passage. Focus on questions the text itself raises, resisting the temptation to jump ahead to conclusions before you've carefully explored what the passage is saying.

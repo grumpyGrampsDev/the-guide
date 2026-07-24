@@ -22,7 +22,17 @@ This repository grows alongside my own walk with Christ. As I continue to learn,
 
 ---
 
-## Begin Here
+## About This Guide
+
+The Guide is designed to accompany your time in Scripture by encouraging a slower, more thoughtful rhythm of reading, prayer, reflection, remembrance, and faithful walking.
+
+If you're interested in the educational philosophy and guiding principles behind this project, you may enjoy reading the [Project Philosophy](PHILOSOPHY.md).
+
+When you're ready to begin reading Scripture, the [Biblical Reading Plan](biblical-books/README.md) provides one possible path through the Bible while making use of the practices found throughout The Guide.
+
+---
+
+## Where Should I Begin?
 
 The Guide begins with the same invitation that continues to shape it:
 
@@ -32,9 +42,23 @@ The path begins with Scripture, then follows a rhythm of:
 
 **Scripture → Prayer → Reflection → Remembrance → Walking**
 
-If you are new to The Guide, begin here:
+If this is your first visit to _The Guide_, the recommended path is:
 
-[Path Into The Guide](introduction/path-into-the-guide.md)
+1. [Purpose of the Guide](introduction/purpose-of-the-guide.md)
+2. [The Heart of the Guide](introduction/heart-of-the-guide.md)
+3. [Formation Compass](introduction/formation-compass.md)
+4. [Path Into the Guide](introduction/path-into-the-guide.md)
+
+From there, continue into:
+
+- Reading Scripture
+- Journaling
+- Prayer
+- Formation
+- Stones of Remembrance
+- Walking
+
+This path reflects the journey through the Guide, but it is not the only way to explore it. Feel free to wander, return, and revisit whatever is most helpful in your current season.
 
 ---
 
@@ -80,6 +104,24 @@ My hope is simply to share what God has taught me through Scripture in a way tha
 If this guide ever disagrees with Scripture, Scripture is right.
 
 Always.
+
+---
+
+## Field Notes
+
+The practices described throughout The Guide are not merely theoretical.
+
+The Field Notes contain real examples, reflections, and observations from the journey that shaped this project. They are offered not as models to imitate, but as testimony to God's ongoing faithfulness.
+
+- [Field Notes](field-notes/)
+
+---
+
+## One More Thing
+
+The Guide exists to encourage a slower, more thoughtful engagement with God's Word through reading, prayer, reflection, remembrance, and faithful walking.
+
+If this guide helps you close this repository, open your Bible, and take one more faithful step with Christ, then it has fulfilled its purpose.
 
 ---
 

@@ -346,3 +346,18 @@ Focus first on:
 - Perseverance
 - Judgment
 - Hope
+
+---
+
+## Recommended Next Step
+
+Continue with [Part 2](./bible-reading-plan-p2.md) when you're ready to continue through the reading plan.
+
+## Related Reading
+
+- [Journal Framework](../journaling/journal-framework.md)
+- [Daily Prayer Rhythm](../prayer/daily-prayer-rhythm.md)
+
+## Put It Into Practice
+
+As you work through this reading plan, don't feel pressured to keep pace with the schedule. Read attentively, pray honestly, and allow God's Word to shape your heart more than your progress through the plan.

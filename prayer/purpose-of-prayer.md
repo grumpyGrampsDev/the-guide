@@ -164,3 +164,18 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Recommended Next Step
+
+Continue with [Praying Honestly](./praying-honestly.md) to explore the posture of bringing your whole heart before God with sincerity and trust.
+
+## Related Reading
+
+- [Daily Prayer Rhythm](./daily-prayer-rhythm.md)
+- [Prayer Set](./prayer-set.md)
+
+## Put It Into Practice
+
+Before your next time in prayer, spend a few moments reflecting on what you've recently encountered in Scripture. Let your prayer become a response to God's Word rather than simply a list of requests.

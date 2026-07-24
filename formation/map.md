@@ -183,3 +183,19 @@ Continue learning.
 Continue walking.
 
 God is faithful to continue the work He has begun.
+
+---
+
+## Recommended Next Step
+
+Continue with [Purpose of Stones of Remembrance](../stones-of-remembrance/purpose-of-stones-of-remembrance.md) to explore one practical way of preserving the moments that continue shaping your walk with Christ.
+
+## Related Reading
+
+- [Formation Compass](../introduction/formation-compass.md)
+- [Walking](./walking.md)
+- [Scripture That Shaped The Guide](../field-notes/scripture-that-shaped-the-guide.md)
+
+## Put It Into Practice
+
+Take a moment to reflect on your journey through the practices in this guide. Which rhythms have become more natural? Which ones invite further growth? Remember that spiritual formation is not measured by perfection, but by a growing faithfulness over time.

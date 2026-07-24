@@ -154,3 +154,19 @@ Remember them.
 Return to them.
 
 Give thanks for the God who was faithful there and remains faithful now.
+
+---
+
+## Recommended Next Step
+
+Continue with [Prayer and Season](./examples/prayer-and-season.md), the first example in this collection, to see how an ordinary season of life can become a lasting reminder of God's faithfulness.
+
+## Related Reading
+
+- [Recognizing a Stone](./recognizing-a-stone.md)
+- [Purpose of Walking](../walking/purpose-of-walking.md)
+- [Hebrews 6 Reflection Example](../field-notes/hebrews-6-reflection-example.md)
+
+## Put It Into Practice
+
+Choose one stone of remembrance and revisit it this week. Read the Scripture connected to it, remember what God was teaching you during that season, and thank Him for His faithfulness both then and now.

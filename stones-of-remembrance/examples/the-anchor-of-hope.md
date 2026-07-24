@@ -88,3 +88,31 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Recommended Next Step
+
+Continue with [The Poison of Envy](./the-poison-of-envy.md).
+
+## Related Reading
+
+- [Recognizing a Stone](../recognizing-a-stone.md)
+
+## Put It Into Practice
+
+As you read this example, pay attention to the truth that endured beyond the moment itself. Ask God to deepen that same kind of enduring hope in your own life.
+
+---
+
+## Recommended Next Step
+
+Continue with [Transformation](./transformation.md).
+
+## Related Reading
+
+- [Stones in Practice](../stones-in-practice.md)
+
+## Put It Into Practice
+
+Ask yourself whether God has gently revealed any attitudes or desires that He has been reshaping over time. Give thanks not only for conviction, but also for His patient work of transformation.

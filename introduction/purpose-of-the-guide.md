@@ -37,3 +37,19 @@ Spiritual formation is not a finished project, and neither is this guide.
 My prayer is that, whether this guide serves only me or also proves helpful to others, it will always accomplish one thing:
 
 To help us open God's Word with humble hearts, attentive minds, and a growing desire to know Him more.
+
+---
+
+## Recommended Next Step
+
+Continue with [The Heart of the Guide](./heart-of-the-guide.md) to understand the posture that shapes every practice found throughout this project.
+
+## Related Reading
+
+- [Formation Compass](./formation-compass.md)
+- [Path Into the Guide](./path-into-the-guide.md)
+- [Project Philosophy](../PHILOSOPHY.md)
+
+## Put It Into Practice
+
+Before continuing, take a moment to consider why you opened this guide in the first place. What are you hoping God will cultivate in you through His Word?

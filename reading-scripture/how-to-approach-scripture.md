@@ -147,3 +147,18 @@ Some days these postures will come naturally. Other days it will be something we
 Then begin reading.
 
 God has already spoken.
+
+---
+
+## Recommended Next Step
+
+Continue with [Read Slowly](./read-slowly.md), where you'll begin developing the habit of giving Scripture the time and attention it deserves.
+
+## Related Reading
+
+- [Learn to Notice](./learn-to-notice.md)
+- [Ask Good Questions](./ask-good-questions.md)
+
+## Put It Into Practice
+
+Before beginning your next time in Scripture, pause and pray. Ask God to give you humility, wisdom, and eyes to see what He has revealed in His Word. Then read a short passage without any goal other than listening carefully.

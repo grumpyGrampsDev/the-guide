@@ -247,3 +247,18 @@ Thank Him for His people.
 Ask for wisdom, humility, and obedience.
 
 Pray that what was learned would become part of how you live.
+
+---
+
+## Recommended Next Step
+
+Continue with the [Bible Study Reflection Example](./examples/bible-study-reflection.md) to see how this template might be used during a personal study.
+
+## Related Reading
+
+- [Journal Framework](./journal-framework.md)
+- [Scripture Reflection Template](./scripture-reflection-template.md)
+
+## Put It Into Practice
+
+Use this template with your next Bible study. Focus on writing honestly rather than exhaustively. Over time, you'll begin to recognize patterns in what God is teaching and how He is shaping your heart.

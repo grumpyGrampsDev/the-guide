@@ -139,3 +139,18 @@ Study it carefully.
 Trust that God has spoken.
 
 Then live in response to what He has said.
+
+---
+
+## Recommended Next Step
+
+Continue with [Interpret Faithfully](./interpret-faithfully.md) to explore how understanding the author's intent provides the foundation for faithful interpretation.
+
+## Related Reading
+
+- [Ask Good Questions](./ask-good-questions.md)
+- [Apply Faithfully](./apply-faithfully.md)
+
+## Put It Into Practice
+
+Before considering what a passage means for your own life, summarize what you believe the biblical author was communicating to the original audience. Let the text speak in its own context before bringing it into yours.

@@ -173,3 +173,18 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Recommended Next Step
+
+Continue with [Formation Map](./map.md) to step back and see how these practices work together as a unified journey of spiritual formation.
+
+## Related Reading
+
+- [Remembrance](./remembrance.md)
+- [Purpose of Walking](../walking/purpose-of-walking.md)
+
+## Put It Into Practice
+
+Choose one truth God has been impressing on your heart and take one intentional step of obedience today. Formation becomes visible not only in what we understand, but in how we walk.

@@ -6,6 +6,48 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
+## [0.5.0] — Guided Journey
+
+This release transforms The Guide from a collection of connected resources into a guided journey through Scripture, reflection, prayer, remembrance, and faithful walking.
+
+### Added
+
+- Added guided navigation throughout The Guide with recommended next steps, related reading, and practical engagement sections.
+- Added consistent document footers across the repository to help readers continue their journey while preserving the freedom to explore.
+- Added intentional pathways between major sections:
+  - Introduction
+  - Reading Scripture
+  - Journaling
+  - Prayer
+  - Formation
+  - Stones of Remembrance
+  - Walking
+- Added connections between foundational resources and the broader Guide:
+  - Linked `PHILOSOPHY.md` from relevant entry points.
+  - Connected the Biblical Reading Plan with the practices taught throughout The Guide.
+  - Added pathways from Field Notes back into the broader journey.
+- Added navigation throughout the Biblical Reading Plans to help readers engage Scripture alongside the practices found throughout The Guide.
+- Added navigation throughout Field Notes to help readers move from examples and reflections back into the broader journey.
+
+### Improved
+
+- Improved repository usability for readers unfamiliar with navigating GitHub.
+- Refined the relationship between documents so resources no longer function as isolated pages.
+- Established clear pathways while maintaining the ability for readers to wander, revisit, and explore according to their current season.
+- Improved discoverability of supporting resources, including:
+  - Project Philosophy
+  - Biblical Reading Plan
+  - Field Notes
+- Strengthened the connection between learning, practice, reflection, and continued growth throughout the repository.
+
+### Philosophy
+
+The purpose of navigation within The Guide is not simply to move readers from one document to another. It is to accompany them through a process of receiving Scripture, reflecting on God's work, remembering His faithfulness, and taking the next faithful step.
+
+The Guide offers a path, but not a requirement. Readers are invited to follow the journey, wander when needed, return often, and allow Scripture to remain the foundation of their growth.
+
+---
+
 ## [0.4.0]
 
 ### Added

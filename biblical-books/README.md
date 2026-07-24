@@ -157,3 +157,15 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Before You Begin
+
+The reading plan is designed to be used alongside the practices found throughout _The Guide_. If you're new to the project, consider becoming familiar with these resources before you begin:
+
+- [Purpose of the Guide](../introduction/purpose-of-the-guide.md)
+- [How to Approach Scripture](../reading-scripture/how-to-approach-scripture.md)
+- [Journal Framework](../journaling/journal-framework.md)
+
+These documents introduce the posture and practices that accompany this reading plan, helping you move beyond simply finishing passages toward faithfully engaging with God's Word.

@@ -87,3 +87,17 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Recommended Next Step
+
+Continue with [Transformation](./transformation.md).
+
+## Related Reading
+
+- [Stones in Practice](../stones-in-practice.md)
+
+## Put It Into Practice
+
+Ask yourself whether God has gently revealed any attitudes or desires that He has been reshaping over time. Give thanks not only for conviction, but also for His patient work of transformation.

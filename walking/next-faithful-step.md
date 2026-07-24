@@ -133,3 +133,20 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Recommended Next Step
+
+Return to the [Biblical Reading Plan](../biblical-books/README.md) whenever you're ready to continue exploring God's Word. Every return to Scripture is another opportunity to listen, respond, and take one more faithful step.
+
+## Related Reading
+
+- [Walking in the Light](./walking-in-the-light.md)
+- [A Day with The Guide](../field-notes/a-day-with-the-guide.md)
+
+## Put It Into Practice
+
+The Guide ends here, but your walk with Christ does not.
+
+Return often to God's Word. Pray honestly. Reflect thoughtfully. Remember His faithfulness. Then take the next faithful step, trusting that God is able to accomplish His work in you one day at a time.

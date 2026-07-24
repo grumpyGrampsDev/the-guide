@@ -339,3 +339,18 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Recommended Next Step
+
+Continue with [Project Philosophy](../PHILOSOPHY.md) to explore the principles and convictions that shaped the creation of _The Guide_.
+
+## Related Reading
+
+- [Heart of the Guide](../introduction/heart-of-the-guide.md)
+- [Scripture That Shaped The Guide](./scripture-that-shaped-the-guide.md)
+
+## Put It Into Practice
+
+As you explore resources that influence your own journey, practice discernment. Receive wisdom from others while continuing to test everything against Scripture and the character of God revealed through it.

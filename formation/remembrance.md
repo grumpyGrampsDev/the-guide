@@ -139,3 +139,18 @@ Give thanks.
 The moments we preserve are not monuments to ourselves.
 
 They are reminders of the faithfulness of God.
+
+---
+
+## Recommended Next Step
+
+Continue with [Walking](./walking.md) to see how remembering God's faithfulness strengthens us to follow Him in the present.
+
+## Related Reading
+
+- [Reflection](./reflection.md)
+- [Purpose of Stones of Remembrance](../stones-of-remembrance/purpose-of-stones-of-remembrance.md)
+
+## Put It Into Practice
+
+Think back over the past few months and identify one moment where God's faithfulness has become clearer with time. Write it down, revisit it in prayer, and thank Him for continuing to shape your life through that experience.

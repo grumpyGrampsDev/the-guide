@@ -234,3 +234,20 @@ Continue listening.
 Continue walking.
 
 God is faithful.
+
+---
+
+## Recommended Next Step
+
+Continue with the [Bible Study Reflection Template](./bible-study-reflection-template.md) to see how this framework can be put into practice during your personal study.
+
+## Related Reading
+
+- [Purpose of Journaling](./purpose-of-journaling.md)
+- [Scripture Reflection Template](./scripture-reflection-template.md)
+- [Sermon Reflection Template](./sermon-reflection-template.md)
+- [A Day with The Guide](../field-notes/a-day-with-the-guide.md)
+
+## Put It Into Practice
+
+Use this framework during your next time in Scripture. Don't feel pressured to complete every section perfectly. Let the framework serve your time in God's Word, not become another task to accomplish.

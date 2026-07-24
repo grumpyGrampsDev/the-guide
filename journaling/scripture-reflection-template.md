@@ -215,3 +215,18 @@ Pray the truth of Scripture back to Him.
 The goal is not a perfect journal entry.
 
 The goal is a faithful response to the God who has spoken.
+
+---
+
+## Recommended Next Step
+
+Continue with the [Scripture Reflection Example](./examples/scripture-reflection-example.md) to see how a brief reflection can faithfully capture what God is teaching through a single passage.
+
+## Related Reading
+
+- [Journal Framework](./journal-framework.md)
+- [Bible Study Reflection Template](./bible-study-reflection-template.md)
+
+## Put It Into Practice
+
+The next time a verse or short passage particularly stands out to you, use this template while the moment is still fresh. Keep your reflection centered on what the passage reveals about God before considering your own response.

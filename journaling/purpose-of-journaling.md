@@ -157,3 +157,18 @@ Record because God's faithfulness is worth preserving.
 Your journal is not a record of your own accomplishments.
 
 It is a collection of reminders pointing back to the God who is faithful.
+
+---
+
+## Recommended Next Step
+
+Continue with the [Journal Framework](./journal-framework.md) to establish a simple rhythm for recording what God is teaching you through Scripture.
+
+## Related Reading
+
+- [Bible Study Reflection Template](./bible-study-reflection-template.md)
+- [Scripture Reflection Template](./scripture-reflection-template.md)
+
+## Put It Into Practice
+
+After your next time in Scripture, write down what stood out to you, any questions you still have, and one way you sense God calling you to respond. Don't worry about writing something profound—focus on writing honestly.

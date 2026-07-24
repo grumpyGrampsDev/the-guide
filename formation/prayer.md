@@ -199,3 +199,18 @@ The same God who invites us into prayer is the God who meets us there.
 He is not waiting for an impressive prayer.
 
 He invites His children to draw near.
+
+---
+
+## Recommended Next Step
+
+Continue with [Reflection](./reflection.md) to explore how taking time to thoughtfully consider God's work deepens spiritual formation.
+
+## Related Reading
+
+- [Purpose of Prayer](../prayer/purpose-of-prayer.md)
+- [Daily Prayer Rhythm](../prayer/daily-prayer-rhythm.md)
+
+## Put It Into Practice
+
+As you pray this week, pay attention not only to what you say to God, but also to how regular prayer is shaping your desires, your perspective, and your trust in Him.

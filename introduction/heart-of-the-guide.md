@@ -53,3 +53,22 @@ Whether you have walked with Christ for decades or are opening the Bible for the
 Welcome.
 
 Let's open God's Word together with humble hearts, attentive minds, and an expectation that He is faithful to accomplish His purposes through it.
+
+---
+
+## Recommended Next Step
+
+Continue with [Formation Compass](./formation-compass.md) to see how the practices throughout this guide fit together into a unified journey of spiritual formation.
+
+## Related Reading
+
+- [Purpose of the Guide](./purpose-of-the-guide.md)
+- [Path Into the Guide](./path-into-the-guide.md)
+
+## Put It Into Practice
+
+As you finish this chapter, ask yourself:
+
+> _What kind of person am I becoming as I read Scripture?_
+
+Resist the urge to focus only on what you know. Instead, consider what God may be shaping in your heart.

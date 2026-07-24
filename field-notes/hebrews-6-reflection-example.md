@@ -154,3 +154,18 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Recommended Next Step
+
+Continue with [Scripture Reflection Template](../journaling/scripture-reflection-template.md) to explore how your own encounters with Scripture can become moments of reflection and remembrance.
+
+## Related Reading
+
+- [Stones in Practice](../stones-of-remembrance/stones-in-practice.md)
+- [Recognizing a Stone](../stones-of-remembrance/recognizing-a-stone.md)
+
+## Put It Into Practice
+
+Choose a passage of Scripture that has remained with you over time. Write down what God has revealed through it, why it matters to you, and how it continues to shape the way you walk with Him.

@@ -189,3 +189,18 @@ When they do, preserve them.
 Not as monuments to yourself.
 
 But as reminders of God's faithfulness.
+
+---
+
+## Recommended Next Step
+
+Continue with [Stones in Practice](./stones-in-practice.md) to explore practical ways of preserving and revisiting these reminders of God's faithfulness.
+
+## Related Reading
+
+- [Purpose of Stones of Remembrance](./purpose-of-stones-of-remembrance.md)
+- [Formation: Remembrance](../formation/remembrance.md)
+
+## Put It Into Practice
+
+As you review old journal entries or reflect on your walk with Christ, notice which moments continue returning to your mind over time. Those recurring moments often become the landmarks God uses to strengthen your faith.

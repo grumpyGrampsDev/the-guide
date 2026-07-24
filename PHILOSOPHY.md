@@ -143,3 +143,18 @@ Its purpose is to remain faithful.
 > And a light to my path."
 >
 > — Psalm 119:105 (NASB 1995)
+
+---
+
+## Recommended Next Step
+
+Continue with [Purpose of the Guide](introduction/purpose-of-the-guide.md) to begin the journey through _The Guide_ from the beginning.
+
+## Related Reading
+
+- [Heart of the Guide](introduction/heart-of-the-guide.md)
+- [Formation Compass](introduction/formation-compass.md)
+
+## Put It Into Practice
+
+As you read through _The Guide_, pay attention not only to what each document teaches, but also to how the journey itself is designed. Allow the practices to shape your engagement with Scripture at a pace that encourages attentiveness, reflection, and faithful obedience.

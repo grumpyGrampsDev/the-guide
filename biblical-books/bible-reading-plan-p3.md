@@ -279,3 +279,18 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Recommended Next Step
+
+Return to the beginning of the [Biblical Reading Plan](./README.md) whenever you're ready to begin another journey through God's Word, or revisit any section of _The Guide_ that would encourage your current season.
+
+## Related Reading
+
+- [Next Faithful Step](../walking/next-faithful-step.md)
+- [A Day with The Guide](../field-notes/a-day-with-the-guide.md)
+
+## Put It Into Practice
+
+Take time to reflect on the journey you've completed. Give thanks for what God has revealed through His Word, remember the ways He has been faithful, and ask Him to guide your next faithful step as you continue walking with Christ.

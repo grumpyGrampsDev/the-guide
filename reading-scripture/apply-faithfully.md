@@ -155,3 +155,18 @@ Respond obediently.
 Trust God with the growth.
 
 His Word is faithful.
+
+---
+
+## Recommended Next Step
+
+Continue with [Purpose of Journaling](../journaling/purpose-of-journaling.md) to learn how recording what God is teaching you can deepen reflection, encourage remembrance, and support faithful growth over time.
+
+## Related Reading
+
+- [Interpret Faithfully](./interpret-faithfully.md)
+- [How to Approach Scripture](./how-to-approach-scripture.md)
+
+## Put It Into Practice
+
+Identify one specific way this passage calls you to respond today. Keep your response simple, concrete, and attainable. Then, if possible, write it down and return to it later to reflect on how God used your faithfulness.

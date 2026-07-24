@@ -191,3 +191,18 @@ Lamp to my feet.
 Left foot.
 
 Right foot.
+
+---
+
+## Recommended Next Step
+
+Continue with [Next Faithful Step](./next-faithful-step.md) to discover how small acts of daily obedience become the ordinary rhythm of a life shaped by Christ.
+
+## Related Reading
+
+- [Purpose of Walking](./purpose-of-walking.md)
+- [Formation: Walking](../formation/walking.md)
+
+## Put It Into Practice
+
+Think about one area where you already know the faithful thing to do. Instead of waiting for perfect circumstances or complete certainty, take that step today and entrust the outcome to God.

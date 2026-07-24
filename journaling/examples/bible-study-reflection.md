@@ -173,3 +173,18 @@ It is a truth worth carrying forward.
 God does not merely call His people to live differently.
 
 Through His grace, He transforms hearts so that different living becomes possible.
+
+---
+
+## Recommended Next Step
+
+Continue with the [Scripture Reflection Template](../scripture-reflection-template.md) to explore a simpler format for capturing insights from shorter passages or daily reading.
+
+## Related Reading
+
+- [Bible Study Reflection Template](../bible-study-reflection-template.md)
+- [Journal Framework](../journal-framework.md)
+
+## Put It Into Practice
+
+As you compare this example with your own journal, don't measure yourself against it. Instead, ask whether your reflections are honest, rooted in Scripture, and leading you toward faithful obedience.
