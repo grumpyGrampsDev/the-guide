@@ -24,9 +24,23 @@ This repository grows alongside my own walk with Christ. As I continue to learn,
 
 ## About This Guide
 
-The Guide is designed to accompany your time in Scripture by encouraging a slower, more thoughtful rhythm of reading, prayer, reflection, remembrance, and faithful walking.
+The Guide is not a commentary, a study Bible, or a replacement for personal study.
 
-If you're interested in the educational philosophy and guiding principles behind this project, you may enjoy reading the [Project Philosophy](introduction/PHILOSOPHY.md).
+It is a companion for the journey of reading Scripture—a place to collect principles, practices, reflections, and questions that encourage careful engagement with God's Word.
+
+The Guide was built around a simple rhythm:
+
+**Receive → Understand → Respond**
+
+Receive what Scripture says.
+Understand what God has communicated.
+Respond faithfully to what He has revealed.
+
+Over time, this rhythm developed into the broader formation pattern:
+
+**Scripture → Prayer → Reflection → Remembrance → Walking**
+
+These practices are not a formula for spiritual growth. They are reminders of the ways God has used His Word to shape my own walk with Him.
 
 When you're ready to begin reading Scripture, the [Biblical Reading Plan](biblical-books/README.md) provides one possible path through the Bible while making use of the practices found throughout The Guide.
 
@@ -95,15 +109,27 @@ My hope is simply to share what God has taught me through Scripture in a way tha
     prayer/                   Responding to God through honest prayer.
     stones-of-remembrance/    Remembering God's faithfulness.
     walking/                  Living in response to God's Word.
-    field-notes/              Supplemental material and reference resources.
+    field-notes/              Reflections, examples, and observations from the journey.
 
 ---
 
 ## Philosophy
 
+The Guide is built on a simple conviction:
+
 If this guide ever disagrees with Scripture, Scripture is right.
 
 Always.
+
+Read more about the principles behind this project in [Guide Philosophy](introduction/PHILOSOPHY.md).
+
+---
+
+## Transparency
+
+The Guide has been developed with the assistance of modern software tools, including large language models (LLMs), as editorial and organizational aids.
+
+You can read more about how these tools have been used and the principles guiding their use in [Transparency](TRANSPARENCY.md).
 
 ---
 
@@ -114,6 +140,16 @@ The practices described throughout The Guide are not merely theoretical.
 The Field Notes contain real examples, reflections, and observations from the journey that shaped this project. They are offered not as models to imitate, but as testimony to God's ongoing faithfulness.
 
 - [Field Notes](field-notes/)
+
+---
+
+## License
+
+The Guide is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You are welcome to read, share, and adapt this material for non-commercial purposes with attribution.
+
+For license details, see [LICENSE](LICENSE).
 
 ---
 
