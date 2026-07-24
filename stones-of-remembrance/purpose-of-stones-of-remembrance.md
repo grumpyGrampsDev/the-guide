@@ -14,7 +14,7 @@ But because we are often quick to forget.
 
 Remembrance helps us look back and recognize the ways God has worked, taught, guided, corrected, comforted, and sustained us.
 
-A Stone of Remembrance is a preserved marker of that faithfulness.
+A Stone of Remembrance is a preserved reminder of that faithfulness.
 
 It is a truth worth returning to.
 
@@ -73,7 +73,7 @@ A Stone of Remembrance is not simply:
 
 A Stone is something deeper.
 
-It is a truth God has used to shape us.
+It is a truth God has used to shape us over time.
 
 It may be:
 
