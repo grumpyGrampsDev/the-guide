@@ -105,7 +105,7 @@ Sometimes God uses repetition to help truth take root.
 
 ---
 
-# A Stone Produces Faithfulness
+# A Stone Encourages Faithfulness
 
 A Stone is not simply something we remember.
 
