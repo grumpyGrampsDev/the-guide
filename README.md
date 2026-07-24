@@ -121,7 +121,7 @@ If this guide ever disagrees with Scripture, Scripture is right.
 
 Always.
 
-Read more about the principles behind this project in [Guide Philosophy](introduction/philosophy.md).
+Read more about the principles behind this project in [Guide Philosophy](introduction/philosophy-of-the-guide.md).
 
 ---
 
