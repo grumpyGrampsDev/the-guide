@@ -29,7 +29,7 @@ It provides enough light for the next step.
 
 God's Word guides us as we walk.
 
-This verse became the foundation for:
+Over time, this verse became the foundation for the reminder that has shaped how I think about following Christ:
 
 > Lamp to my feet.  
 > Left foot.  
