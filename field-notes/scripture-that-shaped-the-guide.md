@@ -163,7 +163,7 @@ He remains faithful with tomorrow's.
 
 Today I no longer think of these as simply my favorite Scriptures.
 
-They have become familiar companions.
+They have become faithful companions.
 
 Again and again, God has used them to draw my attention toward humble dependence, faithful obedience, wise living, loving others, and trusting Him with the next step instead of demanding the whole path.
 
