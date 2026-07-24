@@ -16,6 +16,8 @@ It is not a replacement for dependence on God.
 
 It is simply a reminder of the ways we can continually return to Him.
 
+This rhythm was not something I created all at once. It emerged over time as I found myself returning to the same practices again and again: opening Scripture, bringing what I read to God in prayer, slowing down to reflect, remembering His faithfulness, and taking the next step He placed before me.
+
 ---
 
 ## Scripture
@@ -24,7 +26,7 @@ Everything begins with God's Word.
 
 Scripture reveals who God is, what He has done, what He has promised, and how He calls His people to live.
 
-Through Scripture, we learn to hear God's voice, understand His character, and see His purposes more clearly.
+Through Scripture, we learn to know God's character, understand His purposes, and recognize His instruction more clearly.
 
 The foundation of formation is not our effort to discover God.
 
@@ -64,7 +66,7 @@ We surrender.
 
 ## Reflection
 
-Reflection allows God's Word to move from something we have read into something we are considering and carrying.
+Reflection allows God's Word to move from something we have read into something we carry with us.
 
 A passage may stay with us long after we close the Bible.
 
@@ -122,6 +124,8 @@ What we learn from Scripture should shape how we live.
 
 The Christian life is walked one step at a time.
 
+We are rarely given the entire path at once. Often, God gives enough light for the next faithful step.
+
 Some steps are dramatic.
 
 Many are ordinary.
@@ -178,4 +182,4 @@ Continue learning.
 
 Continue walking.
 
-God is faithful to complete the work He has begun.
+God is faithful to continue the work He has begun.
