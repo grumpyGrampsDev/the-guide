@@ -6,6 +6,47 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
+## [0.6.0] — Stewardship and Transparency
+
+This release establishes the foundation for The Guide as a publicly available resource while clarifying its identity, development process, and intended use.
+
+### Added
+
+- Added `TRANSPARENCY.md` to document the use of modern software tools, including large language models (LLMs), in the development of The Guide.
+- Added a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license to clarify how The Guide may be shared and adapted.
+- Expanded the README to better explain:
+  - The purpose and posture of The Guide.
+  - How new readers can begin their journey.
+  - The distinction between The Guide's content and project-level documentation.
+
+### Changed
+
+- Moved `philosophy.md` into the `introduction/` section alongside the foundational documents:
+  - Heart of The Guide
+  - Purpose of The Guide
+  - Formation Compass
+  - Path Into The Guide
+- Updated repository links and navigation to reflect the revised introduction structure.
+- Refined the repository organization to distinguish between:
+  - The Guide as a companion for Scripture.
+  - Project documentation describing the stewardship and development of the repository.
+
+### Philosophy
+
+This milestone represents a transition from primarily organizing the contents of The Guide to intentionally stewarding it as a public resource.
+
+The Guide remains a companion to Scripture, not a replacement for it.
+
+The goal is not simply to make the work available, but to preserve the posture that shaped it:
+
+> The Guide points.
+>
+> God transforms.
+
+The repository now communicates not only what The Guide contains, but also why it exists, how it was developed, and how it is intended to be shared.
+
+---
+
 ## [0.5.0] — Guided Journey
 
 This release transforms The Guide from a collection of connected resources into a guided journey through Scripture, reflection, prayer, remembrance, and faithful walking.
