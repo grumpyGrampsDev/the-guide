@@ -34,6 +34,13 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ### Refined
 
+- Refined the voice of the repository to more consistently reflect the posture of a student being formed by Scripture rather than a teacher presenting a system.
+- Clarified throughout the documentation that the practices and rhythms described in The Guide emerged gradually through walking with God rather than being intentionally designed as a framework.
+- Strengthened the distinction between:
+  - Scripture as the authority.
+  - The Guide as a companion.
+  - Personal experiences as testimonies of God's faithfulness rather than universal prescriptions.
+- Improved consistency across the documentation by emphasizing ongoing formation, humility, and dependence on God's work.
 - Refined repository navigation to create a clearer path for new readers:
   - Introduction provides orientation.
   - Biblical Books provides a starting point in Scripture.
@@ -44,7 +51,15 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ### Notes
 
-This milestone completes the first expression of The Guide as a journey:
+This milestone completes the first cohesive expression of The Guide as a journey.
+
+The project now consistently reflects its guiding posture:
+
+> The Guide points.
+>
+> God transforms.
+
+Every section ultimately directs the reader back to Scripture as the foundation, while the surrounding practices, examples, and field notes serve as companions for walking faithfully with the light God provides.
 
 > Open your Bible.
 >
