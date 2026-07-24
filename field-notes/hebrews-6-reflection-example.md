@@ -139,7 +139,7 @@ Lord,
 
 Thank You for being faithful.
 
-Help me remember that my hope is not built on my ability to control what comes next.
+Help me continue to remember that my hope is not built on my ability to control what comes next.
 
 Teach me to trust Your promises,
 to continue growing,
