@@ -56,11 +56,13 @@ These questions do not mean prayer has failed.
 
 They mean we are learning to come honestly before God.
 
+I remember a season when prayer felt unfamiliar to me. I knew prayer was something I was supposed to do, but I did not always know how to begin. I worried about saying the wrong thing or not having the right words. Over time, I learned that God was not asking me to perform for Him. He was inviting me to come near.
+
 Prayer is not measured by the beauty of our words.
 
 It is measured by the faithfulness of the One who hears them.
 
-A simple prayer offered in trust is still prayer.
+A simple prayer offered in trust is still a faithful response to God.
 
 A quiet moment before God is still time with Him.
 
@@ -192,6 +194,8 @@ You do not need perfect understanding.
 
 You simply need to come.
 
-God is not waiting for an impressive prayer.
+The same God who invites us into prayer is the God who meets us there.
+
+He is not waiting for an impressive prayer.
 
 He invites His children to draw near.
