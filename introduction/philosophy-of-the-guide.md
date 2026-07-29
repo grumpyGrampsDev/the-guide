@@ -91,7 +91,7 @@ This repository is intentionally living. As the Lord continues to teach, refine,
 
 ## Recommended Next Step
 
-Continue with [Purpose of the Guide](introduction/purpose-of-the-guide.md) to begin the journey through _The Guide_ from the beginning.
+Continue with [Purpose of the Guide](purpose-of-the-guide.md) to begin the journey through _The Guide_ from the beginning.
 
 ## Related Reading
 
