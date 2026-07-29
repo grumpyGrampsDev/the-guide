@@ -4,23 +4,13 @@ The Guide begins where it began:
 
 Open your Bible.
 
-Not with a goal to accomplish.
-
-Not with a system to master.
-
-Not with a desire to simply collect information.
-
-With a willingness to listen.
+Not with a goal to accomplish. Not with a system to master. Not with a desire to simply collect information. With a willingness to listen.
 
 ---
 
 # Begin With Scripture
 
-God speaks.
-
-Before we respond, we receive.
-
-Scripture is the foundation of everything that follows.
+God speaks. Before we respond, we receive. Scripture is the foundation of everything that follows.
 
 Through His Word, God reveals:
 
@@ -29,17 +19,13 @@ Through His Word, God reveals:
 - Who we are.
 - How He calls us to live.
 
-The first step is not knowing everything.
-
-The first step is opening the Bible.
+The first step is not knowing everything. The first step is opening the Bible.
 
 ---
 
 # Respond Through Prayer
 
-God's Word invites a response.
-
-Prayer is where we come honestly before Him.
+God's Word invites a response. Prayer is where we come honestly before Him.
 
 We bring:
 
@@ -49,17 +35,13 @@ We bring:
 - Confession.
 - Dependence.
 
-Prayer is not about finding perfect words.
-
-It is about turning toward the God who has already drawn near.
+Prayer is not about finding perfect words. It is about turning toward the God who has already drawn near.
 
 ---
 
 # Reflect On What God Reveals
 
-Reading Scripture is not only about understanding information.
-
-It is about being formed.
+Reading Scripture is not only about understanding information. It is about being formed.
 
 Reflection creates space to slow down and ask:
 
@@ -72,29 +54,13 @@ Reflection creates space to slow down and ask:
 
 # Remember His Faithfulness
 
-As we walk with God, we begin to recognize moments of His faithfulness.
-
-Some truths stay with us.
-
-Some passages continue to echo.
-
-Some lessons become markers along the path.
-
-These become Stones of Remembrance.
-
-Not monuments to ourselves.
-
-Markers pointing back to God.
+As we walk with God, we begin to recognize moments of His faithfulness. Some truths stay with us. Some passages continue to echo. Some lessons become markers along the path. These become Stones of Remembrance. Not monuments to ourselves. Markers pointing back to God.
 
 ---
 
 # Walk With The Light Given
 
-God does not always reveal the entire path ahead.
-
-Often, He provides enough light for the next step.
-
-Walking with God is learning to trust Him one step at a time.
+God does not always reveal the entire path ahead. Often, He provides enough light for the next step. Walking with God is learning to trust Him one step at a time.
 
 The question is not:
 
@@ -120,37 +86,13 @@ The Guide follows this rhythm:
         ↓
     Walking
 
-God speaks.
-
-We respond.
-
-He forms us.
-
-We remember His faithfulness.
-
-We walk with Him.
+God speaks. We respond. He forms us. We remember His faithfulness. We walk with Him.
 
 ---
 
 # Begin Here
 
-You do not need to have everything figured out.
-
-You do not need to begin with perfect understanding.
-
-Begin with the next faithful step.
-
-Open your Bible.
-
-Read carefully.
-
-Pray honestly.
-
-Reflect thoughtfully.
-
-Remember faithfully.
-
-Walk faithfully.
+You do not need to have everything figured out. You do not need to begin with perfect understanding. Begin with the next faithful step. Open your Bible. Read carefully. Pray honestly. Reflect thoughtfully. Remember faithfully. Walk faithfully.
 
 ---
 

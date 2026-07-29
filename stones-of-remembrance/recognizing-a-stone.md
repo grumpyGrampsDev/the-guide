@@ -1,10 +1,6 @@
 # Recognizing a Stone of Remembrance
 
-A Stone of Remembrance is not something we create simply because we want to record something meaningful.
-
-It is something that emerges over time.
-
-As we read Scripture, pray, reflect, and walk with God, certain truths begin to remain with us.
+A Stone of Remembrance is not something we create simply because we want to record something meaningful. It is something that emerges over time. As we read Scripture, pray, reflect, and walk with God, certain truths begin to remain with us.
 
 Some passages challenge us.
 
@@ -30,13 +26,7 @@ Sometimes it begins with:
 - A prayer that God answers.
 - A lesson learned through a difficult season.
 
-At first, it may simply be something we notice.
-
-Over time, God may use it to shape how we understand Him and how we walk with Him.
-
-A Stone is not manufactured.
-
-It emerges as God uses His Word and His work in our lives to form us.
+At first, it may simply be something we notice. Over time, God may use it to shape how we understand Him and how we walk with Him. A Stone is not manufactured. It emerges as God uses His Word and His work in our lives to form us.
 
 ---
 
@@ -59,37 +49,25 @@ A Stone may remind us that:
 - God guides.
 - God sustains.
 
-The lasting value of a Stone is not the experience itself.
-
-The lasting value is the God revealed through it.
+The lasting value of a Stone is not the experience itself. The lasting value is the God revealed through it.
 
 ---
 
 # The Difference Between a Quiet Whisper and a Stone
 
-The Quiet Whisper and the Stone of Remembrance are closely connected, but they serve different purposes.
-
-The Quiet Whisper captures what continues to echo from a specific passage or moment.
-
-It is the verse, phrase, image, or truth that remains with us after careful reading, reflection, and prayer.
-
-A Stone of Remembrance captures what we want to preserve because God has used that truth to shape us.
+The Quiet Whisper and the Stone of Remembrance are closely connected, but they serve different purposes. The Quiet Whisper captures what continues to echo from a specific passage or moment. It is the verse, phrase, image, or truth that remains with us after careful reading, reflection, and prayer. A Stone of Remembrance captures what we want to preserve because God has used that truth to shape us.
 
 A Quiet Whisper may become a Stone.
 
 But not every Quiet Whisper becomes one.
 
-The Whisper is what we notice.
-
-The Stone is what remains.
+The Whisper is what we notice. The Stone is what remains.
 
 ---
 
 # A Stone Often Returns
 
-Some patterns may help us recognize when a truth is becoming a Stone.
-
-One of those patterns is that it continues to return.
+Some patterns may help us recognize when a truth is becoming a Stone. One of those patterns is that it continues to return.
 
 A truth may appear:
 
@@ -99,19 +77,13 @@ A truth may appear:
 - In conversation with others.
 - During seasons of difficulty.
 
-Repeated reminders do not mean we are forcing significance onto something.
-
-Sometimes God uses repetition to help truth take root.
+Repeated reminders do not mean we are forcing significance onto something. Sometimes God uses repetition to help truth take root.
 
 ---
 
 # A Stone Encourages Faithfulness
 
-A Stone is not simply something we remember.
-
-It is something that shapes how we walk.
-
-A truth worth remembering should influence how we respond.
+A Stone is not simply something we remember. It is something that shapes how we walk. A truth worth remembering should influence how we respond.
 
 It may help us:
 
@@ -136,29 +108,13 @@ A moment of conviction.
 
 A quiet realization.
 
-But the purpose is not to elevate our own story.
-
-The purpose is to point toward God's work.
-
-Personal remembrance can become encouragement for others when shared with humility.
+But the purpose is not to elevate our own story. It is to point toward God's work. Personal remembrance can become encouragement for others when shared with humility.
 
 ---
 
 # Not Every Meaningful Moment Becomes a Stone
 
-Not every verse that stands out.
-
-Not every thought that encourages us.
-
-Not every lesson we learn.
-
-Becomes a Stone.
-
-Some things are meaningful in the moment.
-
-Some things become lasting markers.
-
-Time often reveals the difference.
+Not every verse that stands out, thought that encourages us, or lesson we learn becomes a Stone. Some things are meaningful in the moment. Some things become lasting markers. Time often reveals the difference.
 
 Do not rush the process.
 
@@ -178,17 +134,7 @@ Reflect carefully.
 
 Remember faithfully.
 
-As God continues to work, some truths will remain.
-
-Some lessons will deepen.
-
-Some moments will become markers.
-
-When they do, preserve them.
-
-Not as monuments to yourself.
-
-But as reminders of God's faithfulness.
+As God continues to work, some truths will remain. Some lessons will deepen. Some moments will become markers. When they do, preserve them. Not as monuments to yourself. But as reminders of God's faithfulness.
 
 ---
 

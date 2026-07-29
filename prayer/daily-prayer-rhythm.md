@@ -1,8 +1,6 @@
 # Daily Prayer Rhythm
 
-Prayer is not limited to a specific time or place.
-
-It is a continual invitation to walk with God.
+Prayer is not limited to a specific time or place. It is a continual invitation to walk with God.
 
 A daily prayer rhythm creates space to return to Him throughout the day:
 
@@ -12,21 +10,13 @@ A daily prayer rhythm creates space to return to Him throughout the day:
 
 This rhythm developed as I found myself needing simple reminders to return to God throughout ordinary days. Not because He is distant, but because I am often distracted.
 
-It is not a requirement to complete.
-
-It is a reminder of relationship.
+It is not a requirement to complete. It is a reminder of relationship.
 
 ---
 
 # Morning: Orientation
 
-The beginning of the day is an opportunity to remember where our life begins.
-
-Before the demands of the day arrive, we turn toward God.
-
-Morning prayer is not about predicting what the day will bring.
-
-It is about placing ourselves before the One who already knows.
+The beginning of the day is an opportunity to remember where our life begins. Before the demands of the day arrive, we turn toward God. Morning prayer is not about predicting what the day will bring. It is about placing ourselves before the One who already knows.
 
 A morning prayer may ask:
 
@@ -43,9 +33,7 @@ The posture is:
 
 # Throughout the Day: Dependence
 
-Prayer is not only reserved for quiet moments.
-
-God is present throughout ordinary life.
+Prayer is not only reserved for quiet moments. God is present throughout ordinary life.
 
 A brief prayer can become a reminder:
 
@@ -55,9 +43,7 @@ Give me light.
 
 Guide my next step.
 
-These moments return our attention to God.
-
-They remind us that we do not walk alone.
+These moments return our attention to God. They remind us that we do not walk alone.
 
 ---
 
@@ -72,13 +58,7 @@ We remember:
 - Where we need forgiveness.
 - Where He is continuing to form us.
 
-Evening prayer is not an evaluation of our performance.
-
-It is a return to grace.
-
-We can rest because our hope is not in our perfection.
-
-It is in God's faithfulness.
+Evening prayer is not an evaluation of our performance. It is a return to grace. We can rest because our hope is not in our perfection. It is in God's faithfulness.
 
 ---
 
@@ -130,23 +110,11 @@ Rest in what God has done, not what I accomplished.
 
 # A Returning Rhythm
 
-Prayer rhythms are not meant to create pressure.
-
-They are meant to create reminders.
-
-Some days prayer will be full.
-
-Some days prayer will be simple.
-
-Some days the only prayer we can offer is:
+Prayer rhythms are not meant to create pressure. They are meant to create reminders. Some days prayer will be full. Some days prayer will be simple. Some days the only prayer we can offer is:
 
 "Lord, help me."
 
-God meets us there.
-
-The purpose is not perfect consistency.
-
-The purpose is returning to relationship.
+God meets us there. The purpose is not perfect consistency. The purpose is returning to relationship.
 
 ---
 

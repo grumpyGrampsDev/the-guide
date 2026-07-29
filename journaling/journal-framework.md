@@ -1,26 +1,12 @@
 # Journal Framework
 
-A journal is a place to record our response to God's Word as He speaks through Scripture.
-
-This framework is not a formula to complete.
-
-It is a rhythm to return to.
-
-Each entry is an opportunity to slow down, listen carefully, reflect honestly, and remember God's faithfulness.
-
-The purpose is not to produce perfect entries.
-
-The purpose is to create space for God's Word to continue shaping us.
-
-This rhythm developed from the way I found myself naturally returning to Scripture: reading a passage, noticing what was there, seeking understanding, reflecting honestly, and remembering what God had shown me.
+A journal is a place to record our response to God's Word as He speaks through Scripture. This framework is not a formula to complete. It is a rhythm to return to. Each entry is an opportunity to slow down, listen carefully, reflect honestly, and remember God's faithfulness. The purpose is not to produce perfect entries. The purpose is to create space for God's Word to continue shaping us. This rhythm developed from the way I found myself naturally returning to Scripture: reading a passage, noticing what was there, seeking understanding, reflecting honestly, and remembering what God had shown me.
 
 ---
 
 # The Passage
 
-Begin with Scripture.
-
-Record what you are reading.
+Begin with Scripture. Record what you are reading.
 
 Include:
 
@@ -29,9 +15,7 @@ Include:
 - Translation (if helpful)
 - Any relevant notes about the reading context
 
-The passage is the foundation of the entry.
-
-Everything else flows from what God has already spoken.
+The passage is the foundation of the entry. Everything else flows from what God has already spoken.
 
 ---
 
@@ -75,9 +59,7 @@ What does this reveal about His purposes?
 
 How does this fit within the larger story of Scripture?
 
-The goal is not to force a personal meaning onto the text.
-
-The goal is to faithfully understand what God has revealed.
+The goal is not to force a personal meaning onto the text. It is to faithfully understand what God has revealed.
 
 ---
 
@@ -103,9 +85,7 @@ Where do I need to grow?
 
 Where do I need to trust?
 
-Reflection is not about making Scripture revolve around us.
-
-It is about allowing Scripture to shape us.
+Reflection is not about making Scripture revolve around us. It is about allowing Scripture to shape us.
 
 ---
 
@@ -121,15 +101,7 @@ The Quiet Whisper may be:
 - A truth
 - A theme
 
-It is not a replacement for understanding the passage.
-
-It is not a verse selected in isolation.
-
-It is the part of the passage that remains with you after careful reading, reflection, and prayer.
-
-The passage gives meaning to the Whisper.
-
-The Whisper helps you remember the passage.
+It is not a replacement for understanding the passage. It is not a verse selected in isolation. It is the part of the passage that remains with you after careful reading, reflection, and prayer. The passage gives meaning to the Whisper. The Whisper helps you remember the passage.
 
 Ask:
 
@@ -157,19 +129,13 @@ What should I practice?
 
 What prayer comes from this passage?
 
-The purpose of Scripture is not simply to inform us.
-
-It is to transform us as God works through His Word.
+The purpose of Scripture is not simply to inform us. It is to transform us as God works through His Word.
 
 ---
 
 # The Stone of Remembrance
 
-Consider what you want to carry forward.
-
-The Stone is not simply the most interesting thought from the entry.
-
-It is the truth you want to remember.
+Consider what you want to carry forward. The Stone is not simply the most interesting thought from the entry. It is the truth you want to remember.
 
 It may be:
 
@@ -187,9 +153,7 @@ What has God shown me?
 
 How has He been faithful?
 
-The Stone is not a monument to ourselves.
-
-It is a marker pointing back to God.
+The Stone is not a monument to ourselves. It is a marker pointing back to God.
 
 ---
 
@@ -205,27 +169,17 @@ This may be:
 - A prayer for strength
 - A prayer of surrender
 
-The journal entry is not complete because every question has been answered.
-
-It is complete because we have returned to God.
+The journal entry is not complete because every question has been answered. It is complete because we have returned to God.
 
 ---
 
 # A Final Encouragement
 
-Do not measure your journal by its length.
-
-Do not compare your entries to someone else's.
-
-Some days will contain pages.
-
-Some days will contain only a sentence.
+Do not measure your journal by its length. Do not compare your entries to someone else's. Some days will contain pages. Some days will contain only a sentence.
 
 Both can be faithful.
 
-The value of a journal is not in how impressive it appears.
-
-It is in how faithfully it helps you remember God's work through His Word.
+The value of a journal is not in how impressive it appears. It is in how faithfully it helps you remember God's work through His Word.
 
 Continue reading.
 

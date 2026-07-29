@@ -1,18 +1,8 @@
 # Bible Study Reflection Template
 
-A Bible study is an opportunity to study God's Word alongside others.
+A Bible study is an opportunity to study God's Word alongside others. God often uses community, discussion, teaching, and shared study to deepen our understanding and encourage our faith. This framework is not intended to capture every detail of a discussion. It is a way to remember what was studied, consider what was learned, and reflect on how God is using His Word to shape us. This structure grew from the same rhythm used throughout The Guide: receiving God's Word, seeking understanding, responding faithfully, and remembering His faithfulness.
 
-God often uses community, discussion, teaching, and shared study to deepen our understanding and encourage our faith.
-
-This framework is not intended to capture every detail of a discussion.
-
-It is a way to remember what was studied, consider what was learned, and reflect on how God is using His Word to shape us.
-
-This structure grew from the same rhythm used throughout The Guide: receiving God's Word, seeking understanding, responding faithfully, and remembering His faithfulness.
-
-The goal is not simply to record what others said.
-
-The goal is to faithfully understand and respond to what God has revealed through Scripture.
+The goal is not simply to record what others said. The goal is to faithfully understand and respond to what God has revealed through Scripture.
 
 ---
 
@@ -62,9 +52,7 @@ Consider:
 
 Community helps us see more clearly, but Scripture remains the authority.
 
-The goal is not simply to collect opinions.
-
-The goal is to seek understanding together under the authority of God's Word.
+The goal is not simply to collect opinions. It is to seek understanding together under the authority of God's Word.
 
 ---
 
@@ -106,9 +94,7 @@ What did this reveal about my heart?
 
 What is God teaching me?
 
-Reflection begins with what God has revealed and considers how that truth should shape me.
-
-Reflection moves Scripture from something I studied into something I carry.
+Reflection begins with what God has revealed and considers how that truth should shape me. Reflection moves Scripture from something I studied into something I carry.
 
 ---
 
@@ -134,11 +120,7 @@ What continued to make me think?
 
 How does this help me see God's work more clearly?
 
-Personal reflection does not replace the meaning of Scripture.
-
-It is not a place to make the passage say something it does not say.
-
-Instead, it is where faithful understanding connects with lived experience.
+Personal reflection does not replace the meaning of Scripture. It is not a place to make the passage say something it does not say. Instead, it is where faithful understanding connects with lived experience.
 
 ---
 
@@ -158,17 +140,13 @@ What should I practice?
 
 What prayer comes from this study?
 
-The purpose of studying Scripture is not simply gaining knowledge.
-
-It is becoming more faithful.
+The purpose of studying Scripture is not simply gaining knowledge. It is becoming more faithful.
 
 ---
 
 # Bear Fruit
 
-Understanding and reflection should eventually lead somewhere. We do not study Scripture merely to understand more, but to become more faithful in how we live.
-
-Consider what obedience looks like.
+Understanding and reflection should eventually lead somewhere. We do not study Scripture merely to understand more, but to become more faithful in how we live. Consider what obedience looks like.
 
 Ask:
 
@@ -212,13 +190,7 @@ After sitting with the study as a whole, what continues to echo?
 
 What verse, phrase, truth, or insight remains with me?
 
-The Quiet Whisper is not simply the most interesting comment from the discussion.
-
-It is the truth that remains after prayerful reflection.
-
-The passage and the discussion provide the context.
-
-The Whisper helps preserve what God brought to my attention.
+The Quiet Whisper is not simply the most interesting comment from the discussion. It is the truth that remains after prayerful reflection. The passage and the discussion provide the context. The Whisper helps preserve what God brought to my attention.
 
 ---
 
@@ -230,9 +202,7 @@ What truth do I want to remember?
 
 How has God used this study, this passage, and this community to strengthen my faith?
 
-The Stone is not a monument to myself.
-
-It is a marker pointing back to God's faithfulness.
+The Stone is not a monument to myself. It is a marker pointing back to God's faithfulness.
 
 ---
 

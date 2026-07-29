@@ -1,14 +1,6 @@
 # Stones in Practice
 
-A Stone of Remembrance is not a separate activity added to the Christian life.
-
-It is a way of noticing and preserving what God is already doing.
-
-Through Scripture, prayer, reflection, and walking with Him, God often gives us truths that remain.
-
-Some truths guide us for a season.
-
-Some truths become lifelong reminders of His faithfulness.
+A Stone of Remembrance is not a separate activity added to the Christian life. It is a way of noticing and preserving what God is already doing. Through Scripture, prayer, reflection, and walking with Him, God often gives us truths that remain. Some truths guide us for a season. Some truths become lifelong reminders of His faithfulness.
 
 These are Stones.
 
@@ -47,41 +39,23 @@ It may be recorded as:
 - A written reflection.
 - A reminder to return to during difficult seasons.
 
-The purpose is not to create perfect records.
-
-The purpose is to preserve what God has taught.
+The purpose is not to create perfect records. It is to preserve what God has taught.
 
 ---
 
 # Returning to Stones
 
-Stones are not only written for the moment they are discovered.
-
-They are written for future seasons.
-
-When circumstances change, when faith feels difficult, or when we need to remember what is true, Stones provide places to return.
+Stones are not only written for the moment they are discovered. They are written for future seasons. When circumstances change, when faith feels difficult, or when we need to remember what is true, Stones provide places to return.
 
 They remind us:
 
-God was faithful then.
-
-God remains faithful now.
+God was faithful then. God remains faithful now.
 
 ---
 
 # Stones and the Christian Walk
 
-Remembrance strengthens walking.
-
-When we remember God's past faithfulness, we are better prepared to trust Him with future steps.
-
-A Stone does not remove uncertainty.
-
-It reminds us who walks with us through it.
-
-The goal is not confidence in our own ability to endure.
-
-The goal is confidence in the God who remains faithful.
+Remembrance strengthens walking. When we remember God's past faithfulness, we are better prepared to trust Him with future steps. A Stone does not remove uncertainty. It reminds us who walks with us through it. The goal is not confidence in our own ability to endure. The goal is confidence in the God who remains faithful.
 
 ---
 
@@ -107,11 +81,7 @@ It strengthens the steps that come next.
 
 # Sharing Stones
 
-Some Stones are personal.
-
-Some may encourage others.
-
-When shared, they should be shared with humility.
+Some Stones are personal. Some may encourage others. When shared, they should be shared with humility.
 
 The purpose is not:
 
@@ -131,9 +101,7 @@ A personal reminder can become encouragement for someone else when it points bey
 
 # A Final Encouragement
 
-Do not force remembrance.
-
-Do not rush to create markers.
+Do not force remembrance. Do not rush to create markers.
 
 Walk faithfully.
 
@@ -143,17 +111,7 @@ Pray honestly.
 
 Reflect carefully.
 
-Over time, some truths will remain.
-
-Some lessons will deepen.
-
-Some moments will become Stones.
-
-Remember them.
-
-Return to them.
-
-Give thanks for the God who was faithful there and remains faithful now.
+Over time, some truths will remain. Some lessons will deepen. Some moments will become Stones. Remember them. Return to them. Give thanks for the God who was faithful there and remains faithful now.
 
 ---
 

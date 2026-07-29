@@ -4,31 +4,13 @@ The Guide is shaped around a simple rhythm of formation:
 
 Scripture → Prayer → Reflection → Remembrance → Walking
 
-This is not a checklist to complete.
-
-It is not a measure of spiritual maturity.
-
-It is a rhythm of returning to God.
-
-The Formation Map helps us recognize how these practices work together as we learn to walk with Him.
-
-This rhythm emerged from the repeated practice of reading Scripture, praying, reflecting, remembering what God has done, and taking the next faithful step.
+This is not a checklist to complete. It is not a measure of spiritual maturity. It is a rhythm of returning to God. The Formation Map helps us recognize how these practices work together as we learn to walk with Him. This rhythm emerged from the repeated practice of reading Scripture, praying, reflecting, remembering what God has done, and taking the next faithful step.
 
 ---
 
 # The Journey Begins With God
 
-The Christian life does not begin with our effort to reach God.
-
-It begins with God revealing Himself.
-
-Before we respond, we listen.
-
-Before we walk, we receive direction.
-
-Before we act, we seek to understand.
-
-The Formation Map begins with Scripture because God is the one who speaks first.
+The Christian life does not begin with our effort to reach God. It begins with God revealing Himself. Before we respond, we listen. Before we walk, we receive direction. Before we act, we seek to understand. The Formation Map begins with Scripture because God is the one who speaks first.
 
 ---
 
@@ -36,9 +18,7 @@ The Formation Map begins with Scripture because God is the one who speaks first.
 
 ## God Reveals
 
-Scripture is where we begin.
-
-Through His Word, God reveals who He is, what He has done, and how He calls His people to live.
+Scripture is where we begin. Through His Word, God reveals who He is, what He has done, and how He calls His people to live.
 
 We approach Scripture with humility:
 
@@ -47,9 +27,7 @@ We approach Scripture with humility:
 - Interpreting faithfully.
 - Applying carefully.
 
-The goal is not simply to gain knowledge.
-
-The goal is to know God.
+The goal is not simply to gain knowledge. The goal is to know God.
 
 ---
 
@@ -57,13 +35,7 @@ The goal is to know God.
 
 ## We Respond
 
-Prayer is our response to the God who has revealed Himself.
-
-Prayer is not merely a list of requests.
-
-It is relationship.
-
-It is dependence.
+Prayer is our response to the God who has revealed Himself. Prayer is not merely a list of requests. It is relationship. It is dependence.
 
 It is bringing ourselves honestly before God:
 
@@ -90,11 +62,7 @@ It asks:
 - What does this teach me about Him?
 - How should I respond?
 
-Reflection is where Scripture moves from something we read into something that begins to shape us.
-
-It is not about creating our own meaning.
-
-It is about faithfully considering what God has already communicated.
+Reflection is where Scripture moves from something we read into something that begins to shape us. It is not about creating our own meaning. It is about faithfully considering what God has already communicated.
 
 ---
 
@@ -102,17 +70,7 @@ It is about faithfully considering what God has already communicated.
 
 ## Faithfulness Is Preserved
 
-Remembrance helps us recognize God's faithfulness over time.
-
-We are quick to forget.
-
-God's character does not change, but our circumstances and perspectives often do.
-
-Through remembrance, we preserve the truths God has used to shape us.
-
-Stones of Remembrance are not monuments to ourselves.
-
-They are markers pointing back to God's faithfulness.
+Remembrance helps us recognize God's faithfulness over time. We are quick to forget. God's character does not change, but our circumstances and perspectives often do. Through remembrance, we preserve the truths God has used to shape us. Stones of Remembrance are not monuments to ourselves. They are markers pointing back to God's faithfulness.
 
 ---
 
@@ -120,11 +78,7 @@ They are markers pointing back to God's faithfulness.
 
 ## Faith Becomes Practice
 
-Walking is the ongoing response to what God has revealed.
-
-We do not wait until we understand everything.
-
-We walk with the light God provides.
+Walking is the ongoing response to what God has revealed. We do not wait until we understand everything. We walk with the light God provides.
 
 Walking with God means:
 
@@ -132,17 +86,13 @@ Walking with God means:
 - Depending on His grace.
 - Taking the next faithful step.
 
-The goal is not perfect understanding.
-
-The goal is faithful obedience.
+The goal is not perfect understanding. The goal is faithful obedience.
 
 ---
 
 # A Continuing Rhythm
 
-The Formation Map is not completed once.
-
-It is a rhythm we return to again and again.
+The Formation Map is not completed once. It is a rhythm we return to again and again.
 
 When we feel lost:
 

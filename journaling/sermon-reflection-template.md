@@ -1,16 +1,6 @@
 # Sermon Reflection Template
 
-A sermon is an opportunity to receive teaching, examine Scripture, and consider how God may use His Word to shape us.
-
-A sermon is not a replacement for personal engagement with Scripture.
-
-The teaching we receive should always lead us back to God's Word.
-
-This framework grew from the same rhythm used throughout The Guide: receiving what God has revealed, seeking understanding, responding faithfully, and remembering His work over time.
-
-It is not meant to capture every detail of a sermon.
-
-It is a way to remember what was taught, reflect on its truth, and respond faithfully.
+A sermon is an opportunity to receive teaching, examine Scripture, and consider how God may use His Word to shape us. A sermon is not a replacement for personal engagement with Scripture. The teaching we receive should always lead us back to God's Word. This framework grew from the same rhythm used throughout The Guide: receiving what God has revealed, seeking understanding, responding faithfully, and remembering His work over time. It is not meant to capture every detail of a sermon. It is a way to remember what was taught, reflect on its truth, and respond faithfully.
 
 ---
 
@@ -40,9 +30,7 @@ What ideas, phrases, or illustrations stood out?
 
 What did I notice?
 
-The goal is not simply to record what was said.
-
-The goal is to listen carefully.
+The goal is not simply to record what was said. It is to listen carefully.
 
 ---
 
@@ -79,9 +67,7 @@ How does this fit within the larger story of Scripture?
 
 How does the message point me toward Christ?
 
-A sermon should not only be heard.
-
-It should be understood faithfully.
+A sermon should not only be heard. It should be understood faithfully.
 
 ---
 
@@ -123,9 +109,7 @@ What should I practice?
 
 What prayer comes from this message?
 
-The goal is not simply to remember a sermon.
-
-The goal is to allow God's Word to shape how we live.
+The goal is not simply to remember a sermon. It is to allow God's Word to shape how we live.
 
 ---
 
@@ -179,11 +163,7 @@ The Quiet Whisper may be:
 - An illustration
 - A reminder of God's character
 
-It is not the entire sermon summarized.
-
-It is the truth that remains with you.
-
-The message provides the context. Scripture provides the foundation.
+It is not the entire sermon summarized. It is the truth that remains with you. The message provides the context. Scripture provides the foundation.
 
 ---
 
@@ -195,9 +175,7 @@ What truth do I want to remember in a future season?
 
 How has God used this message to teach, encourage, correct, or strengthen me?
 
-The Stone is not a monument to the speaker or the sermon.
-
-It is a reminder of God's faithfulness through His Word.
+The Stone is not a monument to the speaker or the sermon. It is a reminder of God's faithfulness through His Word.
 
 ---
 

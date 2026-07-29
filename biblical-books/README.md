@@ -11,17 +11,13 @@ It exists to provide one possible path through Scripture with an emphasis on:
 - Reading carefully.
 - Responding faithfully.
 
-This is not a race to complete the Bible.
-
-It is an invitation to open God's Word with humility, attention, and a willingness to be formed by what He reveals.
+This is not a race to complete the Bible. It is an invitation to open God's Word with humility, attention, and a willingness to be formed by what He reveals.
 
 ---
 
 # The Purpose of the Reading Plan
 
-Scripture is not simply a collection of information to master.
-
-It is God's Word to receive, understand, and live.
+Scripture is not simply a collection of information to master. It is God's Word to receive, understand, and live.
 
 The goal of this plan is not:
 
@@ -52,15 +48,7 @@ The Bible reading plan begins the journey:
         ↓
     Walking
 
-God speaks through Scripture.
-
-We respond through prayer.
-
-We reflect on what He has revealed.
-
-We remember His faithfulness.
-
-We walk according to the light He provides.
+God speaks through Scripture. We respond through prayer. We reflect on what He has revealed. We remember His faithfulness. We walk according to the light He provides.
 
 ---
 
@@ -94,9 +82,7 @@ Scripture should be read with attention to:
 
 ## Allow Scripture to Shape You
 
-Reading Scripture is not only about gaining information.
-
-It is about being formed.
+Reading Scripture is not only about gaining information. It is about being formed.
 
 Ask:
 
@@ -128,13 +114,7 @@ Completes the prophetic writings and provides practices for continuing to engage
 
 # A Final Reminder
 
-There is no substitute for opening the Bible.
-
-A reading plan is only a guide.
-
-The purpose is not the plan itself.
-
-The purpose is knowing the God who has revealed Himself through His Word.
+There is no substitute for opening the Bible. A reading plan is only a guide. The purpose is not the plan itself. The purpose is knowing the God who has revealed Himself through His Word.
 
 ---
 

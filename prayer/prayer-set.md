@@ -1,8 +1,6 @@
 # Daily Prayer Set
 
-Prayer is not a formula.
-
-These prayers are simple reminders of how to return to God throughout the day.
+Prayer is not a formula. These prayers are simple reminders of how to return to God throughout the day.
 
 They are anchors:
 
@@ -75,9 +73,7 @@ Guide my next step.
 
 ---
 
-These simple prayers are reminders that God is present throughout ordinary moments.
-
-They help return my attention to Him.
+These simple prayers are reminders that God is present throughout ordinary moments. They help return my attention to Him.
 
 ---
 

@@ -1,16 +1,6 @@
 # The Next Faithful Step
 
-Walking with God often means learning to move forward with the light He has provided.
-
-We naturally want to see the entire path.
-
-We want to know where every decision will lead before we take the first step.
-
-We want certainty before we move.
-
-Over time, I began to realize that God was inviting me to trust him differently.
-
-Throughout Scripture, God often calls His people to trust Him one step at a time.
+Walking with God often means learning to move forward with the light He has provided. We naturally want to see the entire path. We want to know where every decision will lead before we take the first step. We want certainty before we move. Over time, I began to realize that God was inviting me to trust him differently. Throughout Scripture, God often calls His people to trust Him one step at a time.
 
 The faithful question is not always:
 
@@ -24,21 +14,7 @@ Often, it is:
 
 # Faithfulness Over Control
 
-The desire for certainty is understandable.
-
-We want to plan well.
-
-We want to make wise decisions.
-
-We want to avoid unnecessary difficulty.
-
-But there is a difference between wisdom and control.
-
-Wisdom seeks God's guidance.
-
-Control seeks to remove the need for trust.
-
-Walking with God requires surrendering the belief that we must understand everything before we obey.
+The desire for certainty is understandable. We want to plan well. We want to make wise decisions. We want to avoid unnecessary difficulty. But there is a difference between wisdom and control. Wisdom seeks God's guidance. Control seeks to remove the need for trust. Walking with God requires surrendering the belief that we must understand everything before we obey.
 
 ---
 
@@ -56,39 +32,19 @@ It may be:
 - Pursuing obedience in a difficult area.
 - Trusting God through uncertainty.
 
-Faithfulness is often found in ordinary moments.
-
-God forms a life through many small acts of trust.
+Faithfulness is often found in ordinary moments. God forms a life through many small acts of trust.
 
 ---
 
 # Faithfulness Is Not Measured by Outcomes
 
-The next faithful step is not always the step that produces immediate results.
-
-Sometimes obedience leads to visible fruit.
-
-Sometimes obedience simply means remaining faithful when the outcome is unknown.
-
-Our responsibility is faithfulness.
-
-The results belong to God.
+The next faithful step is not always the step that produces immediate results. Sometimes obedience leads to visible fruit. Sometimes obedience simply means remaining faithful when the outcome is unknown. Our responsibility is faithfulness. The results belong to God.
 
 ---
 
 # Steady Movement in Partial Light
 
-Walking with God is not usually a sprint toward complete understanding.
-
-It is steady movement in partial light.
-
-The lamp at our feet may not reveal every turn ahead.
-
-But it reveals enough to walk.
-
-Each faithful step becomes part of the journey.
-
-Each act of trust becomes part of the formation God is doing.
+Walking with God is not usually a sprint toward complete understanding. It is steady movement in partial light. The lamp at our feet may not reveal every turn ahead. But it reveals enough to walk. Each faithful step becomes part of the journey. Each act of trust becomes part of the formation God is doing.
 
 ---
 
@@ -112,9 +68,7 @@ The absence of clarity does not mean the absence of God.
 
 # Left Foot. Right Foot.
 
-Walking faithfully is not about taking the perfect step.
-
-It is about continuing to walk with the God who guides.
+Walking faithfully is not about taking the perfect step. It is about continuing to walk with the God who guides.
 
 When the path ahead is unclear:
 
