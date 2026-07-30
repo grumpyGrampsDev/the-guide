@@ -1,34 +1,3 @@
----
-
-## 18. Matthew — The Kingdom and the King
-
-### Focus:
-
-- Jesus as Messiah
-- The kingdom of heaven
-- Jesus' teaching
-- Fulfillment of Scripture
-- Discipleship
-- The Great Commission
-
-### Pay attention to:
-
-- How Matthew connects Jesus to the Old Testament
-- Repeated references to fulfillment
-- Jesus' authority
-- The relationship between hearing and doing
-- The cost and calling of discipleship
-
-### Why Matthew concludes the New Testament section:
-
-After reading the New Testament writings that explain the Gospel and encourage believers in faithfulness, Matthew brings us back to Jesus Himself.
-
-The story begins and ends with Christ.
-
-The purpose of Scripture is not simply understanding information about God, but knowing the King who calls His people to follow Him.
-
----
-
 # PHASE 3 — Old Testament Foundations
 
 _Goal: understand the narrative and theological background behind the New Testament._
