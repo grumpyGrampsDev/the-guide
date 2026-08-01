@@ -44,7 +44,7 @@ My first engagement with Scripture happens before outside commentary or study re
 
 ---
 
-## 2. Bullet Journal
+## 2. Leuchtturm1917 Bullet Journal
 
 ### Personal Scripture Analysis
 
