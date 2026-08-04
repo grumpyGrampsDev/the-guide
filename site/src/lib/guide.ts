@@ -10,6 +10,25 @@ export interface GuideDocument {
   content: string;
 }
 
+async function readMarkdownFile(filePath: string): Promise<string> {
+  return await fs.readFile(filePath, "utf-8");
+}
+
+function createGuideDocument(
+  section: string,
+  filename: string,
+  markdown: string,
+): GuideDocument {
+  const titleMatch = markdown.match(/^#\s+(.+)$/m);
+
+  return {
+    title: titleMatch?.[1] ?? "Untitled",
+    slug: filename.replace(/\.md$/, ""),
+    section,
+    content: markdown,
+  };
+}
+
 export async function getAllDocuments(): Promise<GuideDocument[]> {
   const introductionPath = path.join(GUIDE_ROOT, "introduction");
 
@@ -19,9 +38,10 @@ export async function getAllDocuments(): Promise<GuideDocument[]> {
 
   const fullPath = path.join(introductionPath, firstFile);
 
-  const content = await fs.readFile(fullPath, "utf-8");
+  const content = await readMarkdownFile(fullPath);
+  const guideDocument = createGuideDocument("introduction", firstFile, content);
 
-  console.log(content);
+  console.log(guideDocument);
 
   return [];
 }
