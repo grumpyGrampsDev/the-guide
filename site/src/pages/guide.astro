@@ -1,0 +1,22 @@
+---
+import fs from "node:fs/promises";
+import path from "node:path";
+
+const filePath = path.resolve(
+  "../introduction/purpose-of-the-guide.md"
+);
+
+const markdown = await fs.readFile(filePath, "utf-8");
+---
+
+<html lang="en">
+  <head>
+    <title>The Guide</title>
+  </head>
+
+  <body>
+    <h1>The Guide</h1>
+
+    <pre>{markdown}</pre>
+  </body>
+</html>
