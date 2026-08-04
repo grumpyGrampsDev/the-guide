@@ -114,7 +114,7 @@ Begin with [How to Approach Scripture](../reading-scripture/how-to-approach-scri
 - [Heart of the Guide](./heart-of-the-guide.md)
   If you are beginning this journey, start by opening Scripture.
   The Bible Reading Plan provides one possible path through God's Word.
-- [Biblical Reading Plan](../biblical-books/README.md)
+- [A Reading Path Through Scripture](../biblical-books/README.md)
 
 ## Scriptures That Shaped The Guide
 

@@ -92,7 +92,7 @@ Right foot.
 
 ## Recommended Next Step
 
-Return to the [Biblical Reading Plan](../biblical-books/README.md) whenever you're ready to continue exploring God's Word. Every return to Scripture is another opportunity to listen, respond, and take one more faithful step.
+Return to the [A Reading Path Through Scripture](../biblical-books/README.md) whenever you're ready to continue exploring God's Word. Every return to Scripture is another opportunity to listen, respond, and take one more faithful step.
 
 ## Related Reading
 
