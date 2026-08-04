@@ -15,7 +15,13 @@ export async function getAllDocuments(): Promise<GuideDocument[]> {
 
   const entries = await fs.readdir(introductionPath);
 
-  console.log(entries);
+  const firstFile = entries[0];
+
+  const fullPath = path.join(introductionPath, firstFile);
+
+  const content = await fs.readFile(fullPath, "utf-8");
+
+  console.log(content);
 
   return [];
 }
