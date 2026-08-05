@@ -346,6 +346,12 @@ The website should not become detached from the practices and reflections that c
 
 ---
 
+# The Librarian
+
+The Librarian is the internal component responsible for discovering, organizing, and retrieving the Guide's documents. It treats the repository as the source of truth and presents a simple API (getAllDocuments, getDocument, getSection) to the rest of the application.
+
+---
+
 # Growth Philosophy
 
 The Guide should grow organically. New sections should emerge from faithful practice rather than being created simply because future possibilities exist. The architecture should leave room for growth while resisting unnecessary complexity.
