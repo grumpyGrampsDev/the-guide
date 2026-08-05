@@ -50,10 +50,14 @@ async function discoverSections(): Promise<GuideSection[]> {
 }
 
 async function walkGuideDirectory(
-  section: GuideSection,
+  directoryPath: string,
+  relativePath: string,
 ): Promise<GuideDocument[]> {
-  const entries = await fs.readdir(section.path);
+  const entries = await fs.readdir(directoryPath, {
+    withFileTypes: true,
+  });
 
+  console.log(relativePath);
   console.log(entries);
 
   return [];
@@ -63,7 +67,7 @@ export async function getAllDocuments(): Promise<GuideDocument[]> {
   const sections = await discoverSections();
 
   for (const section of sections) {
-    await walkGuideDirectory(section);
+    await walkGuideDirectory(section.path, section.name);
   }
 
   return [];
