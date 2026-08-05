@@ -31,6 +31,48 @@ function createGuideDocument(
   };
 }
 
+/**
+ * Walks a Guide directory recursively and returns every Markdown document.
+ */
+
+async function walkGuideDirectory(
+  directoryPath: string,
+  relativePath: string,
+): Promise<GuideDocument[]> {
+  const entries = await fs.readdir(directoryPath, {
+    withFileTypes: true,
+  });
+
+  const documents: GuideDocument[] = [];
+
+  for (const entry of entries) {
+    if (entry.isDirectory()) {
+      const nestedDocuments = await walkGuideDirectory(
+        path.join(directoryPath, entry.name),
+        path.join(relativePath, entry.name),
+      );
+
+      documents.push(...nestedDocuments);
+
+      continue;
+    }
+
+    if (!entry.name.endsWith(".md")) {
+      continue;
+    }
+
+    const markdown = await readMarkdownFile(
+      path.join(directoryPath, entry.name),
+    );
+
+    documents.push(
+      createGuideDocument(path.join(relativePath, entry.name), markdown),
+    );
+  }
+
+  return documents;
+}
+
 async function discoverSections(): Promise<GuideSection[]> {
   const entries = await fs.readdir(GUIDE_ROOT, {
     withFileTypes: true,
@@ -49,34 +91,21 @@ async function discoverSections(): Promise<GuideSection[]> {
   return sections;
 }
 
-async function walkGuideDirectory(
-  directoryPath: string,
-  relativePath: string,
-): Promise<GuideDocument[]> {
-  const entries = await fs.readdir(directoryPath, {
-    withFileTypes: true,
-  });
-
-  console.log(relativePath);
-  console.log(entries);
-
-  return [];
-}
-
 export async function getAllDocuments(): Promise<GuideDocument[]> {
   const sections = await discoverSections();
 
-  for (const section of sections) {
-    await walkGuideDirectory(section.path, section.name);
-  }
+  const documents: GuideDocument[] = [];
 
-  return [];
+  for (const section of sections) {
+    documents.push(...(await walkGuideDirectory(section.path, section.name)));
+  }
+  return documents;
 }
 
-export function getDocument(slug: string) {
+export async function getDocument(slug: string) {
   // implement this next.
 }
 
-export function getSection(section: string) {
+export async function getSection(section: string) {
   // implement this next.
 }
