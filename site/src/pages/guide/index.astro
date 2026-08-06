@@ -1,0 +1,17 @@
+---
+import { getDocument } from "../../lib/librarian";
+import { renderMarkdown } from "../../lib/markdown";
+
+const document = await getDocument(
+  "introduction/purpose-of-the-guide",
+);
+
+const html = renderMarkdown(
+  document?.content ?? "",
+  document?.slug ?? "",
+);
+---
+
+<h1>{document?.title}</h1>
+
+<article set:html={html} />

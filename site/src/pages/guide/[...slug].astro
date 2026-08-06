@@ -1,0 +1,31 @@
+---
+import { getAllDocuments, getDocument } from "../../lib/librarian";
+import { renderMarkdown } from "../../lib/markdown";
+
+export async function getStaticPaths() {
+  const documents = await getAllDocuments();
+
+  return documents.map((document) => ({
+    params: {
+      slug: document.slug,
+    },
+  }));
+}
+
+const { slug } = Astro.params;
+
+const document = await getDocument(slug ?? "");
+
+if (!document) {
+  return Astro.redirect("/404");
+}
+
+const html = renderMarkdown(
+  document.content,
+  document.slug,
+);
+---
+
+<h1>{document.title}</h1>
+
+<article set:html={html} />

@@ -6,6 +6,85 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
+## [0.7.0] — The Librarian
+
+This release establishes the foundation for The Guide as a navigable digital resource.
+
+The website is now able to read, interpret, and present the existing Markdown content of The Guide while preserving the repository as the source of truth.
+
+### Added
+
+- Added the initial website foundation built with Astro.
+- Added The Librarian:
+  - A document discovery layer that reads The Guide repository structure.
+  - Automatic discovery of Markdown documents across project sections.
+  - Extraction of document titles and metadata.
+  - Resolution of internal document relationships.
+- Added dynamic document routing:
+  - Guide documents are now generated from repository content rather than manually created pages.
+  - Each Markdown document can be accessed through a corresponding website route.
+- Added Markdown rendering for Guide documents.
+- Added intelligent handling of internal Markdown links:
+  - Relative Markdown links remain unchanged within the repository.
+  - Website routes are generated automatically when rendered.
+- Added support for existing document navigation:
+  - Recommended Next Step links.
+  - Related Reading links.
+- Connected the website navigation directly to the editorial structure already established throughout The Guide.
+
+### Changed
+
+- Established the repository Markdown files as the source of truth for website content.
+- Changed the role of the website from a separate presentation layer into a companion interface for the existing Guide structure.
+- Refined project architecture to separate responsibilities:
+  - Markdown documents contain content and editorial relationships.
+  - The Librarian interprets and organizes documents.
+  - Astro presents the resulting journey.
+
+### Architecture
+
+This milestone establishes the foundational flow:
+Markdown Documents
+|
+v
+The Librarian
+|
+v
+Document Relationships
+|
+v
+Astro
+|
+v
+The Guide Website
+
+The website does not replace the repository. It reveals and organizes what already exists.
+
+### Philosophy
+
+The purpose of this milestone is not simply to make The Guide available online.
+
+The goal is to preserve the posture that shaped the project:
+
+The Guide points.  
+God transforms.
+
+The website serves as another doorway into the same journey: a companion that helps readers open God's Word, engage, and take the next faithful step.
+
+### Notes
+
+This release represents the first expression of The Guide as a living digital resource.
+
+The foundation is intentionally simple:
+
+- Content remains human-readable Markdown.
+- Editorial decisions remain within the documents themselves.
+- Navigation emerges from relationships already discovered throughout the project.
+
+Future development will focus on improving presentation and usability while preserving the principle that Scripture remains the foundation and The Guide remains a companion.
+
+---
+
 ## [0.6.0] — Stewardship and Transparency
 
 This release establishes the foundation for The Guide as a publicly available resource while clarifying its identity, development process, and intended use.
