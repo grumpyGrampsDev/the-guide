@@ -7,14 +7,17 @@ export interface GuideSection {
   name: string;
   path: string;
 }
+
 export interface MarkdownLink {
   title: string;
   path: string;
 }
+
 export interface GuideLink {
   title: string;
   slug: string;
 }
+
 export interface GuideDocument {
   title: string;
   slug: string;
@@ -83,6 +86,31 @@ function extractRecommendedNext(
   return resolveGuideLink(markdownLink, documentPath);
 }
 
+function extractRelatedReading(
+  markdown: string,
+  documentPath: string,
+): GuideLink[] {
+  const start = markdown.indexOf("## Related Reading");
+  const end = markdown.indexOf("## Put It Into Practice");
+
+  if (start === -1) {
+    return [];
+  }
+
+  const section = markdown.slice(start, end === -1 ? undefined : end);
+  const markdownLinks = [...section.matchAll(/\[([^\]]+)\]\(([^)]+)\)/g)];
+
+  return markdownLinks.map((match) =>
+    resolveGuideLink(
+      {
+        title: match[1],
+        path: match[2],
+      },
+      documentPath,
+    ),
+  );
+}
+
 function createGuideDocument(
   relativePath: string,
   markdown: string,
@@ -94,7 +122,7 @@ function createGuideDocument(
     title: titleMatch?.[1] ?? "Untitled",
     slug,
     recommendedNext: extractRecommendedNext(markdown, slug),
-    relatedReading: [],
+    relatedReading: extractRelatedReading(markdown, slug),
     content: markdown,
   };
 }

@@ -1,11 +1,11 @@
 ---
 import { getDocument } from "../lib/librarian";
 
-const document = await getDocument(
+const guideDocument = await getDocument(
   "introduction/purpose-of-the-guide",
 );
 ---
 
-<h1>{document?.title}</h1>
+<h1>{guideDocument?.title}</h1>
 
-<pre>{document?.content}</pre>
+<pre>{guideDocument?.content}</pre>
