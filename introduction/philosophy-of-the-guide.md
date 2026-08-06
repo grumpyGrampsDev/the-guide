@@ -1,4 +1,4 @@
-# Philosophy
+# Philosophy of The Guide
 
 This guide exists to point people toward Scripture, not toward itself.
 

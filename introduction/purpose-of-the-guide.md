@@ -1,4 +1,4 @@
-# Purpose
+# Purpose of The Guide
 
 The Guide began as a desire to remember.
 
