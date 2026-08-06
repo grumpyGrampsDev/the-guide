@@ -91,7 +91,7 @@ This repository is intentionally living. As the Lord continues to teach, refine,
 
 ## Recommended Next Step
 
-Continue with [Purpose of the Guide](purpose-of-the-guide.md) to begin the journey through _The Guide_ from the beginning.
+Continue with [Formation Compass](./formation-compass.md) to see how the practices throughout this guide fit together into a unified journey of spiritual formation.
 
 ## Related Reading
 

@@ -30,7 +30,7 @@ Let's open God's Word together with humble hearts, attentive minds, and an expec
 
 ## Recommended Next Step
 
-Continue with [Formation Compass](./formation-compass.md) to see how the practices throughout this guide fit together into a unified journey of spiritual formation.
+Continue with [Philosophy of the Guide](./philosophy-of-the-guide.md) to read more about the principles behind this project.
 
 ## Related Reading
 
