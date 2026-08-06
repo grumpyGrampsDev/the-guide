@@ -3,7 +3,7 @@ import path from "node:path";
 
 const GUIDE_ROOT = path.resolve(process.cwd(), "..");
 
-export interface GuideSection {
+export interface GuideDirectory {
   name: string;
   path: string;
 }
@@ -164,7 +164,7 @@ async function walkGuideDirectory(
   return documents;
 }
 
-async function discoverSections(): Promise<GuideSection[]> {
+async function discoverGuideDirectories(): Promise<GuideDirectory[]> {
   const entries = await fs.readdir(GUIDE_ROOT, {
     withFileTypes: true,
   });
@@ -185,7 +185,7 @@ async function discoverSections(): Promise<GuideSection[]> {
 // -----------------------------------------------------------------------------
 
 export async function getAllDocuments(): Promise<GuideDocument[]> {
-  const sections = await discoverSections();
+  const sections = await discoverGuideDirectories();
   const documents: GuideDocument[] = [];
 
   for (const section of sections) {
@@ -194,13 +194,15 @@ export async function getAllDocuments(): Promise<GuideDocument[]> {
   return documents;
 }
 
-export async function getDocument(slug: string) {
+export async function getDocument(
+  slug: string,
+): Promise<GuideDocument | undefined> {
   const documents = await getAllDocuments();
 
   return documents.find((doc) => doc.slug === slug);
 }
 
-export async function getSection(section: string) {
+export async function getSection(section: string): Promise<GuideDocument[]> {
   const documents = await getAllDocuments();
 
   return documents.filter((doc) => doc.slug.startsWith(`${section}/`));
