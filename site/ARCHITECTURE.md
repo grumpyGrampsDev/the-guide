@@ -348,7 +348,7 @@ The website should not become detached from the practices and reflections that c
 
 # The Librarian
 
-The Librarian is the internal component responsible for discovering, organizing, and retrieving the Guide's documents. It treats the repository as the source of truth and presents a simple API (getAllDocuments, getDocument, getSection) to the rest of the application.
+The Librarian is the internal component responsible for discovering, organizing, and retrieving the Guide's documents. It treats the repository as the source of truth and presents a simple API (getAllDocuments, getDocument, getSection) to the rest of the application. The Librarian discovers structure. It does not define structure.
 
 ---
 

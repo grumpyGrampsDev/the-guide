@@ -11,11 +11,37 @@ export interface GuideSection {
 export interface GuideDocument {
   title: string;
   slug: string;
+
+  recommendedNext?: string;
+
+  relatedReading: string[];
+
   content: string;
 }
 
+// -----------------------------------------------------------------------------
+// Internal helpers
+// -----------------------------------------------------------------------------
+
 async function readMarkdownFile(filePath: string): Promise<string> {
   return await fs.readFile(filePath, "utf-8");
+}
+
+function extractRecommendedNext(markdown: string): string | undefined {
+  const start = markdown.indexOf("## Recommended Next Step");
+  const end = markdown.indexOf("## Related Reading");
+
+  if (start === -1) {
+    return undefined;
+  }
+
+  const section = markdown.slice(start, end === -1 ? undefined : end);
+  console.log(section);
+  return section;
+}
+
+function extractMarkdownLink(section: string) {
+  // implement next
 }
 
 function createGuideDocument(
@@ -27,6 +53,8 @@ function createGuideDocument(
   return {
     title: titleMatch?.[1] ?? "Untitled",
     slug,
+    recommendedNext: extractRecommendedNext(markdown),
+    relatedReading: [],
     content: markdown,
   };
 }
@@ -91,6 +119,10 @@ async function discoverSections(): Promise<GuideSection[]> {
   return sections;
 }
 
+// -----------------------------------------------------------------------------
+// Public API
+// -----------------------------------------------------------------------------
+
 export async function getAllDocuments(): Promise<GuideDocument[]> {
   const sections = await discoverSections();
 
@@ -103,9 +135,13 @@ export async function getAllDocuments(): Promise<GuideDocument[]> {
 }
 
 export async function getDocument(slug: string) {
-  // implement this next.
+  const documents = await getAllDocuments();
+
+  return documents.find((doc) => doc.slug === slug);
 }
 
 export async function getSection(section: string) {
-  // implement this next.
+  const documents = await getAllDocuments();
+
+  return documents.filter((doc) => doc.slug.startsWith(`${section}/`));
 }

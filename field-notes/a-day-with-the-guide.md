@@ -203,7 +203,7 @@ Right foot.
 
 ## Recommended Next Step
 
-Continue with [The Guide](../introduction/path-into-the-guide.md) if you would like to explore the practices and rhythms that shaped this journey.
+Continue with [Path Into The Guide](../introduction/path-into-the-guide.md) if you would like to explore the practices and rhythms that shaped this journey.
 
 ## Related Reading
 
