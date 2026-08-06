@@ -1,13 +1,13 @@
 ---
 import { getAllDocuments } from "../lib/guide";
 
-const docs = await getAllDocuments();
+const documents = await getAllDocuments();
 ---
 
-<html lang="en">
-  <body>
-    <h1>The Guide</h1>
+<h1>The Guide</h1>
 
-    <pre>{JSON.stringify(docs, null, 2)}</pre>
-  </body>
-</html>
+<ul>
+  {documents.map((doc) => (
+    <li>{doc.title}</li>
+  ))}
+</ul>
