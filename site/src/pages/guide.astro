@@ -1,14 +1,11 @@
 ---
-import { getSection } from "../lib/librarian";
+import { getDocument } from "../lib/librarian";
 
-const documents = await getSection("introduction");
+const document = await getDocument(
+  "introduction/purpose-of-the-guide",
+);
 ---
 
+<h1>{document?.title}</h1>
 
-<h1>Introduction</h1>
-
-<ul>
-  {documents.map((doc) => (
-    <li>{doc.title}</li>
-  ))}
-</ul>
+<pre>{document?.content}</pre>

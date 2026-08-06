@@ -8,13 +8,18 @@ export interface GuideSection {
   path: string;
 }
 
+export interface GuideLink {
+  title: string;
+  path: string;
+}
+
 export interface GuideDocument {
   title: string;
   slug: string;
 
-  recommendedNext?: string;
+  recommendedNext?: GuideLink;
 
-  relatedReading: string[];
+  relatedReading: GuideLink[];
 
   content: string;
 }
@@ -27,7 +32,20 @@ async function readMarkdownFile(filePath: string): Promise<string> {
   return await fs.readFile(filePath, "utf-8");
 }
 
-function extractRecommendedNext(markdown: string): string | undefined {
+function extractMarkdownLink(section: string): GuideLink | undefined {
+  const linkMatch = section.match(/\[([^\]]+)\]\(([^)]+)\)/);
+
+  if (!linkMatch) {
+    return undefined;
+  }
+
+  return {
+    title: linkMatch[1],
+    path: linkMatch[2],
+  };
+}
+
+function extractRecommendedNext(markdown: string): GuideLink | undefined {
   const start = markdown.indexOf("## Recommended Next Step");
   const end = markdown.indexOf("## Related Reading");
 
@@ -36,12 +54,8 @@ function extractRecommendedNext(markdown: string): string | undefined {
   }
 
   const section = markdown.slice(start, end === -1 ? undefined : end);
-  console.log(section);
-  return section;
-}
 
-function extractMarkdownLink(section: string) {
-  // implement next
+  return extractMarkdownLink(section);
 }
 
 function createGuideDocument(
@@ -131,6 +145,7 @@ export async function getAllDocuments(): Promise<GuideDocument[]> {
   for (const section of sections) {
     documents.push(...(await walkGuideDirectory(section.path, section.name)));
   }
+  console.log(documents[0].recommendedNext);
   return documents;
 }
 
