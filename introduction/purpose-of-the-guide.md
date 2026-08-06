@@ -2,7 +2,7 @@
 
 The Guide began as a desire to remember.
 
-As I grew in my faith, I found myself returning to the same lessons again and again. Some came through joyful seasons, others through difficult ones. Some were discovered while slowly reading Scripture, others through prayer, journaling, sermons, conversations, and quiet moments when God's Word met me exactly where I was. I wanted a place to collect those lessons—not so they would replace Scripture, but so they would continually lead me back to it.
+As I grew in my faith, I found myself returning to the same lessons again and again. Some came through joyful seasons, others through difficult ones. Some were discovered while slowly reading Scripture, others through prayer, journaling, sermons, conversations, and quiet moments when God's Word met me exactly where I was. I wanted a place to collect those lessons. Not so they would replace Scripture, but so they would continually lead me back to it.
 
 This guide is the result.
 

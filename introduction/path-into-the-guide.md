@@ -118,13 +118,7 @@ Begin with [How to Approach Scripture](../reading-scripture/how-to-approach-scri
 
 ## Scriptures That Shaped The Guide
 
-Every journey has passages that become familiar companions.
-
-Throughout this walk, certain Scriptures have repeatedly shaped the way I think about reading, praying, reflecting, remembering, and walking with God.
-
-These passages are not a replacement for Scripture as a whole.
-
-They are simply the Scriptures God has repeatedly brought me back to as He shaped the heart and language of The Guide.
+Every journey has passages that become familiar companions. Throughout this walk, certain Scriptures have repeatedly shaped the way I think about reading, praying, reflecting, remembering, and walking with God. These passages are not a replacement for Scripture as a whole. They are simply the Scriptures God has repeatedly brought me back to as He shaped the heart and language of The Guide.
 
 - [scriptures-that-shaped-the-guide](../field-notes/scripture-that-shaped-the-guide.md)
 
