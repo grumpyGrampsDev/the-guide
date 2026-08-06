@@ -202,7 +202,9 @@ export async function getDocument(
   return documents.find((doc) => doc.slug === slug);
 }
 
-export async function getSection(section: string): Promise<GuideDocument[]> {
+export async function getGuideDirectory(
+  section: string,
+): Promise<GuideDocument[]> {
   const documents = await getAllDocuments();
 
   return documents.filter((doc) => doc.slug.startsWith(`${section}/`));
