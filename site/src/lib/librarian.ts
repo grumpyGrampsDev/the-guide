@@ -7,12 +7,14 @@ export interface GuideSection {
   name: string;
   path: string;
 }
-
-export interface GuideLink {
+export interface MarkdownLink {
   title: string;
   path: string;
 }
-
+export interface GuideLink {
+  title: string;
+  slug: string;
+}
 export interface GuideDocument {
   title: string;
   slug: string;
@@ -32,20 +34,39 @@ async function readMarkdownFile(filePath: string): Promise<string> {
   return await fs.readFile(filePath, "utf-8");
 }
 
-function extractMarkdownLink(section: string): GuideLink | undefined {
+function extractMarkdownLink(section: string): MarkdownLink | undefined {
   const linkMatch = section.match(/\[([^\]]+)\]\(([^)]+)\)/);
 
   if (!linkMatch) {
     return undefined;
   }
-
   return {
     title: linkMatch[1],
     path: linkMatch[2],
   };
 }
 
-function extractRecommendedNext(markdown: string): GuideLink | undefined {
+function resolveGuideLink(
+  markdownLink: MarkdownLink,
+  documentSlug: string,
+): GuideLink {
+  const documentDirectory = path.dirname(documentSlug);
+
+  const slug = path
+    .normalize(path.join(documentDirectory, markdownLink.path))
+    .replace(/\\/g, "/")
+    .replace(/\.md$/, "");
+
+  return {
+    title: markdownLink.title,
+    slug,
+  };
+}
+
+function extractRecommendedNext(
+  markdown: string,
+  documentPath: string,
+): GuideLink | undefined {
   const start = markdown.indexOf("## Recommended Next Step");
   const end = markdown.indexOf("## Related Reading");
 
@@ -54,8 +75,12 @@ function extractRecommendedNext(markdown: string): GuideLink | undefined {
   }
 
   const section = markdown.slice(start, end === -1 ? undefined : end);
+  const markdownLink = extractMarkdownLink(section);
 
-  return extractMarkdownLink(section);
+  if (!markdownLink) {
+    return undefined;
+  }
+  return resolveGuideLink(markdownLink, documentPath);
 }
 
 function createGuideDocument(
@@ -64,10 +89,11 @@ function createGuideDocument(
 ): GuideDocument {
   const titleMatch = markdown.match(/^#\s+(.+)$/m);
   const slug = relativePath.replace(/\.md$/, "");
+
   return {
     title: titleMatch?.[1] ?? "Untitled",
     slug,
-    recommendedNext: extractRecommendedNext(markdown),
+    recommendedNext: extractRecommendedNext(markdown, slug),
     relatedReading: [],
     content: markdown,
   };
@@ -93,20 +119,15 @@ async function walkGuideDirectory(
         path.join(directoryPath, entry.name),
         path.join(relativePath, entry.name),
       );
-
       documents.push(...nestedDocuments);
-
       continue;
     }
-
     if (!entry.name.endsWith(".md")) {
       continue;
     }
-
     const markdown = await readMarkdownFile(
       path.join(directoryPath, entry.name),
     );
-
     documents.push(
       createGuideDocument(path.join(relativePath, entry.name), markdown),
     );
@@ -119,7 +140,6 @@ async function discoverSections(): Promise<GuideSection[]> {
   const entries = await fs.readdir(GUIDE_ROOT, {
     withFileTypes: true,
   });
-
   const sections = entries
     .filter(
       (entry) =>
@@ -129,7 +149,6 @@ async function discoverSections(): Promise<GuideSection[]> {
       name: entry.name,
       path: path.join(GUIDE_ROOT, entry.name),
     }));
-
   return sections;
 }
 
@@ -139,13 +158,11 @@ async function discoverSections(): Promise<GuideSection[]> {
 
 export async function getAllDocuments(): Promise<GuideDocument[]> {
   const sections = await discoverSections();
-
   const documents: GuideDocument[] = [];
 
   for (const section of sections) {
     documents.push(...(await walkGuideDirectory(section.path, section.name)));
   }
-  console.log(documents[0].recommendedNext);
   return documents;
 }
 
