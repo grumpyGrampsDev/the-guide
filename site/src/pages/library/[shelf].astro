@@ -1,22 +1,23 @@
 ---
+import Layout from "../../layouts/Layout.astro";
 import { getGuideShelves } from "../../lib/librarian";
 
 export async function getStaticPaths() {
-  const shelves = await getGuideShelves();
+  const availableShelves = await getGuideShelves();
 
-  return shelves.map((shelf) => ({
+  return availableShelves.map((shelf) => ({
     params: {
       shelf: shelf.slug,
     },
   }));
 }
 
-const { shelf } = Astro.params;
+const { shelf: shelfSlug } = Astro.params;
 
-const shelves = await getGuideShelves();
+const availableShelves = await getGuideShelves();
 
-const currentShelf = shelves.find(
-  (item) => item.slug === shelf,
+const currentShelf = availableShelves.find(
+  (item) => item.slug === shelfSlug,
 );
 
 if (!currentShelf) {
@@ -24,16 +25,18 @@ if (!currentShelf) {
 }
 ---
 
-<h1>{currentShelf.name}</h1>
+<Layout title={currentShelf.name}>
+  <h1>{currentShelf.name}</h1>
 
-<ul>
-  {
-    currentShelf.documents.map((document) => (
-      <li>
-        <a href={`/library/${document.slug}`}>
-          {document.title}
-        </a>
-      </li>
-    ))
-  }
-</ul>
+  <ul>
+    {
+      currentShelf.documents.map((document) => (
+        <li>
+          <a href={`/library/${document.slug}`}>
+            {document.title}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

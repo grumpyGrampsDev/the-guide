@@ -206,7 +206,7 @@ async function discoverShelfLocations(): Promise<GuideShelfLocation[]> {
 // Public API
 // -----------------------------------------------------------------------------
 
-export async function getAllDocuments(
+export async function getLibraryDocuments(
   shelves?: GuideShelfLocation[],
 ): Promise<GuideDocument[]> {
   const shelfLocations = shelves ?? (await discoverShelfLocations());
@@ -220,7 +220,7 @@ export async function getAllDocuments(
 
 export async function getGuideShelves(): Promise<GuideShelf[]> {
   const shelfLocations = await discoverShelfLocations();
-  const documents = await getAllDocuments(shelfLocations);
+  const documents = await getLibraryDocuments(shelfLocations);
 
   return shelfLocations.map((shelf) => ({
     name: formatGuideTitle(shelf.name),
@@ -234,7 +234,7 @@ export async function getGuideShelves(): Promise<GuideShelf[]> {
 export async function getDocumentsOnShelf(
   shelfSlug: string,
 ): Promise<GuideDocument[]> {
-  const documents = await getAllDocuments();
+  const documents = await getLibraryDocuments();
 
   return documents.filter((doc) => doc.slug.startsWith(`${shelfSlug}/`));
 }
@@ -242,7 +242,7 @@ export async function getDocumentsOnShelf(
 export async function getDocument(
   slug: string,
 ): Promise<GuideDocument | undefined> {
-  const documents = await getAllDocuments();
+  const documents = await getLibraryDocuments();
 
   return documents.find((doc) => doc.slug === slug);
 }

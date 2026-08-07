@@ -1,10 +1,10 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getAllDocuments, getDocument } from "../../lib/librarian";
+import { getLibraryDocuments, getDocument } from "../../lib/librarian";
 import { renderMarkdown } from "../../lib/markdown";
 
 export async function getStaticPaths() {
-  const documents = await getAllDocuments();
+  const documents = await getLibraryDocuments();
 
   return documents.map((document) => ({
     params: {

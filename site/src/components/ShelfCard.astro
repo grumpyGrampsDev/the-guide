@@ -15,7 +15,7 @@ const { shelf } = Astro.props;
     Discover the writings and practices gathered on this shelf.
   </p>
 
-  <a href={`/library/${shelf.name.toLowerCase().replace(/ /g, "-")}`}>
+  <a href={`/library/${shelf.slug}`}>
     Enter Shelf
   </a>
 </section>
