@@ -11,6 +11,15 @@ const { title = "The Guide" } = Astro.props;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&display=swap"
+      rel="stylesheet"
+    />
+
     <title>{title}</title>
   </head>
 
@@ -18,3 +27,91 @@ const { title = "The Guide" } = Astro.props;
     <slot />
   </body>
 </html>
+
+<style>
+  :root {
+    --content-width: 760px;
+
+    --font-ui: "Inter", system-ui, sans-serif;
+    --font-reading: "Literata", Georgia, serif;
+
+    --text: #222;
+    --background: #faf9f7;
+  }
+
+  html {
+    font-size: 18px;
+  }
+
+  body {
+    margin: 0;
+    background: var(--background);
+    color: var(--text);
+
+    font-family: var(--font-reading);
+    line-height: 1.8;
+
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-ui);
+    font-weight: 600;
+    line-height: 1.25;
+
+    margin-top: 2.75rem;
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    margin-top: 0;
+  }
+
+  p {
+    margin: 1.25rem 0;
+  }
+
+  ul,
+  ol {
+    padding-left: 1.5rem;
+  }
+
+  li + li {
+    margin-top: 0.45rem;
+  }
+
+  hr {
+    margin: 3rem 0;
+    border: 0;
+    border-top: 1px solid #ddd;
+  }
+
+  blockquote {
+    margin: 2rem 0;
+    padding-left: 1.25rem;
+    border-left: 3px solid #cfcfcf;
+    color: #555;
+    font-style: italic;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  a {
+    color: inherit;
+    text-decoration-thickness: 0.08em;
+    text-underline-offset: 0.15em;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+</style>

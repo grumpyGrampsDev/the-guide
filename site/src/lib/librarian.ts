@@ -26,6 +26,8 @@ export interface GuideDocument {
   title: string;
   slug: string;
 
+  shelf: string;
+
   type: "document" | "index";
 
   recommendedNext?: GuideLink;
@@ -127,13 +129,18 @@ function createGuideDocument(
   markdown: string,
 ): GuideDocument {
   const titleMatch = markdown.match(/^#\s+(.+)$/m);
+
   const slug = relativePath.replace(/\.md$/, "");
+  const shelf = slug.split("/")[0];
+
   const documentType = relativePath.endsWith("README.md")
     ? "index"
     : "document";
+
   return {
     title: titleMatch?.[1] ?? "Untitled",
     slug,
+    shelf,
     type: documentType,
     recommendedNext: extractRecommendedNext(markdown, slug),
     relatedReading: extractRelatedReading(markdown, slug),
@@ -225,9 +232,7 @@ export async function getGuideShelves(): Promise<GuideShelf[]> {
   return shelfLocations.map((shelf) => ({
     name: formatGuideTitle(shelf.name),
     slug: shelf.name,
-    documents: documents.filter((document) =>
-      document.slug.startsWith(`${shelf.name}/`),
-    ),
+    documents: documents.filter((document) => document.shelf === shelf.name),
   }));
 }
 
@@ -236,7 +241,7 @@ export async function getDocumentsOnShelf(
 ): Promise<GuideDocument[]> {
   const documents = await getLibraryDocuments();
 
-  return documents.filter((doc) => doc.slug.startsWith(`${shelfSlug}/`));
+  return documents.filter((document) => document.shelf === shelfSlug);
 }
 
 export async function getDocument(
