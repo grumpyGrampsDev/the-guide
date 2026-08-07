@@ -1,0 +1,38 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getGuideShelves } from "../../lib/librarian";
+
+const availableShelves = await getGuideShelves();
+---
+
+<Layout title="Library">
+  <h1>Library</h1>
+
+  <p>
+    Browse every shelf and every document currently available in The Guide.
+  </p>
+
+  {
+    availableShelves.map((shelf) => (
+      <section>
+        <h2>
+          <a href={`/library/${shelf.slug}`}>
+            {shelf.name}
+          </a>
+        </h2>
+
+        <ul>
+          {
+            shelf.documents.map((document) => (
+              <li>
+                <a href={`/library/${document.slug}`}>
+                  {document.title}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    ))
+  }
+</Layout>

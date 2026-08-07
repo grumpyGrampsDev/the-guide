@@ -33,12 +33,25 @@ const shelves = await getGuideShelves();
   </section>
 
   <section>
-    <h2>Explore the Library</h2>
+  <h2>Browse Everything</h2>
+
+  <p>
+    Looking for something specific? Browse the complete catalog of every
+    document in The Guide.
+  </p>
+
+  <a href="/library">
+    View Library Catalog
+  </a>
+</section>
+
+<section>
+  <h2>Explore the Library</h2>
 
   {
     shelves.map((shelf) => (
       <ShelfCard shelf={shelf} />
     ))
   }
-  </section>
+</section>
 </Layout>
