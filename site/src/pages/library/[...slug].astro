@@ -1,4 +1,5 @@
 ---
+import Layout from "../../layouts/Layout.astro";
 import { getAllDocuments, getDocument } from "../../lib/librarian";
 import { renderMarkdown } from "../../lib/markdown";
 
@@ -26,6 +27,8 @@ const html = renderMarkdown(
 );
 ---
 
-<h1>{document.title}</h1>
+<Layout title={document.title}>
+  <h1>{document.title}</h1>
 
-<article set:html={html} />
+  <article set:html={html} />
+</Layout>

@@ -1,41 +1,44 @@
 ---
+import Layout from "../../layouts/Layout.astro";
 import { getGuideShelves } from "../../lib/librarian";
 import ShelfCard from "../../components/ShelfCard.astro";
 
 const shelves = await getGuideShelves();
 ---
 
-<h1>The Guide</h1>
+<Layout title="The Guide">
+  <h1>The Guide</h1>
 
-<p>
-The Guide is a companion for reading, studying, praying,
-reflecting, remembering, and walking with Scripture.
-</p>
+  <p>
+  The Guide is a companion for reading, studying, praying,
+  reflecting, remembering, and walking with Scripture.
+  </p>
 
-<p>
-It is not a replacement for Scripture, but a collection of
-practices and reflections gathered while learning
-to walk faithfully with God.
-</p>
+  <p>
+  It is not a replacement for Scripture, but a collection of
+  practices and reflections gathered while learning
+  to walk faithfully with God.
+  </p>
 
-<section>
- <h2>New Here?</h2>
+  <section>
+  <h2>New Here?</h2>
 
-<p>
-If this is your first time visiting The Guide, begin here.
-</p>
+  <p>
+  If this is your first time visiting The Guide, begin here.
+  </p>
 
-<a href="/library/introduction/path-into-the-guide">
-  Start the Journey
-</a>
-</section>
+  <a href="/library/introduction/path-into-the-guide">
+    Start the Journey
+  </a>
+  </section>
 
-<section>
-  <h2>Explore the Library</h2>
+  <section>
+    <h2>Explore the Library</h2>
 
- {
-  shelves.map((shelf) => (
-    <ShelfCard shelf={shelf} />
-  ))
-}
-</section>
+  {
+    shelves.map((shelf) => (
+      <ShelfCard shelf={shelf} />
+    ))
+  }
+  </section>
+</Layout>
