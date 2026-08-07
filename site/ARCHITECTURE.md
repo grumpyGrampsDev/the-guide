@@ -298,27 +298,72 @@ Future possibilities:
 
 ---
 
-# Website Architecture
+# Site Architecture
 
-The Astro website is a presentation layer over the content.
+The website mirrors the physical metaphor of The Guide:
 
-The expected flow:
+Door → Front Desk → Shelves → Books
 
-Markdown Content
+Each layer has a specific purpose.
 
-↓
+### Door
 
-Astro Content Collections
+The landing page is the first invitation into The Guide.
 
-↓
+Its purpose is not to explain everything, but to welcome visitors and invite them inside.
 
-Layouts and Components
+### Front Desk
 
-↓
+The front desk provides orientation.
 
-Website Experience
+Visitors can:
 
-The website should make the content easier to discover without changing its purpose.
+- Begin the recommended path.
+- Browse the available shelves.
+
+The front desk does not contain the library contents. It helps visitors understand where to go.
+
+### Shelves
+
+Shelves organize related documents into meaningful collections.
+
+Examples:
+
+- Introduction
+- Reading Scripture
+- Formation
+- Prayer
+- Walking
+
+Each shelf provides an entry point into the documents it contains.
+
+### Books
+
+Documents contain the actual writings of The Guide.
+
+Documents are rendered from Markdown files in the repository and remain the source of truth.
+
+---
+
+## Routing
+
+The current routing structure:
+/
+Landing page
+/front-desk
+Orientation and navigation
+/library/[shelf]
+Shelf doorway
+/library/[...slug]
+Individual document
+
+The routing intentionally separates:
+
+- Orientation.
+- Organization.
+- Content.
+
+This allows visitors to either follow a recommended journey or explore freely.
 
 ---
 

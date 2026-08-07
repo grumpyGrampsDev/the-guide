@@ -6,6 +6,47 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
+## [Unreleased] — The Guide Website Foundation
+
+This milestone establishes the initial website structure for The Guide, transforming the repository from a collection of Markdown resources into a navigable experience.
+
+### Added
+
+- Added the website foundation using Astro.
+- Added the first navigation layers:
+  - Door
+  - Front Desk
+  - Library Shelves
+  - Documents
+- Added a landing page as the entry point into The Guide.
+- Added the Front Desk as an orientation point for new visitors.
+- Added shelf navigation allowing visitors to browse collections of related resources.
+- Added document routing for rendering Markdown resources as readable pages.
+
+### Changed
+
+- Refined the relationship between navigation layers:
+  - The Front Desk introduces visitors to The Guide.
+  - Shelves organize related resources.
+  - Documents contain the actual content.
+- Updated navigation to preserve both:
+  - A recommended path for new readers.
+  - Freedom to explore individual sections.
+
+### Philosophy
+
+The website structure reflects the purpose of The Guide itself.
+
+The Guide is not intended to create a rigid path that replaces personal engagement with Scripture. Instead, it provides orientation, resources, and companions for walking faithfully.
+
+The website mirrors this posture:
+
+> The Guide points.
+>
+> God transforms.
+
+---
+
 ## [0.7.0] — The Librarian
 
 This release establishes the foundation for The Guide as a navigable digital resource.
