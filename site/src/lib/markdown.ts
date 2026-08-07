@@ -2,7 +2,7 @@ import { marked } from "marked";
 import path from "node:path";
 
 function resolveGuideLink(href: string, documentSlug: string): string {
-  if (!href.endsWith(".md")) {
+  if (!href || href.startsWith("http")) {
     return href;
   }
 
