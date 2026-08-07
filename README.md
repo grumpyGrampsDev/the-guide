@@ -36,7 +36,7 @@ Over time, this rhythm developed into the broader formation pattern:
 
 These practices are not a formula for spiritual growth. They are reminders of the ways God has used His Word to shape my own walk with Him.
 
-When you're ready to begin reading Scripture, the [A Reading Path Through Scripture](biblical-books/README.md) provides one possible path through the Bible while making use of the practices found throughout The Guide.
+When you're ready to begin reading Scripture, the [A Reading Path Through Scripture](./reading-path/README.md) provides one possible path through the Bible while making use of the practices found throughout The Guide.
 
 ---
 
