@@ -1,0 +1,27 @@
+---
+import { getGuideShelves } from "../lib/librarian";
+
+const shelves = await getGuideShelves();
+---
+
+<h1>The Guide Library</h1>
+
+{
+  shelves.map((shelf) => (
+    <section>
+      <h2>{shelf.name}</h2>
+
+      <ul>
+        {
+          shelf.documents.map((document) => (
+            <li>
+              <a href={`/guide/${document.slug}`}>
+                {document.title}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  ))
+}

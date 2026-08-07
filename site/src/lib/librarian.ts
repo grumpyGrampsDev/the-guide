@@ -3,6 +3,10 @@ import path from "node:path";
 
 const GUIDE_ROOT = path.resolve(process.cwd(), "..");
 
+// -----------------------------------------------------------------------------
+// Interfaces
+// -----------------------------------------------------------------------------
+
 export interface GuideDirectory {
   name: string;
   path: string;
@@ -22,11 +26,17 @@ export interface GuideDocument {
   title: string;
   slug: string;
 
-  recommendedNext?: GuideLink;
+  type: "document" | "index";
 
+  recommendedNext?: GuideLink;
   relatedReading: GuideLink[];
 
   content: string;
+}
+
+export interface GuideShelf {
+  name: string;
+  documents: GuideDocument[];
 }
 
 // -----------------------------------------------------------------------------
@@ -68,7 +78,7 @@ function resolveGuideLink(
 
 function extractRecommendedNext(
   markdown: string,
-  documentPath: string,
+  documentSlug: string,
 ): GuideLink | undefined {
   const start = markdown.indexOf("## Recommended Next Step");
   const end = markdown.indexOf("## Related Reading");
@@ -83,12 +93,12 @@ function extractRecommendedNext(
   if (!markdownLink) {
     return undefined;
   }
-  return resolveGuideLink(markdownLink, documentPath);
+  return resolveGuideLink(markdownLink, documentSlug);
 }
 
 function extractRelatedReading(
   markdown: string,
-  documentPath: string,
+  documentSlug: string,
 ): GuideLink[] {
   const start = markdown.indexOf("## Related Reading");
   const end = markdown.indexOf("## Put It Into Practice");
@@ -106,7 +116,7 @@ function extractRelatedReading(
         title: match[1],
         path: match[2],
       },
-      documentPath,
+      documentSlug,
     ),
   );
 }
@@ -117,10 +127,13 @@ function createGuideDocument(
 ): GuideDocument {
   const titleMatch = markdown.match(/^#\s+(.+)$/m);
   const slug = relativePath.replace(/\.md$/, "");
-
+  const documentType = relativePath.endsWith("README.md")
+    ? "index"
+    : "document";
   return {
     title: titleMatch?.[1] ?? "Untitled",
     slug,
+    type: documentType,
     recommendedNext: extractRecommendedNext(markdown, slug),
     relatedReading: extractRelatedReading(markdown, slug),
     content: markdown,
@@ -184,8 +197,10 @@ async function discoverGuideDirectories(): Promise<GuideDirectory[]> {
 // Public API
 // -----------------------------------------------------------------------------
 
-export async function getAllDocuments(): Promise<GuideDocument[]> {
-  const sections = await discoverGuideDirectories();
+export async function getAllDocuments(
+  directories?: GuideDirectory[],
+): Promise<GuideDocument[]> {
+  const sections = directories ?? (await discoverGuideDirectories());
   const documents: GuideDocument[] = [];
 
   for (const section of sections) {
@@ -194,18 +209,30 @@ export async function getAllDocuments(): Promise<GuideDocument[]> {
   return documents;
 }
 
+export async function getGuideShelves(): Promise<GuideShelf[]> {
+  const directories = await discoverGuideDirectories();
+  const documents = await getAllDocuments(directories);
+
+  return directories.map((directory) => ({
+    name: directory.name,
+    documents: documents.filter((document) =>
+      document.slug.startsWith(`${directory.name}/`),
+    ),
+  }));
+}
+
+export async function getDocumentsOnShelf(
+  shelf: string,
+): Promise<GuideDocument[]> {
+  const documents = await getAllDocuments();
+
+  return documents.filter((doc) => doc.slug.startsWith(`${shelf}/`));
+}
+
 export async function getDocument(
   slug: string,
 ): Promise<GuideDocument | undefined> {
   const documents = await getAllDocuments();
 
   return documents.find((doc) => doc.slug === slug);
-}
-
-export async function getGuideDirectory(
-  section: string,
-): Promise<GuideDocument[]> {
-  const documents = await getAllDocuments();
-
-  return documents.filter((doc) => doc.slug.startsWith(`${section}/`));
 }
