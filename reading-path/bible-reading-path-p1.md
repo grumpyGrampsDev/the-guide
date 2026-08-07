@@ -1,6 +1,6 @@
 # Reading Path Part 1
 
-_A structured reading plan focused on understanding context, themes, and connections rather than speed._
+_A structured reading path focused on understanding context, themes, and connections rather than speed._
 
 This plan is not intended to be a measure of spiritual achievement or a race to complete Scripture.
 
@@ -380,7 +380,7 @@ The purpose of Scripture is not simply understanding information about God, but 
 
 ## Recommended Next Step
 
-Continue with [Part 2](./bible-reading-plan-p2.md) when you're ready to continue through the reading plan.
+Continue with [Part 2](./bible-reading-plan-p2.md) when you're ready to continue through the reading path.
 
 ## Related Reading
 
@@ -389,4 +389,4 @@ Continue with [Part 2](./bible-reading-plan-p2.md) when you're ready to continue
 
 ## Put It Into Practice
 
-As you work through this reading plan, don't feel pressured to keep pace with the schedule. Read attentively, pray honestly, and allow God's Word to shape your heart more than your progress through the plan.
+As you work through this reading path, don't feel pressured to keep pace with the schedule. Read attentively, pray honestly, and allow God's Word to shape your heart more than your progress through the plan.

@@ -1,8 +1,8 @@
-# About the Reading Plan
+# About the Reading Path
 
 ## Opening Scripture
 
-A Bible reading plan is the starting point for The Guide.
+A Bible reading path is the starting point for The Guide.
 
 It exists to provide one possible path through Scripture with an emphasis on:
 
@@ -15,7 +15,7 @@ This is not a race to complete the Bible. It is an invitation to open God's Word
 
 ---
 
-# The Purpose of the Reading Plan
+# The Purpose of the reading path
 
 Scripture is not simply a collection of information to master. It is God's Word to receive, understand, and live.
 
@@ -36,7 +36,7 @@ The goal is:
 
 # How This Fits The Guide
 
-The Bible reading plan begins the journey:
+The Bible reading path begins the journey:
 
     Scripture
         ↓
@@ -94,7 +94,7 @@ Ask:
 
 ---
 
-# The Reading Plan
+# The reading path
 
 The plan is divided into three parts:
 
@@ -111,13 +111,13 @@ Continues through the Old Testament foundations, Israel's history, and wisdom li
 ## Part 3
 
 Completes the prophetic writings and provides practices for continuing to engage Scripture.
-[The conclusion of our reading plan](./bible-reading-plan-p3.md)
+[The conclusion of our reading path](./bible-reading-plan-p3.md)
 
 ---
 
 # A Final Reminder
 
-There is no substitute for opening the Bible. A reading plan is only a guide. The purpose is not the plan itself. The purpose is knowing the God who has revealed Himself through His Word.
+There is no substitute for opening the Bible. A reading path is only a guide. The purpose is not the plan itself. The purpose is knowing the God who has revealed Himself through His Word.
 
 ---
 
@@ -145,10 +145,10 @@ Right foot.
 
 ## Before You Begin
 
-The reading plan is designed to be used alongside the practices found throughout _The Guide_. If you're new to the project, consider becoming familiar with these resources before you begin:
+The reading path is designed to be used alongside the practices found throughout _The Guide_. If you're new to the project, consider becoming familiar with these resources before you begin:
 
 - [Purpose of the Guide](../introduction/purpose-of-the-guide.md)
 - [How to Approach Scripture](../reading-scripture/how-to-approach-scripture.md)
 - [Journal Framework](../journaling/journal-framework.md)
 
-These documents introduce the posture and practices that accompany this reading plan, helping you move beyond simply finishing passages toward faithfully engaging with God's Word.
+These documents introduce the posture and practices that accompany this reading path, helping you move beyond simply finishing passages toward faithfully engaging with God's Word.

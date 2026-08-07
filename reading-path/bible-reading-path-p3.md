@@ -155,7 +155,7 @@ Suggested:
 
 # Companion Practices
 
-These practices are not requirements for completing the reading plan.
+These practices are not requirements for completing the reading path.
 
 They are ways to slow down, notice, and respond.
 
