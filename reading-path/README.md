@@ -1,8 +1,8 @@
-# Biblical Books
+# About the Reading Plan
 
 ## Opening Scripture
 
-The Bible reading plan is the starting point for The Guide.
+A Bible reading plan is the starting point for The Guide.
 
 It exists to provide one possible path through Scripture with an emphasis on:
 
