@@ -101,17 +101,17 @@ The plan is divided into three parts:
 ## Part 1
 
 Introduces the story of Jesus and the early Church, then moves through foundational Christian teaching.
-[Recommended trailhead](./bible-reading-plan-p1.md)
+[Recommended trailhead](./bible-reading-path-p1.md)
 
 ## Part 2
 
 Continues through the Old Testament foundations, Israel's history, and wisdom literature.
-[Continue the journey](./bible-reading-plan-p2.md)
+[Continue the journey](./bible-reading-path-p2.md)
 
 ## Part 3
 
 Completes the prophetic writings and provides practices for continuing to engage Scripture.
-[The conclusion of our reading path](./bible-reading-plan-p3.md)
+[The conclusion of our reading path](./bible-reading-path-p3.md)
 
 ---
 

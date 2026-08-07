@@ -380,7 +380,7 @@ The purpose of Scripture is not simply understanding information about God, but 
 
 ## Recommended Next Step
 
-Continue with [Part 2](./bible-reading-plan-p2.md) when you're ready to continue through the reading path.
+Continue with [Part 2](./bible-reading-path-p2.md) when you're ready to continue through the reading path.
 
 ## Related Reading
 

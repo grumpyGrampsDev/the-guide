@@ -285,7 +285,7 @@ Job invites humility before questions we cannot fully resolve.
 
 ## Recommended Next Step
 
-Continue with [Part 3](./bible-reading-plan-p3.md) as you continue your journey through Scripture.
+Continue with [Part 3](./bible-reading-path-p3.md) as you continue your journey through Scripture.
 
 ## Related Reading
 
