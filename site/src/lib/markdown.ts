@@ -13,7 +13,7 @@ function resolveGuideLink(href: string, documentSlug: string): string {
     .replace(/\\/g, "/")
     .replace(/\.md$/, "");
 
-  return `/guide/${slug}`;
+  return `/library/${slug}`;
 }
 
 export function renderMarkdown(markdown: string, documentSlug: string): string {
