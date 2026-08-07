@@ -36,6 +36,7 @@ export interface GuideDocument {
 
 export interface GuideShelf {
   name: string;
+  slug: string;
   documents: GuideDocument[];
 }
 
@@ -223,6 +224,7 @@ export async function getGuideShelves(): Promise<GuideShelf[]> {
 
   return shelfLocations.map((shelf) => ({
     name: formatGuideTitle(shelf.name),
+    slug: shelf.name,
     documents: documents.filter((document) =>
       document.slug.startsWith(`${shelf.name}/`),
     ),

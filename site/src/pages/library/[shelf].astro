@@ -1,0 +1,39 @@
+---
+import { getGuideShelves } from "../../lib/librarian";
+
+export async function getStaticPaths() {
+  const shelves = await getGuideShelves();
+
+  return shelves.map((shelf) => ({
+    params: {
+      shelf: shelf.slug,
+    },
+  }));
+}
+
+const { shelf } = Astro.params;
+
+const shelves = await getGuideShelves();
+
+const currentShelf = shelves.find(
+  (item) => item.slug === shelf,
+);
+
+if (!currentShelf) {
+  return Astro.redirect("/404");
+}
+---
+
+<h1>{currentShelf.name}</h1>
+
+<ul>
+  {
+    currentShelf.documents.map((document) => (
+      <li>
+        <a href={`/library/${document.slug}`}>
+          {document.title}
+        </a>
+      </li>
+    ))
+  }
+</ul>

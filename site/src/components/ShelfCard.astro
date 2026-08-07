@@ -11,15 +11,11 @@ const { shelf } = Astro.props;
 <section>
   <h3>{shelf.name}</h3>
 
-  <ul>
-    {
-      shelf.documents.map((document) => (
-        <li>
-          <a href={`/library/${document.slug}`}>
-            {document.title}
-          </a>
-        </li>
-      ))
-    }
-  </ul>
+  <p>
+    Discover the writings and practices gathered on this shelf.
+  </p>
+
+  <a href={`/library/${shelf.name.toLowerCase().replace(/ /g, "-")}`}>
+    Enter Shelf
+  </a>
 </section>
