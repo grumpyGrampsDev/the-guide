@@ -1,6 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getGuideShelves } from "../../lib/librarian";
+import { getGuideShelves, getShelf } from "../../lib/librarian";
 
 export async function getStaticPaths() {
   const availableShelves = await getGuideShelves();
@@ -14,11 +14,7 @@ export async function getStaticPaths() {
 
 const { shelf: shelfSlug } = Astro.params;
 
-const availableShelves = await getGuideShelves();
-
-const currentShelf = availableShelves.find(
-  (item) => item.slug === shelfSlug,
-);
+const currentShelf = await getShelf(shelfSlug ?? "");
 
 if (!currentShelf) {
   return Astro.redirect("/404");

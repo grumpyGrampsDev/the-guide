@@ -1,0 +1,34 @@
+---
+interface Props {
+  shelfName: string;
+  shelfSlug: string;
+}
+
+const {
+  shelfName,
+  shelfSlug,
+} = Astro.props;
+---
+
+<header class="document-header">
+  <a href={`/library/${shelfSlug}`}>
+    ← Back to {shelfName}
+  </a>
+</header>
+
+<style>
+  .document-header {
+    margin-bottom: 2rem;
+  }
+
+  .document-header a {
+    text-decoration: none;
+    font-family: var(--font-ui);
+    font-size: 0.95rem;
+    color: #666;
+  }
+
+  .document-header a:hover {
+    color: #222;
+  }
+</style>

@@ -129,10 +129,8 @@ function createGuideDocument(
   markdown: string,
 ): GuideDocument {
   const titleMatch = markdown.match(/^#\s+(.+)$/m);
-
   const slug = relativePath.replace(/\.md$/, "");
   const shelf = slug.split("/")[0];
-
   const documentType = relativePath.endsWith("README.md")
     ? "index"
     : "document";
@@ -242,6 +240,14 @@ export async function getDocumentsOnShelf(
   const documents = await getLibraryDocuments();
 
   return documents.filter((document) => document.shelf === shelfSlug);
+}
+
+export async function getShelf(
+  shelfSlug: string,
+): Promise<GuideShelf | undefined> {
+  const shelves = await getGuideShelves();
+
+  return shelves.find((shelf) => shelf.slug === shelfSlug);
 }
 
 export async function getDocument(
