@@ -1,3 +1,5 @@
+# Reading Path Part 3
+
 # PHASE 6 — The Prophets
 
 _Goal: understand God's holiness, justice, covenant faithfulness, and promises of restoration._

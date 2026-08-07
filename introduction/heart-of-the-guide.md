@@ -1,4 +1,4 @@
-# The Heart Behind This Guide
+# The Heart Behind The Guide
 
 This guide was not written because I have arrived. It was written because I am still learning. Every page in this repository has been shaped by moments of discovery, conviction, encouragement, correction, and joy as God has faithfully met me through His Word. Often through reading, prayer, journaling, and returning to passages over time. It is the journal of a student, not the textbook of a teacher. My desire is not to tell others what to think. It is only to encourage others to look carefully at what God has already said.
 

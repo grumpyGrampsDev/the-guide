@@ -1,3 +1,5 @@
+# Reading Path Part 2
+
 # PHASE 3 — Old Testament Foundations
 
 _Goal: understand the narrative and theological background behind the New Testament._

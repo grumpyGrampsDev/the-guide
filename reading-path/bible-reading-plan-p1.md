@@ -1,4 +1,4 @@
-# Bible Reading Order
+# Reading Path Part 1
 
 _A structured reading plan focused on understanding context, themes, and connections rather than speed._
 
