@@ -1,6 +1,4 @@
-# Stone of Remembrance Example
-
-## The Poison of Envy
+# The Poison of Envy
 
 > This is an example of a Stone of Remembrance emerging from a sermon reflection.
 >

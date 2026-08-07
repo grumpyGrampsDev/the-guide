@@ -1,6 +1,4 @@
-# Stone of Remembrance Example
-
-## 1 Peter
+# Transformation
 
 > This is an example of a Stone of Remembrance emerging from a Bible study reflection.
 >

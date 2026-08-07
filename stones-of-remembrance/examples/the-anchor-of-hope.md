@@ -1,6 +1,4 @@
-# Stone of Remembrance Example
-
-## Hebrews 5–6
+# The Anchor of Hope
 
 > This is an example of a Stone of Remembrance emerging from a personal Scripture reflection.
 >

@@ -1,6 +1,4 @@
-# Stone of Remembrance Example
-
-## Prayer and Season
+# Prayer and Season
 
 > This is an example of a Stone of Remembrance emerging from a season of prayer, uncertainty, and learning to trust God.
 >
