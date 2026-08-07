@@ -7,7 +7,7 @@ const GUIDE_ROOT = path.resolve(process.cwd(), "..");
 // Interfaces
 // -----------------------------------------------------------------------------
 
-export interface GuideDirectory {
+interface GuideShelfLocation {
   name: string;
   path: string;
 }
@@ -140,11 +140,19 @@ function createGuideDocument(
   };
 }
 
+function formatGuideTitle(value: string): string {
+  return value
+    .replace(/-/g, " ")
+    .replace(/\b\w/g, (letter) => letter.toUpperCase())
+    .replace(/\bOf\b/g, "of")
+    .replace(/\bThe\b/g, "the");
+}
+
 /**
  * Walks a Guide directory recursively and returns every Markdown document.
  */
 
-async function walkGuideDirectory(
+async function collectShelfDocuments(
   directoryPath: string,
   relativePath: string,
 ): Promise<GuideDocument[]> {
@@ -156,7 +164,7 @@ async function walkGuideDirectory(
 
   for (const entry of entries) {
     if (entry.isDirectory()) {
-      const nestedDocuments = await walkGuideDirectory(
+      const nestedDocuments = await collectShelfDocuments(
         path.join(directoryPath, entry.name),
         path.join(relativePath, entry.name),
       );
@@ -177,11 +185,11 @@ async function walkGuideDirectory(
   return documents;
 }
 
-async function discoverGuideDirectories(): Promise<GuideDirectory[]> {
+async function discoverShelfLocations(): Promise<GuideShelfLocation[]> {
   const entries = await fs.readdir(GUIDE_ROOT, {
     withFileTypes: true,
   });
-  const sections = entries
+  const shelves = entries
     .filter(
       (entry) =>
         entry.isDirectory() && entry.name !== ".git" && entry.name !== "site",
@@ -190,7 +198,7 @@ async function discoverGuideDirectories(): Promise<GuideDirectory[]> {
       name: entry.name,
       path: path.join(GUIDE_ROOT, entry.name),
     }));
-  return sections;
+  return shelves;
 }
 
 // -----------------------------------------------------------------------------
@@ -198,35 +206,35 @@ async function discoverGuideDirectories(): Promise<GuideDirectory[]> {
 // -----------------------------------------------------------------------------
 
 export async function getAllDocuments(
-  directories?: GuideDirectory[],
+  shelves?: GuideShelfLocation[],
 ): Promise<GuideDocument[]> {
-  const sections = directories ?? (await discoverGuideDirectories());
+  const shelfLocations = shelves ?? (await discoverShelfLocations());
   const documents: GuideDocument[] = [];
 
-  for (const section of sections) {
-    documents.push(...(await walkGuideDirectory(section.path, section.name)));
+  for (const shelf of shelfLocations) {
+    documents.push(...(await collectShelfDocuments(shelf.path, shelf.name)));
   }
   return documents;
 }
 
 export async function getGuideShelves(): Promise<GuideShelf[]> {
-  const directories = await discoverGuideDirectories();
-  const documents = await getAllDocuments(directories);
+  const shelfLocations = await discoverShelfLocations();
+  const documents = await getAllDocuments(shelfLocations);
 
-  return directories.map((directory) => ({
-    name: directory.name,
+  return shelfLocations.map((shelf) => ({
+    name: formatGuideTitle(shelf.name),
     documents: documents.filter((document) =>
-      document.slug.startsWith(`${directory.name}/`),
+      document.slug.startsWith(`${shelf.name}/`),
     ),
   }));
 }
 
 export async function getDocumentsOnShelf(
-  shelf: string,
+  shelfSlug: string,
 ): Promise<GuideDocument[]> {
   const documents = await getAllDocuments();
 
-  return documents.filter((doc) => doc.slug.startsWith(`${shelf}/`));
+  return documents.filter((doc) => doc.slug.startsWith(`${shelfSlug}/`));
 }
 
 export async function getDocument(
