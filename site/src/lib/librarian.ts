@@ -50,6 +50,9 @@ export interface GuideDocument {
 export interface GuideShelf {
   name: string;
   slug: string;
+
+  description?: string;
+
   documents: GuideDocument[];
 }
 
@@ -59,6 +62,29 @@ export interface GuideShelf {
 
 async function readMarkdownFile(filePath: string): Promise<string> {
   return await fs.readFile(filePath, "utf-8");
+}
+
+async function readShelfReadme(shelfPath: string): Promise<string | undefined> {
+  try {
+    return await readMarkdownFile(path.join(shelfPath, "README.md"));
+  } catch {
+    return undefined;
+  }
+}
+
+function extractShelfDescription(markdown: string): string | undefined {
+  const paragraphs = markdown
+    .split(/\n\s*\n/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
+
+  for (const paragraph of paragraphs) {
+    if (!paragraph.startsWith("#")) {
+      return paragraph;
+    }
+  }
+
+  return undefined;
 }
 
 function extractMarkdownLink(section: string): MarkdownLink | undefined {
@@ -265,12 +291,20 @@ export async function getLibraryDocuments(
 export async function getGuideShelves(): Promise<GuideShelf[]> {
   const shelfLocations = await discoverShelfLocations();
   const documents = await getLibraryDocuments(shelfLocations);
+  const shelves: GuideShelf[] = [];
 
-  return shelfLocations.map((shelf) => ({
-    name: formatGuideTitle(shelf.name),
-    slug: shelf.name,
-    documents: documents.filter((document) => document.shelf === shelf.name),
-  }));
+  for (const shelf of shelfLocations) {
+    const readme = await readShelfReadme(shelf.path);
+
+    shelves.push({
+      name: formatGuideTitle(shelf.name),
+      slug: shelf.name,
+      description: readme ? extractShelfDescription(readme) : undefined,
+      documents: documents.filter((document) => document.shelf === shelf.name),
+    });
+  }
+
+  return shelves;
 }
 
 export async function getDocumentsOnShelf(
