@@ -2,9 +2,9 @@
 ---
 
 <main class="page">
-  <article class="page-content">
+  <div class="page-content">
     <slot />
-  </article>
+  </div>
 </main>
 
 <style>
@@ -18,29 +18,30 @@
     width: 100%;
   }
 
-  .page-content > * {
+  .page-content > :global(*) {
     max-width: 100%;
   }
 
-  .page-content > :first-child {
+  .page-content > :global(:first-child) {
     margin-top: 0;
   }
 
-  .page-content :global(.section-heading) {
-    margin-top: 4rem;
-  }
-
-  .page-content :global(h1:first-child) {
+  .page-content :global(article) > h1:first-child {
     margin: 0 0 2.5rem;
     text-align: center;
     text-wrap: balance;
   }
 
-  .page-content :global(h2) {
+  .page-content :global(article h2) {
     margin-top: 3.5rem;
   }
 
-  .page-content :global(h3) {
+  .page-content :global(article h3) {
     margin-top: 2.25rem;
+  }
+
+  .page-content :global(.section-heading) {
+    margin-top: 4rem;
+    text-align: center;
   }
 </style>

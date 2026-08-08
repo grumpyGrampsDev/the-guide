@@ -1,8 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import Page from "../../components/Page.astro";
-import DocumentHeader from "../../components/DocumentHeader.astro";
-import DocumentFooter from "../../components/DocumentFooter.astro";
+import DocumentPage from "../../components/DocumentPage.astro";
 
 import {
   getLibraryDocuments,
@@ -10,7 +8,6 @@ import {
   getShelf,
 } from "../../lib/librarian";
 
-import { renderMarkdown } from "../../lib/markdown";
 
 export async function getStaticPaths() {
   const documents = await getLibraryDocuments();
@@ -35,25 +32,12 @@ if (!shelf) {
   return Astro.redirect("/404");
 }
 
-const html = renderMarkdown(
-  document.content,
-  document.slug,
-);
+
 ---
 
 <Layout title={document.title}>
-  <Page>
-    <DocumentHeader
-      shelfName={shelf.name}
-      shelfSlug={shelf.slug}
-    />
-
-    <article set:html={html} />
-
-  <DocumentFooter
-    putIntoPractice={document.putIntoPractice}
-    recommendedNext={document.recommendedNext}
-    relatedReading={document.relatedReading}
+  <DocumentPage
+    document={document}
+    shelf={shelf}
   />
-  </Page>
 </Layout>

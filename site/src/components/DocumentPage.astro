@@ -1,0 +1,38 @@
+---
+import Page from "./Page.astro";
+import DocumentHeader from "./DocumentHeader.astro";
+import DocumentFooter from "./DocumentFooter.astro";
+
+import type {
+  GuideDocument,
+  GuideShelf,
+} from "../lib/librarian";
+
+import DocumentBody from "./DocumentBody.astro";
+
+interface Props {
+  document: GuideDocument;
+  shelf: GuideShelf;
+}
+
+const {
+  document,
+  shelf,
+} = Astro.props;
+
+---
+
+<Page>
+  <DocumentHeader
+    shelfName={shelf.name}
+    shelfSlug={shelf.slug}
+  />
+
+  <DocumentBody document={document} />
+
+  <DocumentFooter
+    putIntoPractice={document.putIntoPractice}
+    recommendedNext={document.recommendedNext}
+    relatedReading={document.relatedReading}
+  />
+</Page>

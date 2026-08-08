@@ -1,0 +1,17 @@
+---
+import type { GuideDocument } from "../lib/librarian";
+import { renderMarkdown } from "../lib/markdown";
+
+interface Props {
+  document: GuideDocument;
+}
+
+const { document } = Astro.props;
+
+const html = renderMarkdown(
+  document.content,
+  document.slug,
+);
+---
+
+<article set:html={html} />
