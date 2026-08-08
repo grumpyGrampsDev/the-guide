@@ -6,12 +6,19 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
-## [Unreleased] — The Guide Website Foundation
+## [Unreleased] — Library Experience
 
+---
+
+## [0.8.0] — Website Foundation
+
+The website now derives its navigation, shelf introductions, document relationships, and rendered pages directly from the Markdown repository. The repository remains the authoritative source; the website simply reveals its structure.
 This milestone establishes the initial website structure for The Guide, transforming the repository from a collection of Markdown resources into a navigable experience.
 
 ### Added
 
+- Added shelf landing pages generated directly from each shelf's `README.md`.
+- Added reusable document rendering components and navigation components to establish a consistent page architecture.
 - Added the website foundation using Astro.
 - Added the first navigation layers:
   - Door
@@ -25,6 +32,7 @@ This milestone establishes the initial website structure for The Guide, transfor
 
 ### Changed
 
+- Established shelf `README.md` files as the source of truth for introducing each section of The Guide.
 - Refined the relationship between navigation layers:
   - The Front Desk introduces visitors to The Guide.
   - Shelves organize related resources.
