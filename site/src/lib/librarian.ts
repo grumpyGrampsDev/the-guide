@@ -50,8 +50,9 @@ export interface GuideDocument {
 export interface GuideShelf {
   name: string;
   slug: string;
-
   description?: string;
+
+  readme?: GuideDocument;
 
   documents: GuideDocument[];
 }
@@ -301,6 +302,10 @@ export async function getGuideShelves(): Promise<GuideShelf[]> {
       slug: shelf.name,
       description: readme ? extractShelfDescription(readme) : undefined,
       documents: documents.filter((document) => document.shelf === shelf.name),
+      readme: documents.find(
+        (document) =>
+          document.shelf === shelf.name && document.type === "index",
+      ),
     });
   }
 

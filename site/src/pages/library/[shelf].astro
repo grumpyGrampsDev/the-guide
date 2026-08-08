@@ -1,6 +1,8 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import { getGuideShelves, getShelf } from "../../lib/librarian";
+import DocumentBody from "../../components/document/DocumentBody.astro";
+import Page from "../../components/layout/Page.astro";
 
 export async function getStaticPaths() {
   const availableShelves = await getGuideShelves();
@@ -22,17 +24,54 @@ if (!currentShelf) {
 ---
 
 <Layout title={currentShelf.name}>
-  <h1>{currentShelf.name}</h1>
+  <Page>
 
-  <ul>
+    <header class="shelf-header">
+      <a href="/front-desk">
+        ← Back to Front Desk
+      </a>
+    </header>
+
     {
-      currentShelf.documents.map((document) => (
-        <li>
-          <a href={`/library/${document.slug}`}>
-            {document.title}
-          </a>
-        </li>
-      ))
+      currentShelf.readme && (
+        <DocumentBody document={currentShelf.readme} />
+      )
     }
-  </ul>
+
+    <section>
+      <h2>Continue Reading</h2>
+
+      <ul>
+        {
+          currentShelf.documents
+            .filter((document) => document.type !== "index")
+            .map((document) => (
+              <li>
+                <a href={`/library/${document.slug}`}>
+                  {document.title}
+                </a>
+              </li>
+            ))
+        }
+      </ul>
+    </section>
+
+  </Page>
 </Layout>
+
+<style>
+  .shelf-header {
+    margin-bottom: 2rem;
+  }
+
+  .shelf-header a {
+    text-decoration: none;
+    font-family: var(--font-ui);
+    font-size: 0.95rem;
+    color: #666;
+  }
+
+  .shelf-header a:hover {
+    color: #222;
+  }
+</style>
