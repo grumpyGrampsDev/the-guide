@@ -8,14 +8,23 @@ interface Props {
 const { shelf } = Astro.props;
 ---
 
-<section>
+<section class="shelf-card">
   <h3>{shelf.name}</h3>
 
+  {
+    shelf.description && (
+      <p>{shelf.description}</p>
+    )
+  }
+
   <p>
-    Discover the writings and practices gathered on this shelf.
+    {shelf.documents.length}
+    {" "}
+    {shelf.documents.length === 1 ? "document" : "documents"}
   </p>
 
+
   <a href={`/library/${shelf.slug}`}>
-    Go to row
+    Browse Shelf →
   </a>
 </section>
