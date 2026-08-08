@@ -26,6 +26,10 @@ To help us open God's Word with humble hearts, attentive minds, and a growing de
 
 ---
 
+## Put It Into Practice
+
+Before continuing, take a moment to consider why you opened this guide in the first place. What are you hoping God will cultivate in you through His Word?
+
 ## Recommended Next Step
 
 Continue with [The Heart of the Guide](./heart-of-the-guide.md) to understand the posture that shapes every practice found throughout this project.
@@ -35,7 +39,3 @@ Continue with [The Heart of the Guide](./heart-of-the-guide.md) to understand th
 - [Formation Compass](./formation-compass.md)
 - [Path Into the Guide](./path-into-the-guide.md)
 - [Project Philosophy](./philosophy-of-the-guide.md)
-
-## Put It Into Practice
-
-Before continuing, take a moment to consider why you opened this guide in the first place. What are you hoping God will cultivate in you through His Word?

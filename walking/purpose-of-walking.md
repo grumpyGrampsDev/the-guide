@@ -110,6 +110,12 @@ Right foot.
 
 ---
 
+## Put It Into Practice
+
+As you begin each day this week, ask yourself one simple question:
+_What is the next faithful step God is inviting me to take today?_
+Resist the urge to think too far ahead. Faithfulness is lived one step at a time.
+
 ## Recommended Next Step
 
 Continue with [Walking in the Light](./walking-in-the-light.md) to explore what faithful obedience looks like in the ordinary moments of everyday life.
@@ -118,11 +124,3 @@ Continue with [Walking in the Light](./walking-in-the-light.md) to explore what 
 
 - [Formation: Walking](../formation/walking.md)
 - [Purpose of Stones of Remembrance](../stones-of-remembrance/purpose-of-stones-of-remembrance.md)
-
-## Put It Into Practice
-
-As you begin each day this week, ask yourself one simple question:
-
-_What is the next faithful step God is inviting me to take today?_
-
-Resist the urge to think too far ahead. Faithfulness is lived one step at a time.

@@ -84,6 +84,12 @@ Right foot.
 
 ---
 
+## Put It Into Practice
+
+Look back over the stones you've recognized and ask a simple question:
+_How have these moments changed the way I walk with Christ today?_
+Let those memories become encouragement for your next faithful step.
+
 ## Recommended Next Step
 
 Continue with [Purpose of Walking](../../walking/purpose-of-walking.md) to discover how remembering God's faithfulness strengthens us for today's obedience.
@@ -92,11 +98,3 @@ Continue with [Purpose of Walking](../../walking/purpose-of-walking.md) to disco
 
 - [Formation: Walking](../../formation/walking.md)
 - [Stones in Practice](../stones-in-practice.md)
-
-## Put It Into Practice
-
-Look back over the stones you've recognized and ask a simple question:
-
-_How have these moments changed the way I walk with Christ today?_
-
-Let those memories become encouragement for your next faithful step.

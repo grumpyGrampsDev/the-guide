@@ -179,7 +179,9 @@ It is the patient work God has done through these passages over time.
 
 ---
 
----
+## Put It Into Practice
+
+Return to your own journal and consider which passages have shaped your walk with Christ. Record them, revisit them, and allow them to become reminders of God's faithfulness throughout your journey.
 
 ## Recommended Next Step
 
@@ -189,7 +191,3 @@ Continue with [Purpose of the Guide](../introduction/purpose-of-the-guide.md) to
 
 - [Project Philosophy](../introduction/philosophy-of-the-guide.md)
 - [Resources That Shaped the Journey](./resources-that-shaped-the-journey.md)
-
-## Put It Into Practice
-
-Return to your own journal and consider which passages have shaped your walk with Christ. Record them, revisit them, and allow them to become reminders of God's faithfulness throughout your journey.

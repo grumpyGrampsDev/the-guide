@@ -28,6 +28,13 @@ Let's open God's Word together with humble hearts, attentive minds, and an expec
 
 ---
 
+## Put It Into Practice
+
+As you finish this chapter, ask yourself:
+
+> _What kind of person am I becoming as I read Scripture?_
+> Resist the urge to focus only on what you know. Instead, consider what God may be shaping in your heart.
+
 ## Recommended Next Step
 
 Continue with [Philosophy of the Guide](./philosophy-of-the-guide.md) to read more about the principles behind this project.
@@ -36,11 +43,3 @@ Continue with [Philosophy of the Guide](./philosophy-of-the-guide.md) to read mo
 
 - [Purpose of the Guide](./purpose-of-the-guide.md)
 - [Path Into the Guide](./path-into-the-guide.md)
-
-## Put It Into Practice
-
-As you finish this chapter, ask yourself:
-
-> _What kind of person am I becoming as I read Scripture?_
-
-Resist the urge to focus only on what you know. Instead, consider what God may be shaping in your heart.

@@ -185,6 +185,10 @@ My calling is to faithfully walk the path He has given me.
 
 ---
 
+## Put It Into Practice
+
+The next time you hear God's Word preached, take a few moments afterward to reflect before moving on with your day. Ask yourself what truth you most need to remember this week, and let that become the beginning of a conversation with God in prayer.
+
 ## Recommended Next Step
 
 Continue with [Purpose of Prayer](../../prayer/purpose-of-prayer.md) to explore how prayer naturally flows from hearing and responding to God's Word.
@@ -193,7 +197,3 @@ Continue with [Purpose of Prayer](../../prayer/purpose-of-prayer.md) to explore 
 
 - [Sermon Reflection Template](../sermon-reflection-template.md)
 - [Purpose of Journaling](../purpose-of-journaling.md)
-
-## Put It Into Practice
-
-The next time you hear God's Word preached, take a few moments afterward to reflect before moving on with your day. Ask yourself what truth you most need to remember this week, and let that become the beginning of a conversation with God in prayer.

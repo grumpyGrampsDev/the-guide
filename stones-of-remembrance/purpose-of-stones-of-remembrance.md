@@ -96,6 +96,10 @@ As God continues to teach, some truths will remain with you. Some moments will b
 
 ---
 
+## Put It Into Practice
+
+Think of one moment in your walk with Christ that continues to encourage your faith. It doesn't need to be dramatic. If it still reminds you of God's faithfulness today, it may already be one of your stones of remembrance.
+
 ## Recommended Next Step
 
 Continue with [Recognizing a Stone](./recognizing-a-stone.md) to learn how moments of God's faithfulness gradually become landmarks along the journey of faith.
@@ -104,7 +108,3 @@ Continue with [Recognizing a Stone](./recognizing-a-stone.md) to learn how momen
 
 - [Formation: Remembrance](../formation/remembrance.md)
 - [Journal Framework](../journaling/journal-framework.md)
-
-## Put It Into Practice
-
-Think of one moment in your walk with Christ that continues to encourage your faith. It doesn't need to be dramatic. If it still reminds you of God's faithfulness today, it may already be one of your stones of remembrance.

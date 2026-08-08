@@ -82,6 +82,10 @@ The Bible has more to show us than we often realize.
 
 ---
 
+## Put It Into Practice
+
+As you read your next passage, write down at least five observations before asking what they mean. Focus only on what you can clearly see in the text—repeated words, contrasts, commands, questions, or anything else that captures your attention.
+
 ## Recommended Next Step
 
 Continue with [Ask Good Questions](./ask-good-questions.md), where the observations you've made become the starting point for deeper understanding.
@@ -90,7 +94,3 @@ Continue with [Ask Good Questions](./ask-good-questions.md), where the observati
 
 - [Read Slowly](./read-slowly.md)
 - [Understand Author Intent](./understand-author-intent.md)
-
-## Put It Into Practice
-
-As you read your next passage, write down at least five observations before asking what they mean. Focus only on what you can clearly see in the text—repeated words, contrasts, commands, questions, or anything else that captures your attention.

@@ -94,6 +94,10 @@ Right foot.
 
 ---
 
+## Put It Into Practice
+
+Consider what made this season memorable. Was it the circumstance itself, or the faithfulness of God revealed through it? Ask Him to help you recognize similar moments in your own walk.
+
 ## Recommended Next Step
 
 Continue with [The Anchor of Hope](./the-anchor-of-hope.md) to see another example of how God uses Scripture to establish lasting reminders of His faithfulness.
@@ -101,7 +105,3 @@ Continue with [The Anchor of Hope](./the-anchor-of-hope.md) to see another examp
 ## Related Reading
 
 - [Stones in Practice](../stones-in-practice.md)
-
-## Put It Into Practice
-
-Consider what made this season memorable. Was it the circumstance itself, or the faithfulness of God revealed through it? Ask Him to help you recognize similar moments in your own walk.

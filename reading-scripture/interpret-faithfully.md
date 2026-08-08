@@ -74,6 +74,10 @@ Open Scripture with humility. Listen carefully. Understand faithfully. Respond o
 
 ---
 
+## Put It Into Practice
+
+Take a passage you've recently studied and summarize its central message in one or two sentences. As you do, ask yourself whether your conclusion arises from the text itself or from assumptions you've brought to it. Be willing to revise your understanding as you continue learning.
+
 ## Recommended Next Step
 
 Continue with [Apply Faithfully](./apply-faithfully.md) to explore how faithful interpretation naturally leads to faithful obedience.
@@ -82,7 +86,3 @@ Continue with [Apply Faithfully](./apply-faithfully.md) to explore how faithful 
 
 - [Understand Author Intent](./understand-author-intent.md)
 - [Ask Good Questions](./ask-good-questions.md)
-
-## Put It Into Practice
-
-Take a passage you've recently studied and summarize its central message in one or two sentences. As you do, ask yourself whether your conclusion arises from the text itself or from assumptions you've brought to it. Be willing to revise your understanding as you continue learning.

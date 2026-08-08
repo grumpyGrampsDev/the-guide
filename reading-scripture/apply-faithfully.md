@@ -98,6 +98,10 @@ The purpose of reading Scripture is not simply to make us better informed. It is
 
 ---
 
+## Put It Into Practice
+
+Identify one specific way this passage calls you to respond today. Keep your response simple, concrete, and attainable. Then, if possible, write it down and return to it later to reflect on how God used your faithfulness.
+
 ## Recommended Next Step
 
 Continue with [Purpose of Journaling](../journaling/purpose-of-journaling.md) to learn how recording what God is teaching you can deepen reflection, encourage remembrance, and support faithful growth over time.
@@ -106,7 +110,3 @@ Continue with [Purpose of Journaling](../journaling/purpose-of-journaling.md) to
 
 - [Interpret Faithfully](./interpret-faithfully.md)
 - [How to Approach Scripture](./how-to-approach-scripture.md)
-
-## Put It Into Practice
-
-Identify one specific way this passage calls you to respond today. Keep your response simple, concrete, and attainable. Then, if possible, write it down and return to it later to reflect on how God used your faithfulness.

@@ -94,6 +94,35 @@ Ask:
 
 ---
 
+## Before You Begin
+
+The reading path is designed to be used alongside the practices found throughout _The Guide_. If you're new to the project, consider becoming familiar with these resources before you begin:
+
+- [Purpose of the Guide](../introduction/purpose-of-the-guide.md)
+- [How to Approach Scripture](../reading-scripture/how-to-approach-scripture.md)
+- [Journal Framework](../journaling/journal-framework.md)
+
+These documents introduce the posture and practices that accompany this reading path, helping you move beyond simply finishing passages toward faithfully engaging with God's Word.
+
+---
+
+# A Final Reminder
+
+There is no substitute for opening the Bible. A reading path is only a guide. The purpose is not the plan itself. The purpose is knowing the God who has revealed Himself through His Word.
+
+Open your Bible.
+Read carefully.
+Pray honestly.
+Reflect thoughtfully.
+Remember faithfully.
+Walk faithfully.
+
+Lamp to my feet.
+Left foot.
+Right foot.
+
+---
+
 # The reading path
 
 The plan is divided into three parts:
@@ -112,43 +141,3 @@ Continues through the Old Testament foundations, Israel's history, and wisdom li
 
 Completes the prophetic writings and provides practices for continuing to engage Scripture.
 [The conclusion of our reading path](./bible-reading-path-p3.md)
-
----
-
-# A Final Reminder
-
-There is no substitute for opening the Bible. A reading path is only a guide. The purpose is not the plan itself. The purpose is knowing the God who has revealed Himself through His Word.
-
----
-
-Open your Bible.
-
-Read carefully.
-
-Pray honestly.
-
-Reflect thoughtfully.
-
-Remember faithfully.
-
-Walk faithfully.
-
----
-
-Lamp to my feet.
-
-Left foot.
-
-Right foot.
-
----
-
-## Before You Begin
-
-The reading path is designed to be used alongside the practices found throughout _The Guide_. If you're new to the project, consider becoming familiar with these resources before you begin:
-
-- [Purpose of the Guide](../introduction/purpose-of-the-guide.md)
-- [How to Approach Scripture](../reading-scripture/how-to-approach-scripture.md)
-- [Journal Framework](../journaling/journal-framework.md)
-
-These documents introduce the posture and practices that accompany this reading path, helping you move beyond simply finishing passages toward faithfully engaging with God's Word.

@@ -130,6 +130,10 @@ God transforms.
 
 ---
 
+## Put It Into Practice
+
+Take a moment to identify which area of formation feels most needed in this season of your life. As you continue through the guide, pay attention to how God uses Scripture, prayer, reflection, remembrance, and faithful walking to cultivate that area.
+
 ## Recommended Next Step
 
 Continue with [Path Into the Guide](./path-into-the-guide.md) for a suggested journey through these resources, whether you're just beginning or returning for another season of growth.
@@ -138,7 +142,3 @@ Continue with [Path Into the Guide](./path-into-the-guide.md) for a suggested jo
 
 - [Heart of the Guide](./heart-of-the-guide.md)
 - [Purpose of the Guide](./purpose-of-the-guide.md)
-
-## Put It Into Practice
-
-Take a moment to identify which area of formation feels most needed in this season of your life. As you continue through the guide, pay attention to how God uses Scripture, prayer, reflection, remembrance, and faithful walking to cultivate that area.

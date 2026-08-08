@@ -126,6 +126,10 @@ Right foot.
 
 ---
 
+## Put It Into Practice
+
+Choose one regular moment in your day to pause and pray—a morning cup of coffee, a lunch break, or the end of the day. Let that moment become a gentle reminder to turn your attention toward God, trusting that faithfulness is built one day at a time.
+
 ## Recommended Next Step
 
 Continue with [Prayer Set](./prayer-set.md) to explore a collection of prayers that can help shape and support your daily conversations with God.
@@ -134,7 +138,3 @@ Continue with [Prayer Set](./prayer-set.md) to explore a collection of prayers t
 
 - [Praying Honestly](./praying-honestly.md)
 - [Purpose of Prayer](./purpose-of-prayer.md)
-
-## Put It Into Practice
-
-Choose one regular moment in your day to pause and pray—a morning cup of coffee, a lunch break, or the end of the day. Let that moment become a gentle reminder to turn your attention toward God, trusting that faithfulness is built one day at a time.

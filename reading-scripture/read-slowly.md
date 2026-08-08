@@ -66,6 +66,12 @@ Listen well.
 
 ## God is speaking.
 
+---
+
+## Put It Into Practice
+
+Choose a short passage of Scripture and read it at least three times. With each reading, resist the urge to move ahead. Instead, allow yourself to linger over the words, paying attention to anything that stands out or invites further reflection.
+
 ## Recommended Next Step
 
 Continue with [Learn to Notice](./learn-to-notice.md), where slowing down begins to reveal details, patterns, and themes that are often missed.
@@ -74,7 +80,3 @@ Continue with [Learn to Notice](./learn-to-notice.md), where slowing down begins
 
 - [How to Approach Scripture](./how-to-approach-scripture.md)
 - [Ask Good Questions](./ask-good-questions.md)
-
-## Put It Into Practice
-
-Choose a short passage of Scripture and read it at least three times. With each reading, resist the urge to move ahead. Instead, allow yourself to linger over the words, paying attention to anything that stands out or invites further reflection.

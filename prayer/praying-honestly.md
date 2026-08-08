@@ -97,6 +97,10 @@ Right foot.
 
 ---
 
+## Put It Into Practice
+
+Bring one area of your life before God that you would normally be tempted to hide or minimize. Resist the urge to polish your words. Instead, pray with the confidence that your Father already knows your heart and invites you to come honestly before Him.
+
 ## Recommended Next Step
 
 Continue with [Daily Prayer Rhythm](./daily-prayer-rhythm.md) to explore how honest prayer can become a steady part of everyday life.
@@ -105,7 +109,3 @@ Continue with [Daily Prayer Rhythm](./daily-prayer-rhythm.md) to explore how hon
 
 - [Purpose of Prayer](./purpose-of-prayer.md)
 - [Prayer Set](./prayer-set.md)
-
-## Put It Into Practice
-
-Bring one area of your life before God that you would normally be tempted to hide or minimize. Resist the urge to polish your words. Instead, pray with the confidence that your Father already knows your heart and invites you to come honestly before Him.

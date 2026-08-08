@@ -82,6 +82,10 @@ Write because you want to remember. Reflect because you want to listen. Record b
 
 ---
 
+## Put It Into Practice
+
+After your next time in Scripture, write down what stood out to you, any questions you still have, and one way you sense God calling you to respond. Don't worry about writing something profound—focus on writing honestly.
+
 ## Recommended Next Step
 
 Continue with the [Journal Framework](./journal-framework.md) to establish a simple rhythm for recording what God is teaching you through Scripture.
@@ -90,7 +94,3 @@ Continue with the [Journal Framework](./journal-framework.md) to establish a sim
 
 - [Bible Study Reflection Template](./bible-study-reflection-template.md)
 - [Scripture Reflection Template](./scripture-reflection-template.md)
-
-## Put It Into Practice
-
-After your next time in Scripture, write down what stood out to you, any questions you still have, and one way you sense God calling you to respond. Don't worry about writing something profound—focus on writing honestly.

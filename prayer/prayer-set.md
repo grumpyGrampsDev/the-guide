@@ -133,6 +133,10 @@ Right foot.
 
 ---
 
+## Put It Into Practice
+
+Return to these prayers as often as they are helpful, but don't feel bound to their words. Let them teach you how to pray, then allow your own conversations with God to grow naturally from a heart that has learned to trust Him.
+
 ## Recommended Next Step
 
 Continue with [Formation: Prayer](../formation/prayer.md) to explore how a life of prayer becomes one of the ways God shapes us over time.
@@ -141,7 +145,3 @@ Continue with [Formation: Prayer](../formation/prayer.md) to explore how a life 
 
 - [Daily Prayer Rhythm](./daily-prayer-rhythm.md)
 - [Praying Honestly](./praying-honestly.md)
-
-## Put It Into Practice
-
-Return to these prayers as often as they are helpful, but don't feel bound to their words. Let them teach you how to pray, then allow your own conversations with God to grow naturally from a heart that has learned to trust Him.

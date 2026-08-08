@@ -118,6 +118,10 @@ Allow God's Word to continue its work long after the page is closed.
 
 ---
 
+## Put It Into Practice
+
+Set aside a few quiet minutes to revisit a recent journal entry or Scripture reflection. Instead of looking for new insights, simply notice what God has already been teaching you and thank Him for His ongoing work.
+
 ## Recommended Next Step
 
 Continue with [Remembrance](./remembrance.md) to discover how faithfully reflecting on God's work prepares us to remember His faithfulness over time.
@@ -126,7 +130,3 @@ Continue with [Remembrance](./remembrance.md) to discover how faithfully reflect
 
 - [Journal Framework](../journaling/journal-framework.md)
 - [Formation: Prayer](./prayer.md)
-
-## Put It Into Practice
-
-Set aside a few quiet minutes to revisit a recent journal entry or Scripture reflection. Instead of looking for new insights, simply notice what God has already been teaching you and thank Him for His ongoing work.

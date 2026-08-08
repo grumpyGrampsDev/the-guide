@@ -131,6 +131,10 @@ My hope is anchored in the character and faithfulness of the God who cannot lie.
 
 ---
 
+## Put It Into Practice
+
+Reflect on what made this example meaningful. Was it the writing itself, or the habit of pausing to preserve a moment with God? As you continue journaling, focus less on crafting polished reflections and more on faithfully remembering what God is teaching you.
+
 ## Recommended Next Step
 
 Continue with the [Sermon Reflection Template](../sermon-reflection-template.md) to explore another way of thoughtfully engaging with God's Word as it is preached and taught.
@@ -139,7 +143,3 @@ Continue with the [Sermon Reflection Template](../sermon-reflection-template.md)
 
 - [Scripture Reflection Template](../scripture-reflection-template.md)
 - [Bible Study Reflection Example](./bible-study-reflection.md)
-
-## Put It Into Practice
-
-Reflect on what made this example meaningful. Was it the writing itself, or the habit of pausing to preserve a moment with God? As you continue journaling, focus less on crafting polished reflections and more on faithfully remembering what God is teaching you.

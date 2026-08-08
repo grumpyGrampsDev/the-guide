@@ -283,6 +283,10 @@ Job invites humility before questions we cannot fully resolve.
 
 ---
 
+## Put It Into Practice
+
+As your journey continues, take time to revisit earlier journal entries, prayers, and reflections. Notice how God has been faithfully teaching and shaping you over time.
+
 ## Recommended Next Step
 
 Continue with [Part 3](./bible-reading-path-p3.md) as you continue your journey through Scripture.
@@ -291,7 +295,3 @@ Continue with [Part 3](./bible-reading-path-p3.md) as you continue your journey 
 
 - [Scripture Reflection Template](../journaling/scripture-reflection-template.md)
 - [Purpose of Stones of Remembrance](../stones-of-remembrance/purpose-of-stones-of-remembrance.md)
-
-## Put It Into Practice
-
-As your journey continues, take time to revisit earlier journal entries, prayers, and reflections. Notice how God has been faithfully teaching and shaping you over time.

@@ -201,6 +201,10 @@ Right foot.
 
 ---
 
+## Put It Into Practice
+
+Consider what rhythms already exist in your own life that help you slow down, listen, and respond to God. Ask where a small, faithful practice could create more space for Him in your own daily walk.
+
 ## Recommended Next Step
 
 Continue with [Path Into The Guide](../introduction/path-into-the-guide.md) if you would like to explore the practices and rhythms that shaped this journey.
@@ -209,7 +213,3 @@ Continue with [Path Into The Guide](../introduction/path-into-the-guide.md) if y
 
 - [Daily Prayer Rhythm](../prayer/daily-prayer-rhythm.md)
 - [Journal Framework](../journaling/journal-framework.md)
-
-## Put It Into Practice
-
-Consider what rhythms already exist in your own life that help you slow down, listen, and respond to God. Ask where a small, faithful practice could create more space for Him in your own daily walk.

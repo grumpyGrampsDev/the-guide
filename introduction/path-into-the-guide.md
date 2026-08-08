@@ -104,6 +104,10 @@ Right foot.
 
 ---
 
+## Put It Into Practice
+
+Choose a passage of Scripture and begin reading it using the practices you'll encounter throughout this guide. Resist the urge to rush ahead—the goal is not simply to finish the journey, but to be formed by it, one faithful step at a time.
+
 ## Recommended Next Step
 
 Begin with [How to Approach Scripture](../reading-scripture/how-to-approach-scripture.md), where the journey turns from orientation toward learning to read God's Word with wisdom, humility, and care.
@@ -121,7 +125,3 @@ Begin with [How to Approach Scripture](../reading-scripture/how-to-approach-scri
 Every journey has passages that become familiar companions. Throughout this walk, certain Scriptures have repeatedly shaped the way I think about reading, praying, reflecting, remembering, and walking with God. These passages are not a replacement for Scripture as a whole. They are simply the Scriptures God has repeatedly brought me back to as He shaped the heart and language of The Guide.
 
 - [Scriptures That Shaped The Guide](../field-notes/scripture-that-shaped-the-guide.md)
-
-## Put It Into Practice
-
-Choose a passage of Scripture and begin reading it using the practices you'll encounter throughout this guide. Resist the urge to rush ahead—the goal is not simply to finish the journey, but to be formed by it, one faithful step at a time.

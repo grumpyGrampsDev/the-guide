@@ -89,6 +89,10 @@ This repository is intentionally living. As the Lord continues to teach, refine,
 
 ---
 
+## Put It Into Practice
+
+As you read through _The Guide_, pay attention not only to what each document teaches, but also to how the journey itself is designed. Allow the practices to shape your engagement with Scripture at a pace that encourages attentiveness, reflection, and faithful obedience.
+
 ## Recommended Next Step
 
 Continue with [Formation Compass](./formation-compass.md) to see how the practices throughout this guide fit together into a unified journey of spiritual formation.
@@ -97,7 +101,3 @@ Continue with [Formation Compass](./formation-compass.md) to see how the practic
 
 - [Heart of the Guide](./heart-of-the-guide.md)
 - [Formation Compass](./formation-compass.md)
-
-## Put It Into Practice
-
-As you read through _The Guide_, pay attention not only to what each document teaches, but also to how the journey itself is designed. Allow the practices to shape your engagement with Scripture at a pace that encourages attentiveness, reflection, and faithful obedience.
