@@ -124,13 +124,12 @@ function extractRelatedReading(
   documentSlug: string,
 ): GuideLink[] {
   const start = markdown.indexOf("## Related Reading");
-  const end = markdown.indexOf("## Put It Into Practice");
 
   if (start === -1) {
     return [];
   }
 
-  const section = markdown.slice(start, end === -1 ? undefined : end);
+  const section = markdown.slice(start);
   const markdownLinks = [...section.matchAll(/\[([^\]]+)\]\(([^)]+)\)/g)];
 
   return markdownLinks.map((match) =>
@@ -151,8 +150,10 @@ function extractPutIntoPractice(markdown: string): PutIntoPractice | undefined {
     return undefined;
   }
 
+  const end = markdown.indexOf("## Recommended Next Step", start);
+
   const section = markdown
-    .slice(start)
+    .slice(start, end === -1 ? undefined : end)
     .replace("## Put It Into Practice", "")
     .trim();
 

@@ -38,7 +38,6 @@ if (!shelf) {
 const html = renderMarkdown(
   document.content,
   document.slug,
-  console.log(document.recommendedNext),
 );
 ---
 
@@ -51,9 +50,10 @@ const html = renderMarkdown(
 
     <article set:html={html} />
 
-    <DocumentFooter
-      recommendedNext={document.recommendedNext}
-      relatedReading={document.relatedReading}
-    />
+  <DocumentFooter
+    putIntoPractice={document.putIntoPractice}
+    recommendedNext={document.recommendedNext}
+    relatedReading={document.relatedReading}
+  />
   </Page>
 </Layout>

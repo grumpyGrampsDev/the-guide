@@ -1,12 +1,6 @@
 import { marked } from "marked";
 import path from "node:path";
 
-const SPECIAL_SECTIONS = new Set([
-  "Recommended Next Step",
-  "Related Reading",
-  "Put It Into Practice",
-]);
-
 function resolveGuideLink(href: string, documentSlug: string): string {
   if (!href || href.startsWith("http")) {
     return href;
@@ -21,6 +15,20 @@ function resolveGuideLink(href: string, documentSlug: string): string {
   return `/library/${slug}`;
 }
 
+function findBodyEnd(markdown: string): number {
+  const headings = [
+    "## Put It Into Practice",
+    "## Recommended Next Step",
+    "## Related Reading",
+  ];
+
+  const positions = headings
+    .map((heading) => markdown.indexOf(heading))
+    .filter((index) => index !== -1);
+
+  return positions.length > 0 ? Math.min(...positions) : markdown.length;
+}
+
 export function renderMarkdown(markdown: string, documentSlug: string): string {
   const renderer = new marked.Renderer();
 
@@ -31,7 +39,7 @@ export function renderMarkdown(markdown: string, documentSlug: string): string {
     return `<a href="${resolvedHref}"${titleAttribute}>${text}</a>`;
   };
 
-  const body = markdown.split("## Recommended Next Step")[0].trim();
+  const body = markdown.slice(0, findBodyEnd(markdown)).trim();
 
   return marked.parse(body, {
     renderer,

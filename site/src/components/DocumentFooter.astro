@@ -1,21 +1,36 @@
 ---
 import type {
   GuideLink,
+  PutIntoPractice,
   RecommendedNext,
 } from "../lib/librarian";
 
 interface Props {
+  putIntoPractice?: PutIntoPractice;
   recommendedNext?: RecommendedNext;
   relatedReading: GuideLink[];
 }
 
 const {
+  putIntoPractice,
   recommendedNext,
   relatedReading,
 } = Astro.props;
 ---
 
 <footer class="document-footer">
+
+  {
+    putIntoPractice && (
+      <section>
+        <h2 class="section-heading">
+          Put It Into Practice
+        </h2>
+
+        <p>{putIntoPractice.content}</p>
+      </section>
+    )
+  }
 
   {
     recommendedNext && (
@@ -58,3 +73,29 @@ const {
   }
 
 </footer>
+
+<style>
+  .document-footer {
+    margin-top: 5rem;
+    padding-top: 3rem;
+    border-top: 1px solid #ddd;
+  }
+
+  .document-footer section + section {
+    margin-top: 3rem;
+  }
+
+  .section-heading {
+    text-align: center;
+    margin-bottom: 1.25rem;
+  }
+
+  .document-footer ul {
+    margin: 0;
+    padding-left: 1.25rem;
+  }
+
+  .document-footer li + li {
+    margin-top: 0.5rem;
+  }
+</style>
