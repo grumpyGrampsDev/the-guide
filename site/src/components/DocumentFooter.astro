@@ -1,0 +1,60 @@
+---
+import type {
+  GuideLink,
+  RecommendedNext,
+} from "../lib/librarian";
+
+interface Props {
+  recommendedNext?: RecommendedNext;
+  relatedReading: GuideLink[];
+}
+
+const {
+  recommendedNext,
+  relatedReading,
+} = Astro.props;
+---
+
+<footer class="document-footer">
+
+  {
+    recommendedNext && (
+      <section>
+        <h2 class="section-heading">
+          Recommended Next Step
+        </h2>
+
+        <p>{recommendedNext.description}</p>
+
+        <p>
+          <a href={`/library/${recommendedNext.link.slug}`}>
+            Continue →
+          </a>
+        </p>
+      </section>
+    )
+  }
+
+  {
+    relatedReading.length > 0 && (
+      <section>
+        <h2 class="section-heading">
+          Related Reading
+        </h2>
+
+        <ul>
+          {
+            relatedReading.map((document) => (
+              <li>
+                <a href={`/library/${document.slug}`}>
+                  {document.title}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    )
+  }
+
+</footer>

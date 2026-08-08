@@ -22,6 +22,15 @@ export interface GuideLink {
   slug: string;
 }
 
+export interface RecommendedNext {
+  link: GuideLink;
+  description: string;
+}
+
+export interface PutIntoPractice {
+  content: string;
+}
+
 export interface GuideDocument {
   title: string;
   slug: string;
@@ -30,7 +39,9 @@ export interface GuideDocument {
 
   type: "document" | "index";
 
-  recommendedNext?: GuideLink;
+  putIntoPractice?: PutIntoPractice;
+
+  recommendedNext?: RecommendedNext;
   relatedReading: GuideLink[];
 
   content: string;
@@ -82,7 +93,7 @@ function resolveGuideLink(
 function extractRecommendedNext(
   markdown: string,
   documentSlug: string,
-): GuideLink | undefined {
+): RecommendedNext | undefined {
   const start = markdown.indexOf("## Recommended Next Step");
   const end = markdown.indexOf("## Related Reading");
 
@@ -96,7 +107,16 @@ function extractRecommendedNext(
   if (!markdownLink) {
     return undefined;
   }
-  return resolveGuideLink(markdownLink, documentSlug);
+
+  const description = section
+    .replace("## Recommended Next Step", "")
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/, "$1")
+    .trim();
+
+  return {
+    link: resolveGuideLink(markdownLink, documentSlug),
+    description,
+  };
 }
 
 function extractRelatedReading(
@@ -124,6 +144,23 @@ function extractRelatedReading(
   );
 }
 
+function extractPutIntoPractice(markdown: string): PutIntoPractice | undefined {
+  const start = markdown.indexOf("## Put It Into Practice");
+
+  if (start === -1) {
+    return undefined;
+  }
+
+  const section = markdown
+    .slice(start)
+    .replace("## Put It Into Practice", "")
+    .trim();
+
+  return {
+    content: section,
+  };
+}
+
 function createGuideDocument(
   relativePath: string,
   markdown: string,
@@ -140,6 +177,7 @@ function createGuideDocument(
     slug,
     shelf,
     type: documentType,
+    putIntoPractice: extractPutIntoPractice(markdown),
     recommendedNext: extractRecommendedNext(markdown, slug),
     relatedReading: extractRelatedReading(markdown, slug),
     content: markdown,

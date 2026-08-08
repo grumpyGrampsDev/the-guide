@@ -2,6 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import Page from "../../components/Page.astro";
 import DocumentHeader from "../../components/DocumentHeader.astro";
+import DocumentFooter from "../../components/DocumentFooter.astro";
 
 import {
   getLibraryDocuments,
@@ -37,6 +38,7 @@ if (!shelf) {
 const html = renderMarkdown(
   document.content,
   document.slug,
+  console.log(document.recommendedNext),
 );
 ---
 
@@ -48,5 +50,10 @@ const html = renderMarkdown(
     />
 
     <article set:html={html} />
+
+    <DocumentFooter
+      recommendedNext={document.recommendedNext}
+      relatedReading={document.relatedReading}
+    />
   </Page>
 </Layout>

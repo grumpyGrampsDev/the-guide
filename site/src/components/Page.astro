@@ -11,14 +11,36 @@
   .page {
     max-width: var(--content-width);
     margin: 0 auto;
-    padding: 3rem 1.5rem 5rem;
+    padding: 4rem 0 6rem;
   }
 
   .page-content {
     width: 100%;
   }
 
+  .page-content > * {
+    max-width: 100%;
+  }
+
   .page-content > :first-child {
     margin-top: 0;
+  }
+
+  .page-content :global(.section-heading) {
+    margin-top: 4rem;
+  }
+
+  .page-content :global(h1:first-child) {
+    margin: 0 0 2.5rem;
+    text-align: center;
+    text-wrap: balance;
+  }
+
+  .page-content :global(h2) {
+    margin-top: 3.5rem;
+  }
+
+  .page-content :global(h3) {
+    margin-top: 2.25rem;
   }
 </style>
