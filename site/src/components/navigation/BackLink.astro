@@ -1,34 +1,34 @@
 ---
 interface Props {
-  shelfName: string;
-  shelfSlug: string;
+  href: string;
+  label: string;
 }
 
 const {
-  shelfName,
-  shelfSlug,
+  href,
+  label,
 } = Astro.props;
 ---
 
-<header class="document-header">
-  <a href={`/library/${shelfSlug}`}>
-    ← Back to {shelfName} Shelf
+<header class="back-link">
+  <a href={href}>
+    ← {label}
   </a>
 </header>
 
 <style>
-  .document-header {
+  .back-link {
     margin-bottom: 2rem;
   }
 
-  .document-header a {
+  .back-link a {
     text-decoration: none;
     font-family: var(--font-ui);
     font-size: 0.95rem;
     color: #666;
   }
 
-  .document-header a:hover {
+  .back-link a:hover {
     color: #222;
   }
 </style>

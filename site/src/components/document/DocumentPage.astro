@@ -1,6 +1,6 @@
 ---
 import Page from "../layout/Page.astro";
-import DocumentHeader from "./DocumentHeader.astro";
+import BackLink from "../navigation/BackLink.astro";
 import DocumentFooter from "./DocumentFooter.astro";
 
 import type {
@@ -23,9 +23,9 @@ const {
 ---
 
 <Page>
-  <DocumentHeader
-    shelfName={shelf.name}
-    shelfSlug={shelf.slug}
+  <BackLink
+    href={`/library/${shelf.slug}`}
+    label={`Back to ${shelf.name} Shelf`}
   />
 
   <DocumentBody document={document} />
