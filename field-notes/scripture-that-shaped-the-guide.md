@@ -1,7 +1,5 @@
 # The Scriptures That Shaped The Guide
 
-> _Field Notes_
-
 ## Looking Back
 
 When I first began collecting these passages, I simply considered them favorite Scriptures.

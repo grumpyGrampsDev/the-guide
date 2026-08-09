@@ -38,23 +38,6 @@ if (!currentShelf) {
       )
     }
 
-    <section>
-      <h2>Continue Reading</h2>
-
-      <ul>
-        {
-          currentShelf.documents
-            .filter((document) => document.type !== "index")
-            .map((document) => (
-              <li>
-                <a href={`/library/${document.slug}`}>
-                  {document.title}
-                </a>
-              </li>
-            ))
-        }
-      </ul>
-    </section>
 
   </Page>
 </Layout>
