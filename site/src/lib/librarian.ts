@@ -343,16 +343,23 @@ export async function getGuideShelves(): Promise<GuideShelf[]> {
       throw new Error(`No metadata defined for shelf "${shelf.name}".`);
     }
 
+    const shelfDocuments = documents.filter(
+      (document) => document.shelf === shelf.name,
+    );
+    const shelfReadme = shelfDocuments.find(
+      (document) => document.type === "index",
+    );
+    const shelfBooks = shelfDocuments.filter(
+      (document) => document.type === "document",
+    );
+
     shelves.push({
       name: formatGuideTitle(shelf.name),
       slug: shelf.name,
       order: metadata.order,
       description: readme ? extractShelfDescription(readme) : undefined,
-      documents: documents.filter((document) => document.shelf === shelf.name),
-      readme: documents.find(
-        (document) =>
-          document.shelf === shelf.name && document.type === "index",
-      ),
+      documents: shelfBooks,
+      readme: shelfReadme,
     });
   }
 
