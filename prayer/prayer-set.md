@@ -1,8 +1,6 @@
 # Daily Prayer Set
 
-Prayer is not a formula. These prayers are simple reminders of how to return to God throughout the day.
-
-They are anchors:
+Prayer is not a formula. These prayers are simple reminders of how to return to God throughout the day. They are anchors:
 
 - Remember God's grace.
 - Seek His guidance.
@@ -13,35 +11,30 @@ These words became especially meaningful during a season when prayer was still n
 
 ---
 
-# One Sentence Anchor
+## One Sentence Anchor
 
-Lord, give me light, guide my steps, form my heart, and bear Your fruit in me.
+> Lord,
+>
+> Give me light, guide my steps, form my heart, and bear Your fruit in me.
+>
+> Amen
 
----
+## Morning Prayer
 
-# Morning Prayer
+### Orientation
 
-## Orientation
+> Lord,
+>
+> Thank You for another day.
+> Give me light.
+> Guide my steps.
+> Form my heart.
+> Bear Your fruit through me.
+> Help me walk faithfully today.
+>
+> Amen.
 
-Lord,
-
-Thank You for another day.
-
-Give me light.
-
-Guide my steps.
-
-Form my heart.
-
-Bear Your fruit through me.
-
-Help me walk faithfully today.
-
-Amen.
-
----
-
-## Remember
+### Remember
 
 **Light**
 
@@ -59,45 +52,31 @@ Keep shaping me into Christ.
 
 Produce Your character through me.
 
----
+## Throughout the Day
 
-# Throughout the Day
+### Returning to God
 
-## Returning to God
+> Thank You.
+> Give me light.
+> Guide my next step.
 
-Thank You.
+These are reminders that God is present throughout ordinary moments. They help return my attention to Him.
 
-Give me light.
+## Evening Prayer
 
-Guide my next step.
+### Reflection
 
----
+> Lord,
+>
+> Thank You for today.
+> Forgive where I wandered.
+> Grow what You planted.
+> Prepare tomorrow's step.
+> I rest in Your grace.
+>
+> Amen.
 
-These simple prayers are reminders that God is present throughout ordinary moments. They help return my attention to Him.
-
----
-
-# Evening Prayer
-
-## Reflection
-
-Lord,
-
-Thank You for today.
-
-Forgive where I wandered.
-
-Grow what You planted.
-
-Prepare tomorrow's step.
-
-I rest in Your grace.
-
-Amen.
-
----
-
-## Remember
+### Remember
 
 **Thank You**
 
@@ -115,23 +94,15 @@ Trust that God continues His work.
 
 Rest in what God has done.
 
----
+## The Daily Reminder
 
-# The Daily Reminder
+God provides the light. My response is to walk faithfully in it.
 
-God provides the light.
+_Lamp to my feet._
 
-My response is to walk faithfully in it.
+_Left foot._
 
----
-
-Lamp to my feet.
-
-Left foot.
-
-Right foot.
-
----
+_Right foot._
 
 ## Put It Into Practice
 

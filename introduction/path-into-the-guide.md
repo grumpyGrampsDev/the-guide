@@ -8,11 +8,9 @@ Not with a goal to accomplish. Not with a system to master. Not with a desire to
 
 ---
 
-# Begin With Scripture
+## Begin With Scripture
 
-God speaks. Before we respond, we receive. Scripture is the foundation of everything that follows.
-
-Through His Word, God reveals:
+God speaks. Before we respond, we receive. Scripture is the foundation of everything that follows. Through His Word, God reveals:
 
 - Who He is.
 - What He has done.
@@ -21,13 +19,9 @@ Through His Word, God reveals:
 
 The first step is not knowing everything. The first step is opening the Bible.
 
----
+## Respond Through Prayer
 
-# Respond Through Prayer
-
-God's Word invites a response. Prayer is where we come honestly before Him.
-
-We bring:
+God's Word invites a response. Prayer is where we come honestly before Him. We bring:
 
 - Gratitude.
 - Questions.
@@ -37,28 +31,20 @@ We bring:
 
 Prayer is not about finding perfect words. It is about turning toward the God who has already drawn near.
 
----
+## Reflect On What God Reveals
 
-# Reflect On What God Reveals
-
-Reading Scripture is not only about understanding information. It is about being formed.
-
-Reflection creates space to slow down and ask:
+Reading Scripture is not only about understanding information. It is about being formed. Reflection creates space to slow down and ask:
 
 - What does this reveal about God?
 - What does this reveal about His character?
 - What is He teaching me?
 - How should I respond faithfully?
 
----
-
-# Remember His Faithfulness
+## Remember His Faithfulness
 
 As we walk with God, we begin to recognize moments of His faithfulness. Some truths stay with us. Some passages continue to echo. Some lessons become markers along the path. These become Stones of Remembrance. Not monuments to ourselves. Markers pointing back to God.
 
----
-
-# Walk With The Light Given
+## Walk With The Light Given
 
 God does not always reveal the entire path ahead. Often, He provides enough light for the next step. Walking with God is learning to trust Him one step at a time.
 
@@ -70,9 +56,7 @@ The question is:
 
 "What is the next faithful step God has placed before me?"
 
----
-
-# The Path
+## The Path
 
 The Guide follows this rhythm:
 
@@ -88,21 +72,15 @@ The Guide follows this rhythm:
 
 God speaks. We respond. He forms us. We remember His faithfulness. We walk with Him.
 
----
-
-# Begin Here
+## Begin Here
 
 You do not need to have everything figured out. You do not need to begin with perfect understanding. Begin with the next faithful step. Open your Bible. Read carefully. Pray honestly. Reflect thoughtfully. Remember faithfully. Walk faithfully.
 
----
+_Lamp to my feet._
 
-Lamp to my feet.
+_Left foot._
 
-Left foot.
-
-Right foot.
-
----
+_Right foot._
 
 ## Put It Into Practice
 

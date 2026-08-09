@@ -1,6 +1,6 @@
 # Reading Path Part 3
 
-# PHASE 6 — The Prophets
+## PHASE 6 — The Prophets
 
 _Goal: understand God's holiness, justice, covenant faithfulness, and promises of restoration._
 
@@ -10,74 +10,62 @@ Understand God's call to faithfulness, His concern for justice and mercy, and Hi
 
 ---
 
-## 37. Isaiah
+### 37. Isaiah
 
-### Focus:
+#### Focus:
 
 - God's holiness
 - Judgment
 - The Messiah
 - Restoration
 
-### Pay attention to:
+#### Pay attention to:
 
 - Servant passages
 - Prophecies of hope
 - God's faithfulness despite human failure
 
----
+### 38. Jeremiah
 
-## 38. Jeremiah
-
-### Focus:
+#### Focus:
 
 - Covenant failure
 - Warning
 - Repentance
 - New covenant
 
----
+### 39. Lamentations
 
-## 39. Lamentations
-
-### Focus:
+#### Focus:
 
 - Grief
 - Judgment
 - Hope
 
-### Important:
+#### Important:
 
-Lament is not the absence of faith.
+Lament is not the absence of faith. It is bringing sorrow honestly before God.
 
-It is bringing sorrow honestly before God.
+### 40. Ezekiel
 
----
-
-## 40. Ezekiel
-
-### Focus:
+#### Focus:
 
 - God's glory
 - Judgment
 - Restoration
 - New heart
 
----
+### 41. Daniel
 
-## 41. Daniel
-
-### Focus:
+#### Focus:
 
 - Faithfulness in exile
 - God's sovereignty
 - Kingdoms of the world
 
----
+### 42. The Twelve Minor Prophets
 
-## 42. The Twelve Minor Prophets
-
-### Read:
+#### Read:
 
 - Hosea
 - Joel
@@ -92,7 +80,7 @@ It is bringing sorrow honestly before God.
 - Zechariah
 - Malachi
 
-### Focus:
+#### Focus:
 
 - Covenant faithfulness
 - Justice
@@ -100,9 +88,7 @@ It is bringing sorrow honestly before God.
 - Restoration
 - Hope
 
----
-
-# PHASE 7 — Returning to the Center
+## PHASE 7 — Returning to the Center
 
 _Goal: revisit key passages after seeing the larger story of Scripture._
 
@@ -110,9 +96,7 @@ _Formation Goal:_
 
 Return to Christ with a deeper understanding of God's faithfulness throughout the entire biblical story.
 
----
-
-## 43. Return to the Gospels
+### 43. Return to the Gospels
 
 Suggested:
 
@@ -121,7 +105,7 @@ Suggested:
 - Luke
 - Matthew
 
-### Focus:
+#### Focus:
 
 - Jesus' identity
 - His mission
@@ -129,39 +113,29 @@ Suggested:
 - His kingdom
 - His call to follow Him
 
----
+### 44. Return to Romans
 
-## 44. Return to Romans
-
-### Focus:
+#### Focus:
 
 - Grace
 - Faith
 - Transformation
 - Life in the Spirit
 
----
+### 45. Return to Psalms
 
-## 45. Return to Psalms
-
-### Focus:
+#### Focus:
 
 - Prayer
 - Worship
 - Trust
 - Remembrance
 
----
+## Companion Practices
 
-# Companion Practices
+These practices are not requirements for completing the reading path. They are ways to slow down, notice, and respond.
 
-These practices are not requirements for completing the reading path.
-
-They are ways to slow down, notice, and respond.
-
----
-
-## Prayer Before Reading
+### Prayer Before Reading
 
 Before opening Scripture:
 
@@ -177,72 +151,64 @@ A simple prayer:
 > Lord, give me light for today.
 > Help me understand Your Word and faithfully respond.
 
----
-
-## Reading Journal
+### Reading Journal
 
 Consider recording:
 
-### Passage
+#### Passage
 
 What did I read?
 
-### Observation
+#### Observation
 
 What do I notice?
 
-### Understanding
+#### Understanding
 
 What is God communicating through this passage?
 
-### Reflection
+#### Reflection
 
 How does this shape my understanding of God, myself, and faithful living?
 
-### Response
+#### Response
 
 What is the next faithful step?
 
----
-
-## Questions Worth Asking
+### Questions Worth Asking
 
 When reading Scripture:
 
-### About God
+#### About God
 
 - What does this reveal about who God is?
 - What does this reveal about His character?
 
-### About Humanity
+#### About Humanity
 
 - What does this reveal about people?
 - What patterns of faithfulness or failure appear?
 
-### About Context
+#### About Context
 
 - Who wrote this?
 - Who was the original audience?
 - What situation is being addressed?
 
-### About Christ
+#### About Christ
 
 - How does this connect to the larger story of redemption?
 - How does this point toward or reveal Christ?
 
-### About Response
+#### About Response
 
 - What should I trust?
 - What should I remember?
 - How should I walk faithfully?
 
----
+## Final Reminder
 
-# Final Reminder
-
-The purpose of this plan is not to finish the Bible as quickly as possible.
-
-The purpose is to know God through His Word.
+The purpose of this plan is not to finish the Bible as quickly as possible. The purpose is to know God through His Word.
 
 Read slowly.
 
@@ -254,17 +220,11 @@ Pray honestly.
 
 Allow Scripture to shape you.
 
-The Bible is not merely a book to complete.
-
-It is God's Word to receive, understand, and live.
-
----
+The Bible is not merely a book to complete. It is God's Word to receive, understand, and live.
 
 Open your Bible.
 
 Read carefully.
-
-Pray honestly.
 
 Reflect thoughtfully.
 
@@ -272,15 +232,11 @@ Remember faithfully.
 
 Walk faithfully.
 
----
+_Lamp to my feet._
 
-Lamp to my feet.
+_Left foot._
 
-Left foot.
-
-Right foot.
-
----
+_Right foot._
 
 ## Put It Into Practice
 

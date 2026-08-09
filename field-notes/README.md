@@ -4,9 +4,7 @@ Reflections, examples, and observations from the journey that point beyond perso
 
 ## What This Shelf Holds
 
-Field Notes gathers lived examples of the practices described throughout The Guide, reflections on Scripture, and resources that have shaped the journey.
-
-These notes are not offered as a model others must imitate or as a substitute for personal study. They are testimonies of questions and reminders encountered along the way, shared in the hope that they encourage a return to God's Word.
+Field Notes gathers lived examples of the practices described throughout The Guide, reflections on Scripture, and resources that have shaped the journey. These notes are not offered as a model others must imitate or as a substitute for personal study. They are testimonies of questions and reminders encountered along the way, shared in the hope that they encourage a return to God's Word.
 
 ## What You'll Find Here
 

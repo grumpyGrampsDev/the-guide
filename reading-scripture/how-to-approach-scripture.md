@@ -78,8 +78,6 @@ Some days these postures will come naturally. Other days it will be something we
 
 Then begin reading. God has already spoken.
 
----
-
 ## Put It Into Practice
 
 Before beginning your next time in Scripture, pause and pray. Ask God to give you humility, wisdom, and eyes to see what He has revealed in His Word. Then read a short passage without any goal other than listening carefully.

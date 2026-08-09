@@ -80,8 +80,6 @@ Ask good questions.
 
 The Bible has more to show us than we often realize.
 
----
-
 ## Put It Into Practice
 
 As you read your next passage, write down at least five observations before asking what they mean. Focus only on what you can clearly see in the text—repeated words, contrasts, commands, questions, or anything else that captures your attention.

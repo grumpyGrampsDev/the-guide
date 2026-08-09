@@ -6,83 +6,42 @@
 
 ---
 
-# Origin
+## Origin
 
 **Source:** Bible Study Reflection
 
 **Study:** 1 Peter
 
 The study focused on Peter's encouragement to believers learning how to live faithfully in the midst of difficulty.
-
 A theme that continued throughout the study was that faith is not simply something we claim to believe.
 
 Faith shapes how we live.
 
-One discussion that stood out was the difference between believing something is true and being convinced enough that it changes how we live.
+One discussion that stood out was the difference between believing something is true and being convinced enough that it changes how we live. The group discussed examining the different areas of our lives and considering what influences our thoughts, desires, and actions. This reminded me that spiritual growth is not only about learning more. It is about allowing God to transform us.
 
-The group discussed examining the different areas of our lives and considering what influences our thoughts, desires, and actions.
+## The Truth
 
-This reminded me that spiritual growth is not only about learning more.
+God does not merely call His people to live differently. Through His grace, He transforms hearts so that different living becomes possible.
 
-It is about allowing God to transform us.
+## Why This Became a Stone
 
----
+It is easy to think of obedience as something we accomplish through greater effort, but Peter's message begins with identity. Because God has called and redeemed His people, they are invited into a life that reflects Him. Holiness is not a way to earn God's love. It is a response to the love and grace already received. God does not simply give commands and leave us to fulfill them alone. He works within us.
 
-# The Truth
+## The Stone
 
-God does not merely call His people to live differently.
+Transformation begins with God's work in us. I do not pursue holiness to earn God's acceptance. I pursue holiness because God has already shown His grace.
 
-Through His grace, He transforms hearts so that different living becomes possible.
-
----
-
-# Why This Became a Stone
-
-It is easy to think of obedience as something we accomplish through greater effort.
-
-But Peter's message begins with identity.
-
-Because God has called and redeemed His people, they are invited into a life that reflects Him.
-
-Holiness is not a way to earn God's love.
-
-It is a response to the love and grace already received.
-
-God does not simply give commands and leave us to fulfill them alone.
-
-He works within us.
-
----
-
-# The Stone
-
-Transformation begins with God's work in us.
-
-I do not pursue holiness to earn God's acceptance.
-
-I pursue holiness because God has already shown His grace.
-
----
-
-# Looking Back
+## Looking Back
 
 When I feel discouraged by slow growth, I can return to this truth:
 
-God is not only asking me to change.
+God is not only asking me to change. He is forming me. The same God who calls me toward holiness is the God who provides the grace needed to walk faithfully.
 
-He is forming me.
+_Lamp to my feet._
 
-The same God who calls me toward holiness is the God who provides the grace needed to walk faithfully.
+_Left foot._
 
----
-
-Lamp to my feet.
-
-Left foot.
-
-Right foot.
-
----
+_Right foot._
 
 ## Put It Into Practice
 

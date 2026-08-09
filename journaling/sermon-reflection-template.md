@@ -4,7 +4,7 @@ A sermon is an opportunity to receive teaching, examine Scripture, and consider 
 
 ---
 
-# Sermon Information
+## Sermon Information
 
 **Date:**
 
@@ -16,9 +16,7 @@ A sermon is an opportunity to receive teaching, examine Scripture, and consider 
 
 **Notes:**
 
----
-
-# Receive
+## Receive
 
 Begin by receiving the message.
 
@@ -32,13 +30,9 @@ What did I notice?
 
 The goal is not simply to record what was said. It is to listen carefully.
 
----
+## Sermon Notes
 
-# Sermon Notes
-
-Record meaningful details from the sermon.
-
-This may include:
+Record meaningful details from the sermon. This may include:
 
 - Important quotes
 - Illustrations
@@ -49,13 +43,9 @@ This may include:
 
 These notes serve as reminders of what was taught and provide material for further reflection.
 
----
+## Understand
 
-# Understand
-
-Consider the biblical truth being communicated.
-
-Ask:
+Consider the biblical truth being communicated. Ask:
 
 What does Scripture reveal about this topic?
 
@@ -69,13 +59,9 @@ How does the message point me toward Christ?
 
 A sermon should not only be heard. It should be understood faithfully.
 
----
+## Reflect
 
-# Reflect
-
-Allow the truth of the message to meet you personally.
-
-Ask:
+Allow the truth of the message to meet you personally. Ask:
 
 What challenged me?
 
@@ -91,13 +77,9 @@ Where do I need to trust God?
 
 Reflection begins with what God has revealed and considers how that truth should shape us.
 
----
+## Respond
 
-# Respond
-
-Consider how you should respond.
-
-Ask:
+Consider how you should respond. Ask:
 
 What should I believe?
 
@@ -111,13 +93,9 @@ What prayer comes from this message?
 
 The goal is not simply to remember a sermon. It is to allow God's Word to shape how we live.
 
----
+## Bear Fruit
 
-# Bear Fruit
-
-Consider what faithful living looks like.
-
-Ask:
+Consider what faithful living looks like. Ask:
 
 What is one step of obedience this truth invites me toward?
 
@@ -127,35 +105,29 @@ How should this affect my thoughts, words, and actions?
 
 How can this truth become visible in my life?
 
----
-
-# Framework Connection
+## Framework Connection
 
 Connect this message to the larger work God is doing.
 
-## Lamp to my feet
+### Lamp to my feet
 
 What light has God provided through this teaching?
 
 How should it guide my next step?
 
-## Left foot. Right foot.
+### Left foot. Right foot.
 
 What faithful step is before me?
 
 How can I trust God with the path ahead?
 
-## Receive → Understand → Respond
+### Receive → Understand → Respond
 
 Did I simply hear this message, or am I allowing it to shape me?
 
----
+## The Quiet Whisper
 
-# The Quiet Whisper
-
-After reflecting on the sermon as a whole, what continues to echo?
-
-The Quiet Whisper may be:
+After reflecting on the sermon as a whole, what continues to echo? The Quiet Whisper may be:
 
 - A Scripture verse
 - A phrase
@@ -165,9 +137,7 @@ The Quiet Whisper may be:
 
 It is not the entire sermon summarized. It is the truth that remains with you. The message provides the context. Scripture provides the foundation.
 
----
-
-# The Stone of Remembrance
+## The Stone of Remembrance
 
 What do I want to carry forward?
 
@@ -177,9 +147,7 @@ How has God used this message to teach, encourage, correct, or strengthen me?
 
 The Stone is not a monument to the speaker or the sermon. It is a reminder of God's faithfulness through His Word.
 
----
-
-# Prayer
+## Prayer
 
 Respond to God.
 
@@ -190,8 +158,6 @@ Ask for help in living faithfully.
 Surrender what needs to be surrendered.
 
 Pray that His Word would continue its work in you.
-
----
 
 ## Put It Into Practice
 

@@ -22,8 +22,6 @@ Listen carefully.
 
 Allow His Word to shape you.
 
----
-
 ## Prayer
 
 Prayer is our response to the God who has spoken. Reading Scripture without prayer can become an exercise in knowledge. Prayer reminds us that we are dependent upon God for understanding, wisdom, conviction, strength, and growth. Prayer is not simply bringing requests to God. It is communion with Him.
@@ -38,13 +36,9 @@ We ask for help.
 
 We surrender.
 
----
-
 ## Reflection
 
-Reflection allows God's Word to move from something we have read into something we carry with us. A passage may stay with us long after we close the Bible. A question may continue to challenge us. A truth may need time to settle into our hearts.
-
-Reflection creates space to ask:
+Reflection allows God's Word to move from something we have read into something we carry with us. A passage may stay with us long after we close the Bible. A question may continue to challenge us. A truth may need time to settle into our hearts. Reflection creates space to ask:
 
 What did I learn?
 
@@ -54,19 +48,9 @@ What needs to change?
 
 What should I remember?
 
----
-
 ## Remembrance
 
-Throughout Scripture, God's people are repeatedly called to remember. Not because God's faithfulness changes. Because ours does.
-
-We forget.
-
-We become distracted.
-
-We lose sight of what God has already done.
-
-Remembering creates anchors for future seasons. Write down what God teaches you.
+Throughout Scripture, God's people are repeatedly called to remember. Not because God's faithfulness changes. Because ours does. We forget. We become distracted. We lose sight of what God has already done. Remembering creates anchors for future seasons. Write down what God teaches you.
 
 Remember answered prayers.
 
@@ -75,8 +59,6 @@ Remember moments of conviction.
 Remember His faithfulness.
 
 The lessons God gives today become reminders for tomorrow.
-
----
 
 ## Walking
 
@@ -94,8 +76,6 @@ An act of obedience.
 
 God forms us through a lifetime of faithful steps.
 
----
-
 ## The Rhythm
 
 The Formation Stack is not a ladder where one practice replaces another. It is a rhythm.
@@ -112,8 +92,6 @@ Walking obeys.
 
 Then we return again. The cycle continues throughout the life of faith.
 
----
-
 ## A Final Encouragement
 
 Formation is not something we accomplish by our own strength. It is something God graciously works in us as we remain near to Him. The goal is not perfection. The goal is faithfulness.
@@ -125,8 +103,6 @@ Continue learning.
 Continue walking.
 
 God is faithful to continue the work He has begun.
-
----
 
 ## Put It Into Practice
 

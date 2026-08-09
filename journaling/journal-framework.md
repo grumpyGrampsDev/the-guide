@@ -4,11 +4,9 @@ A journal is a place to record our response to God's Word as He speaks through S
 
 ---
 
-# The Passage
+## The Passage
 
-Begin with Scripture. Record what you are reading.
-
-Include:
+Begin with Scripture. Record what you are reading. Include:
 
 - Book and passage
 - Date
@@ -17,9 +15,7 @@ Include:
 
 The passage is the foundation of the entry. Everything else flows from what God has already spoken.
 
----
-
-# Observation
+## Observation
 
 Before seeking meaning, take time to notice.
 
@@ -39,13 +35,9 @@ What details might I have missed before?
 
 Observation slows us down and helps us listen before we explain.
 
----
+## Understanding
 
-# Understanding
-
-Seek to understand what the passage is communicating.
-
-Ask:
+Seek to understand what the passage is communicating. Ask:
 
 What is the author saying?
 
@@ -61,13 +53,9 @@ How does this fit within the larger story of Scripture?
 
 The goal is not to force a personal meaning onto the text. It is to faithfully understand what God has revealed.
 
----
+## Reflection
 
-# Reflection
-
-Allow the truth of Scripture to meet you personally.
-
-Ask:
+Allow the truth of Scripture to meet you personally. Ask:
 
 What challenged me?
 
@@ -87,31 +75,7 @@ Where do I need to trust?
 
 Reflection is not about making Scripture revolve around us. It is about allowing Scripture to shape us.
 
----
-
-# The Quiet Whisper
-
-After spending time with the passage as a whole, pause and notice what continues to echo.
-
-The Quiet Whisper may be:
-
-- A verse
-- A phrase
-- An image
-- A truth
-- A theme
-
-It is not a replacement for understanding the passage. It is not a verse selected in isolation. It is the part of the passage that remains with you after careful reading, reflection, and prayer. The passage gives meaning to the Whisper. The Whisper helps you remember the passage.
-
-Ask:
-
-What continues to echo?
-
-What truth do I want to carry from today's reading?
-
----
-
-# Response
+## Response
 
 Respond to what God has revealed.
 
@@ -131,13 +95,25 @@ What prayer comes from this passage?
 
 The purpose of Scripture is not simply to inform us. It is to transform us as God works through His Word.
 
----
+## The Quiet Whisper
 
-# The Stone of Remembrance
+After spending time with the passage as a whole, pause and notice what continues to echo. The Quiet Whisper may be:
 
-Consider what you want to carry forward. The Stone is not simply the most interesting thought from the entry. It is the truth you want to remember.
+- A verse
+- A phrase
+- An image
+- A truth
+- A theme
 
-It may be:
+It is not a replacement for understanding the passage. It is not a verse selected in isolation. It is the part of the passage that remains with you after careful reading, reflection, and prayer. The passage gives meaning to the Whisper. The Whisper helps you remember the passage. Ask:
+
+What continues to echo?
+
+What truth do I want to carry from today's reading?
+
+## The Stone of Remembrance
+
+Consider what you want to carry forward. The Stone is not simply the most interesting thought from the entry. It is the truth you want to remember. It may be:
 
 - A lesson God is teaching
 - A reminder of His character
@@ -155,13 +131,9 @@ How has He been faithful?
 
 The Stone is not a monument to ourselves. It is a marker pointing back to God.
 
----
+## Prayer
 
-# Prayer
-
-End by bringing your response before God.
-
-This may be:
+End by bringing your response before God. This may be:
 
 - A prayer of gratitude
 - A prayer of confession
@@ -171,15 +143,9 @@ This may be:
 
 The journal entry is not complete because every question has been answered. It is complete because we have returned to God.
 
----
+## A Final Encouragement
 
-# A Final Encouragement
-
-Do not measure your journal by its length. Do not compare your entries to someone else's. Some days will contain pages. Some days will contain only a sentence.
-
-Both can be faithful.
-
-The value of a journal is not in how impressive it appears. It is in how faithfully it helps you remember God's work through His Word.
+Do not measure your journal by its length. Do not compare your entries to someone else's. Some days will contain pages. Some days will contain only a sentence. Both can be faithful. The value of a journal is not in how impressive it appears. It is in how faithfully it helps you remember God's work through His Word.
 
 Continue reading.
 
@@ -188,8 +154,6 @@ Continue listening.
 Continue walking.
 
 God is faithful.
-
----
 
 ## Put It Into Practice
 

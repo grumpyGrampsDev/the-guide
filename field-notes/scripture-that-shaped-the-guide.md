@@ -4,23 +4,15 @@
 
 ## Looking Back
 
-When I first began collecting these passages, I simply considered them favorite Scriptures.
-
-I wasn't trying to develop a philosophy of Bible study or create a framework for spiritual formation. I was simply writing down passages that I found myself returning to again and again.
-
-Looking back now, I can see that these Scriptures quietly shaped far more than I realized.
-
-Many of the ideas found throughout _The Guide_, its journal rhythm, its Formation Map, its emphasis on remembrance, and especially its focus on walking faithfully, did not begin as systems or principles.
+When I first began collecting these passages, I simply considered them favorite Scriptures. I wasn't trying to develop a philosophy of Bible study or create a framework for spiritual formation. I was simply writing down passages that I found myself returning to again and again. Looking back now, I can see that these Scriptures quietly shaped far more than I realized. Many of the ideas found throughout _The Guide_, its journal rhythm, its Formation Map, its emphasis on remembrance, and especially its focus on walking faithfully, did not begin as systems or principles.
 
 They began here.
 
-The Guide was not built first and then supported with Scripture.
-
-It emerged as Scripture gradually shaped the way I learned to read, pray, reflect, remember, and walk.
+The Guide emerged and was built as Scripture gradually shaped the way I learned to read, pray, reflect, remember, and walk.
 
 ---
 
-# My Motto
+## My Motto
 
 > Walk in the light given.  
 > Walk according to the Spirit.  
@@ -33,17 +25,11 @@ It emerged as Scripture gradually shaped the way I learned to read, pray, reflec
 
 ## Lamp to My Feet
 
-> **Lamp to my feet.**  
-> **Left foot.**  
-> **Right foot.**
+> **_Lamp to my feet._**  
+> **_Left foot._**  
+> **_Right foot._**
 
-These simple words have become the heartbeat of _The Guide_.
-
-They remind me that God rarely reveals the entire path ahead. More often, He faithfully provides enough light for the next step.
-
-That has become one of the defining lessons of my walk with Him.
-
-This motto is a synthesis of themes that repeatedly appear throughout Scripture, especially:
+These simple words have become the heartbeat of _The Guide_. They remind me that God rarely reveals the entire path ahead. More often, He faithfully provides enough light for the next step. That has become one of the defining lessons of my walk with Him. This motto is a synthesis of themes that repeatedly appear throughout Scripture, especially:
 
 - Psalm 119:105
 - Proverbs 4:25–27
@@ -53,9 +39,7 @@ This motto is a synthesis of themes that repeatedly appear throughout Scripture,
 - Ephesians 5:15–16
 - Ephesians 6:15
 
----
-
-# Principles That Emerged
+## Principles That Emerged
 
 As I continued returning to these passages, several simple truths gradually became anchors.
 
@@ -69,23 +53,19 @@ As I continued returning to these passages, several simple truths gradually beca
 
 When even those feel difficult to hold together, I come back to something much simpler:
 
-> Lamp to my feet.
+> _Lamp to my feet._
+>
+> _Left foot._
+>
+> _Right foot._
 
-> Left foot.
-
-> Right foot.
-
----
-
-# Recurring Themes
+## Recurring Themes
 
 Over time, these passages began gathering themselves into several recurring themes.
 
-## Faithful Work
+### Faithful Work
 
-God values faithfulness more than recognition.
-
-Work becomes worship when it is offered to Him.
+God values faithfulness more than recognition. Work becomes worship when it is offered to Him.
 
 **Key passages**
 
@@ -97,13 +77,9 @@ Work becomes worship when it is offered to Him.
 - 1 Thessalonians 4:11
 - 2 Thessalonians 3:11–13
 
----
-
 ## Self-Examination
 
-God's Word continually invites honest reflection before confident conclusions.
-
-Humility is often the doorway to wisdom.
+God's Word continually invites honest reflection before confident conclusions. Humility is often the doorway to wisdom.
 
 **Key passages**
 
@@ -116,15 +92,9 @@ Humility is often the doorway to wisdom.
 - Luke 11:34–35
 - Ecclesiastes 7:10
 
----
-
 ## Character
 
-God forms character through ordinary faithfulness.
-
-Leadership is expressed through example.
-
-Love is the measure of maturity.
+God forms character through ordinary faithfulness. Leadership is expressed through example. Love is the measure of maturity.
 
 **Key passages**
 
@@ -133,17 +103,9 @@ Love is the measure of maturity.
 - Romans 12:18
 - 1 Corinthians 16:13–14
 
----
-
 ## Faithful Walking
 
-This is the theme I notice most often.
-
-Again and again, Scripture directs my attention toward faithful movement instead of complete certainty.
-
-God gives enough light for today's step.
-
-He remains faithful with tomorrow's.
+This is the theme I notice most often. Again and again, Scripture directs my attention toward faithful movement instead of complete certainty. God gives enough light for today's step. He remains faithful with tomorrow's.
 
 **Key passages**
 
@@ -157,27 +119,13 @@ He remains faithful with tomorrow's.
 - 2 Corinthians 4:8–9
 - 2 Corinthians 6:16
 
----
+## Looking Back Again
 
-# Looking Back Again
-
-Today I no longer think of these as simply my favorite Scriptures.
-
-They have become faithful companions.
-
-Again and again, God has used them to draw my attention toward humble dependence, faithful obedience, wise living, loving others, and trusting Him with the next step instead of demanding the whole path.
-
-I did not intentionally build _The Guide_ around these themes.
+Today I no longer think of these as simply my favorite Scriptures. They have become faithful companions. Again and again, God has used them to draw my attention toward humble dependence, faithful obedience, wise living, loving others, and trusting Him with the next step instead of demanding the whole path. I did not intentionally build _The Guide_ around these themes.
 
 I simply kept returning to these passages.
 
-Only later did I realize they had quietly been shaping the way I approached Scripture all along.
-
-If _The Guide_ has a foundation beyond Scripture itself, it is not a method or a framework.
-
-It is the patient work God has done through these passages over time.
-
----
+Only later did I realize they had quietly been shaping the way I approached Scripture all along. If _The Guide_ has a foundation beyond Scripture itself, it is not a method or a framework. It is the patient work God has done through these passages over time.
 
 ## Put It Into Practice
 

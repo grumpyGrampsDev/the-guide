@@ -8,19 +8,15 @@ This is not a checklist to complete. It is not a measure of spiritual maturity. 
 
 ---
 
-# The Journey Begins With God
+## The Journey Begins With God
 
 The Christian life does not begin with our effort to reach God. It begins with God revealing Himself. Before we respond, we listen. Before we walk, we receive direction. Before we act, we seek to understand. The Formation Map begins with Scripture because God is the one who speaks first.
 
----
+## Scripture
 
-# Scripture
+### God Reveals
 
-## God Reveals
-
-Scripture is where we begin. Through His Word, God reveals who He is, what He has done, and how He calls His people to live.
-
-We approach Scripture with humility:
+Scripture is where we begin. Through His Word, God reveals who He is, what He has done, and how He calls His people to live. We approach Scripture with humility:
 
 - Seeking to understand what God has communicated.
 - Considering the author's intent.
@@ -29,15 +25,11 @@ We approach Scripture with humility:
 
 The goal is not simply to gain knowledge. The goal is to know God.
 
----
+## Prayer
 
-# Prayer
+### We Respond
 
-## We Respond
-
-Prayer is our response to the God who has revealed Himself. Prayer is not merely a list of requests. It is relationship. It is dependence.
-
-It is bringing ourselves honestly before God:
+Prayer is our response to the God who has revealed Himself. Prayer is not merely a list of requests. It is relationship. It is dependence. It is bringing ourselves honestly before God:
 
 - Gratitude.
 - Confession.
@@ -48,15 +40,11 @@ It is bringing ourselves honestly before God:
 
 Through prayer, we learn to respond to God rather than simply react to life.
 
----
+## Reflection
 
-# Reflection
+### Truth Takes Root
 
-## Truth Takes Root
-
-Reflection slows us down enough to notice.
-
-It asks:
+Reflection slows us down enough to notice. It asks:
 
 - What did God reveal?
 - What does this teach me about Him?
@@ -64,23 +52,17 @@ It asks:
 
 Reflection is where Scripture moves from something we read into something that begins to shape us. It is not about creating our own meaning. It is about faithfully considering what God has already communicated.
 
----
+## Remembrance
 
-# Remembrance
-
-## Faithfulness Is Preserved
+### Faithfulness Is Preserved
 
 Remembrance helps us recognize God's faithfulness over time. We are quick to forget. God's character does not change, but our circumstances and perspectives often do. Through remembrance, we preserve the truths God has used to shape us. Stones of Remembrance are not monuments to ourselves. They are markers pointing back to God's faithfulness.
 
----
+## Walking
 
-# Walking
+### Faith Becomes Practice
 
-## Faith Becomes Practice
-
-Walking is the ongoing response to what God has revealed. We do not wait until we understand everything. We walk with the light God provides.
-
-Walking with God means:
+Walking is the ongoing response to what God has revealed. We do not wait until we understand everything. We walk with the light God provides. Walking with God means:
 
 - Trusting His guidance.
 - Depending on His grace.
@@ -88,9 +70,7 @@ Walking with God means:
 
 The goal is not perfect understanding. The goal is faithful obedience.
 
----
-
-# A Continuing Rhythm
+## A Continuing Rhythm
 
 The Formation Map is not completed once. It is a rhythm we return to again and again.
 
@@ -114,21 +94,15 @@ When the path ahead is unclear:
 
 Take the next faithful step.
 
----
+_Lamp to my feet._
 
-Lamp to my feet.
+_Left foot._
 
-Left foot.
-
-Right foot.
-
----
+_Right foot._
 
 The Guide points.
 
 God transforms.
-
----
 
 ## Put It Into Practice
 

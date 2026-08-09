@@ -96,8 +96,6 @@ Do not allow God's work in you to become a forgotten moment. Write it down. Pray
 
 The purpose of reading Scripture is not simply to make us better informed. It is to make us more faithful. Read carefully. Understand humbly. Respond obediently. Trust God with the growth. His Word is faithful.
 
----
-
 ## Put It Into Practice
 
 Identify one specific way this passage calls you to respond today. Keep your response simple, concrete, and attainable. Then, if possible, write it down and return to it later to reflect on how God used your faithfulness.

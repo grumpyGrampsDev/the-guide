@@ -4,9 +4,7 @@ A place for reflecting on Scripture, Bible study, and sermons so that what God h
 
 ## Begin With the Framework
 
-Journaling is not a way to manufacture insight or preserve every thought. It is a way to slow down, observe, seek understanding, bring an honest response before God, and remember truths He has used to shape us.
-
-The journal rhythm moves from passage and observation toward understanding, reflection, response, remembrance, and prayer. Use it as a companion, not a formula.
+Journaling is not a way to manufacture insight or preserve every thought. It is a way to slow down, observe, seek understanding, bring an honest response before God, and remember truths He has used to shape us. The journal rhythm moves from passage and observation toward understanding, reflection, response, remembrance, and prayer. Use it as a companion, not a formula.
 
 ## What You'll Find Here
 

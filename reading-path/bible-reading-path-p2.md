@@ -1,6 +1,6 @@
 # Reading Path Part 2
 
-# PHASE 3 — Old Testament Foundations
+## PHASE 3 — Old Testament Foundations
 
 _Goal: understand the narrative and theological background behind the New Testament._
 
@@ -10,9 +10,9 @@ Learn the foundations of God's covenant faithfulness and recognize the themes th
 
 ---
 
-## 19. Genesis
+### 19. Genesis
 
-### Focus:
+#### Focus:
 
 - Creation
 - Covenant
@@ -20,45 +20,39 @@ Learn the foundations of God's covenant faithfulness and recognize the themes th
 - Abraham
 - Joseph
 
-### Pay attention to:
+#### Pay attention to:
 
 - Repeated failure and grace
 - Blessing themes
 - Family conflict
 
----
+### 20. Exodus
 
-## 20. Exodus
-
-### Focus:
+#### Focus:
 
 - Deliverance
 - Covenant
 - Law
 - Worship
 
-### Important:
+#### Important:
 
-The tabernacle sections matter more than they initially seem.
-
-Pay attention to what they reveal about:
+The tabernacle sections matter more than they initially seem. Pay attention to what they reveal about:
 
 - God's holiness
 - God's presence
 - God's desire to dwell among His people
 
----
+### 21. Leviticus
 
-## 21. Leviticus
-
-### Focus:
+#### Focus:
 
 - Holiness
 - Sacrifice
 - Purity
 - Worship
 
-### Reading strategy:
+#### Reading strategy:
 
 Read slowly and look for:
 
@@ -67,36 +61,30 @@ Read slowly and look for:
 - Symbolic meaning
 - How sacrifice points toward restoration
 
----
+### 22. Numbers
 
-## 22. Numbers
-
-### Focus:
+#### Focus:
 
 - Wilderness
 - Complaining
 - Faithfulness
 - Consequences
 
----
+### 23. Deuteronomy
 
-## 23. Deuteronomy
-
-### Focus:
+#### Focus:
 
 - Covenant renewal
 - Remembering
 - Obedience
 
-### Pay attention to:
+#### Pay attention to:
 
 - Moses’ speeches
 - Blessings and curses
 - Repeated themes of remembrance and faithfulness
 
----
-
-# PHASE 4 — Israel’s Story
+## PHASE 4 — Israel’s Story
 
 _Goal: understand God's faithfulness through the history of His people._
 
@@ -104,94 +92,76 @@ _Formation Goal:_
 
 See God's patience, justice, mercy, and faithfulness through the successes and failures of Israel.
 
----
+### 24. Joshua
 
-## 24. Joshua
-
-### Focus:
+#### Focus:
 
 - Entering the land
 - Faithfulness
 - Covenant
 
----
+### 25. Judges
 
-## 25. Judges
-
-### Focus:
+#### Focus:
 
 - Moral decline
 - Cycles of rebellion
 
-### Key pattern:
+#### Key pattern:
 
 Rebellion → oppression → repentance → deliverance
 
----
+### 26. Ruth
 
-## 26. Ruth
-
-### Focus:
+#### Focus:
 
 - Loyalty
 - Providence
 - Redemption
 
----
+### 27. 1 & 2 Samuel
 
-## 27. 1 & 2 Samuel
-
-### Focus:
+#### Focus:
 
 - Saul
 - David
 - Kingship
 - Covenant
 
----
+### 28. 1 & 2 Kings
 
-## 28. 1 & 2 Kings
-
-### Focus:
+#### Focus:
 
 - Division
 - Idolatry
 - Prophets
 - Decline
 
----
+### 29. 1 & 2 Chronicles
 
-## 29. 1 & 2 Chronicles
-
-### Focus:
+#### Focus:
 
 - Worship
 - Temple
 - Retelling Israel’s history
 
----
+### 30. Ezra & Nehemiah
 
-## 30. Ezra & Nehemiah
-
-### Focus:
+#### Focus:
 
 - Return from exile
 - Restoration
 - Rebuilding
 
----
+### 31. Esther
 
-## 31. Esther
-
-### Focus:
+#### Focus:
 
 - Providence
 - Courage
 - Preservation
 
----
-
-# PHASE 5 — Wisdom and Poetry
+## PHASE 5 — Wisdom and Poetry
 
 _Goal: learn to bring the full range of human experience before God through wisdom, worship, lament, and trust._
 
@@ -199,19 +169,13 @@ _Formation Goal:_
 
 Learn to recognize God's wisdom and faithfulness in both ordinary life and difficult seasons.
 
----
+### 32. Psalms
 
-## 32. Psalms
+#### Reading strategy:
 
-### Reading strategy:
+Read gradually over time. Psalms are not meant to be read only once. Return to them throughout life as prayers for worship, grief, gratitude, trust, and remembrance.
 
-Read gradually over time.
-
-Psalms are not meant to be read only once.
-
-Return to them throughout life as prayers for worship, grief, gratitude, trust, and remembrance.
-
-### Focus:
+#### Focus:
 
 - Prayer
 - Worship
@@ -220,68 +184,52 @@ Return to them throughout life as prayers for worship, grief, gratitude, trust, 
 - Praise
 - Lament
 
-### Important:
+#### Important:
 
-The emotional honesty here is intentional.
+The emotional honesty here is intentional. God's people bring their full experiences before Him.
 
-God's people bring their full experiences before Him.
+### 33. Proverbs
 
----
-
-## 33. Proverbs
-
-### Focus:
+#### Focus:
 
 - Wisdom
 - Speech
 - Discipline
 - Character
 
-### Important:
+#### Important:
 
-Proverbs are principles, not guarantees.
+Proverbs are principles, not guarantees. They teach wisdom, not formulas for controlling outcomes.
 
-They teach wisdom, not formulas for controlling outcomes.
+### 34. Ecclesiastes
 
----
-
-## 34. Ecclesiastes
-
-### Focus:
+#### Focus:
 
 - Meaning
 - Mortality
 - Vanity
 - Wisdom
 
----
+### 35. Song of Songs
 
-## 35. Song of Songs
-
-### Focus:
+#### Focus:
 
 - Love
 - Beauty
 - Intimacy
 - Covenant imagery
 
----
+### 36. Job
 
-## 36. Job
-
-### Focus:
+#### Focus:
 
 - Suffering
 - Justice
 - Human limitation
 
-### Important:
+#### Important:
 
-Do not rush to simplistic answers.
-
-Job invites humility before questions we cannot fully resolve.
-
----
+Do not rush to simplistic answers. Job invites humility before questions we cannot fully resolve.
 
 ## Put It Into Practice
 

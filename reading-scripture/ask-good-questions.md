@@ -40,9 +40,7 @@ The Bible was written intentionally. Questions help us discover that intentional
 
 ## Follow the Author's Thought
 
-Rather than collecting isolated verses, follow the flow of the passage.
-
-Ask questions like:
+Rather than collecting isolated verses, follow the flow of the passage. Ask questions like:
 
 How did the author arrive at this conclusion?
 
@@ -73,8 +71,6 @@ The goal is not to collect an endless list of unanswered questions. The goal is 
 ## A Final Encouragement
 
 Do not fear your questions. Bring them to Scripture. Bring them to prayer. Bring them to trusted believers. Then keep reading. God often answers sincere questions through the steady, faithful study of His Word.
-
----
 
 ## Put It Into Practice
 

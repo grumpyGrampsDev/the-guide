@@ -4,9 +4,7 @@ This template reflects the journaling rhythm that has developed through my own t
 
 Use it as a starting point. Adapt it as needed. The goal is not to create perfect entries. It is to remain attentive to God's Word.
 
----
-
-# Passage
+## Passage
 
 **Scripture:**
 
@@ -16,13 +14,9 @@ Use it as a starting point. Adapt it as needed. The goal is not to create perfec
 
 **Notes:**
 
----
+## Receive
 
-# Receive
-
-Begin by receiving what Scripture says. Before asking how the passage applies, first listen to what God has revealed.
-
-Ask:
+Begin by receiving what Scripture says. Before asking how the passage applies, first listen to what God has revealed. Ask:
 
 What does this passage say?
 
@@ -36,13 +30,9 @@ What questions emerge?
 
 The goal is not to rush toward conclusions. It is to listen carefully.
 
----
+## Understand
 
-# Understand
-
-Seek to understand what the passage is communicating.
-
-Ask:
+Seek to understand what the passage is communicating. Ask:
 
 What is the author saying?
 
@@ -58,13 +48,9 @@ How does this fit within the larger story of Scripture?
 
 Meaning comes before application. Understand what God has revealed before considering how you should respond.
 
----
+## Respond
 
-# Respond
-
-Allow God's Word to shape your response.
-
-Ask:
+Allow God's Word to shape your response. Ask:
 
 How should this truth affect me?
 
@@ -80,13 +66,9 @@ What prayer comes from this passage?
 
 The purpose of Scripture is not simply to inform us. It is to transform us as God works through His Word.
 
----
+## Bear Fruit
 
-# Bear Fruit
-
-Consider what faithful living looks like because of what you have received.
-
-Ask:
+Consider what faithful living looks like because of what you have received. Ask:
 
 What does obedience look like here?
 
@@ -98,35 +80,29 @@ What is one faithful step I can take?
 
 Spiritual growth is often formed through ordinary steps of obedience. Over time, these moments become reminders of God's faithfulness and the ways He has continued to shape us through His Word.
 
----
-
-# Framework Connection
+## Framework Connection
 
 Connect this passage to the larger work God is doing in your life.
 
-## Lamp to my feet
+### Lamp to my feet
 
 Am I allowing God's Word to guide my next step?
 
 Where is God providing light for me today?
 
-## Left foot. Right foot.
+### Left foot. Right foot.
 
 What is the next faithful step before me?
 
 Am I trusting God with the path ahead?
 
-## Receive → Understand → Respond
+### Receive → Understand → Respond
 
 Is Scripture simply informing my mind, or is it shaping my life?
 
----
+## The Quiet Whisper
 
-# The Quiet Whisper
-
-After sitting with the passage as a whole, pause and notice what continues to echo.
-
-The Quiet Whisper may be:
+After sitting with the passage as a whole, pause and notice what continues to echo. The Quiet Whisper may be:
 
 - A verse
 - A phrase
@@ -134,21 +110,15 @@ The Quiet Whisper may be:
 - A truth
 - A theme
 
-It is not a replacement for understanding the passage. It is not a verse selected apart from context. It is the part of the passage that remains with you after careful reading, reflection, and prayer. The passage gives meaning to the Whisper. The Whisper helps you remember the passage.
-
-Ask:
+It is not a replacement for understanding the passage. It is not a verse selected apart from context. It is the part of the passage that remains with you after careful reading, reflection, and prayer. The passage gives meaning to the Whisper. The Whisper helps you remember the passage. Ask:
 
 What continues to echo?
 
 What truth from this passage continues to remain with me?
 
----
+## The Stone of Remembrance
 
-# The Stone of Remembrance
-
-Consider what you want to carry forward. The Stone is not simply the most interesting thought from today's reading. It is the truth you want to remember.
-
-Ask:
+Consider what you want to carry forward. The Stone is not simply the most interesting thought from today's reading. It is the truth you want to remember. Ask:
 
 What do I want to remember?
 
@@ -160,9 +130,7 @@ How might this truth strengthen me in a future season?
 
 The Stone is not a monument to myself. It is a marker pointing back to God.
 
----
-
-# Prayer
+## Prayer
 
 End by returning to God.
 
@@ -177,8 +145,6 @@ Surrender what needs to be surrendered.
 Pray the truth of Scripture back to Him.
 
 The goal is not a perfect journal entry. It is a faithful response to the God who has spoken.
-
----
 
 ## Put It Into Practice
 
