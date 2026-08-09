@@ -3,6 +3,44 @@ import path from "node:path";
 
 const GUIDE_ROOT = path.resolve(process.cwd(), "..");
 
+const SHELF_METADATA = {
+  introduction: {
+    order: 10,
+  },
+
+  "reading-path": {
+    order: 20,
+  },
+
+  "reading-scripture": {
+    order: 30,
+  },
+
+  journaling: {
+    order: 40,
+  },
+
+  prayer: {
+    order: 50,
+  },
+
+  formation: {
+    order: 60,
+  },
+
+  "field-notes": {
+    order: 70,
+  },
+
+  "stones-of-remembrance": {
+    order: 80,
+  },
+
+  walking: {
+    order: 90,
+  },
+} as const;
+
 // -----------------------------------------------------------------------------
 // Interfaces
 // -----------------------------------------------------------------------------
@@ -34,26 +72,25 @@ export interface PutIntoPractice {
 export interface GuideDocument {
   title: string;
   slug: string;
-
   shelf: string;
-
   type: "document" | "index";
-
   putIntoPractice?: PutIntoPractice;
-
   recommendedNext?: RecommendedNext;
   relatedReading: GuideLink[];
-
   content: string;
+}
+
+export interface GuideLibrary {
+  introduction: GuideDocument;
+  shelves: GuideShelf[];
 }
 
 export interface GuideShelf {
   name: string;
   slug: string;
+  order: number;
   description?: string;
-
   readme?: GuideDocument;
-
   documents: GuideDocument[];
 }
 
@@ -71,6 +108,10 @@ async function readShelfReadme(shelfPath: string): Promise<string | undefined> {
   } catch {
     return undefined;
   }
+}
+
+async function readLibraryIntroduction(): Promise<string> {
+  return await readMarkdownFile(path.join(GUIDE_ROOT, "LIBRARY.md"));
 }
 
 function extractShelfDescription(markdown: string): string | undefined {
@@ -261,7 +302,8 @@ async function discoverShelfLocations(): Promise<GuideShelfLocation[]> {
   const entries = await fs.readdir(GUIDE_ROOT, {
     withFileTypes: true,
   });
-  const shelves = entries
+
+  return entries
     .filter(
       (entry) =>
         entry.isDirectory() && entry.name !== ".git" && entry.name !== "site",
@@ -270,7 +312,6 @@ async function discoverShelfLocations(): Promise<GuideShelfLocation[]> {
       name: entry.name,
       path: path.join(GUIDE_ROOT, entry.name),
     }));
-  return shelves;
 }
 
 // -----------------------------------------------------------------------------
@@ -296,10 +337,16 @@ export async function getGuideShelves(): Promise<GuideShelf[]> {
 
   for (const shelf of shelfLocations) {
     const readme = await readShelfReadme(shelf.path);
+    const metadata = SHELF_METADATA[shelf.name as keyof typeof SHELF_METADATA];
+
+    if (!metadata) {
+      throw new Error(`No metadata defined for shelf "${shelf.name}".`);
+    }
 
     shelves.push({
       name: formatGuideTitle(shelf.name),
       slug: shelf.name,
+      order: metadata.order,
       description: readme ? extractShelfDescription(readme) : undefined,
       documents: documents.filter((document) => document.shelf === shelf.name),
       readme: documents.find(
@@ -309,7 +356,23 @@ export async function getGuideShelves(): Promise<GuideShelf[]> {
     });
   }
 
+  shelves.sort((a, b) => a.order - b.order);
+
   return shelves;
+}
+
+export async function getLibrary(): Promise<GuideLibrary> {
+  const shelves = await getGuideShelves();
+
+  const introduction = createGuideDocument(
+    "LIBRARY.md",
+    await readLibraryIntroduction(),
+  );
+
+  return {
+    introduction,
+    shelves,
+  };
 }
 
 export async function getDocumentsOnShelf(
