@@ -87,7 +87,7 @@ Future possibilities:
 
 ---
 
-## Biblical Books
+## Reading Path
 
 Purpose:
 
@@ -300,11 +300,11 @@ Future possibilities:
 
 # Site Architecture
 
-The website mirrors the physical metaphor of The Guide:
+The website is organized as a library. Visitors are welcomed through a series of increasingly focused spaces:
 
-Door → Front Desk → Shelves → Books
+Door → Front Desk → Library → Shelves → Books
 
-Each layer has a specific purpose.
+Each space serves a different purpose while preserving the freedom to explore.
 
 ### Door
 
@@ -314,14 +314,19 @@ Its purpose is not to explain everything, but to welcome visitors and invite the
 
 ### Front Desk
 
-The front desk provides orientation.
+The Front Desk provides orientation. Its purpose is to help visitors understand what The Guide is and where to begin.
 
 Visitors can:
 
-- Begin the recommended path.
-- Browse the available shelves.
+- begin the recommended journey
+- learn what the Library contains
+- choose whether to follow the suggested path or browse freely
 
-The front desk does not contain the library contents. It helps visitors understand where to go.
+The Front Desk points people toward the Library rather than replacing it.
+
+### Library
+
+The Library gathers every shelf within The Guide into one place. It serves as the central catalog of the collection, allowing readers to browse according to their current season, interests, or questions. Unlike the Front Desk, which provides orientation, the Library exists for exploration.
 
 ### Shelves
 
@@ -339,9 +344,17 @@ Each shelf provides an entry point into the documents it contains.
 
 ### Books
 
-Documents contain the actual writings of The Guide.
+Books contain the actual writings of The Guide. ßEach book is authored in Markdown and remains the source of truth.
 
-Documents are rendered from Markdown files in the repository and remain the source of truth.
+Every book follows a consistent editorial structure:
+
+- one H1 title
+- hierarchical section headings
+- optional practice prompts
+- optional recommended next steps
+- optional related reading
+
+The website presents these books without changing their underlying content.
 
 ---
 
@@ -349,13 +362,19 @@ Documents are rendered from Markdown files in the repository and remain the sour
 
 The current routing structure:
 /
-Landing page
+Door
+
 /front-desk
-Orientation and navigation
+Orientation
+
+/library
+Library catalog
+
 /library/[shelf]
-Shelf doorway
+Shelf
+
 /library/[...slug]
-Individual document
+Book
 
 The routing intentionally separates:
 
@@ -393,7 +412,7 @@ The website should not become detached from the practices and reflections that c
 
 # The Librarian
 
-The Librarian is the internal component responsible for discovering, organizing, and retrieving the Guide's documents. It treats the repository as the source of truth and presents a simple API (getLibraryDocuments, getDocument, getSection) to the rest of the application. The Librarian discovers structure. It does not define structure.
+The Librarian is responsible for discovering, organizing, and interpreting the repository. It identifies shelves, books, editorial metadata, relationships between books, and presentation information while treating the repository as the source of truth. The Librarian discovers structure. It does not define structure.. It treats the repository as the source of truth and presents a simple API (getLibraryDocuments, getDocument, getSection) to the rest of the application. The Librarian discovers structure. It does not define structure.
 
 ---
 
@@ -408,6 +427,23 @@ The question is not:
 The question is:
 
 "What would help someone walk more faithfully with God through Scripture?"
+
+---
+
+# Editorial Architecture
+
+The Guide distinguishes between software architecture and editorial architecture.
+
+The repository organizes books according to shelves and folders.
+
+Each individual book follows a consistent editorial structure.
+
+- One H1 title.
+- H2 headings for major sections.
+- H3 headings for subsections when needed.
+- Editorial navigation sections (`Put It Into Practice`, `Recommended Next Step`, and `Related Reading`) appear at the end of a book.
+
+This consistency improves readability, accessibility, and allows the website to present books in a predictable way while preserving Markdown as the source of truth.
 
 ---
 
