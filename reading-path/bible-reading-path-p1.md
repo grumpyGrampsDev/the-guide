@@ -2,15 +2,13 @@
 
 _A structured reading path focused on understanding context, themes, and connections rather than speed._
 
-This plan is not intended to be a measure of spiritual achievement or a race to complete Scripture.
-
-It is one possible path through God's Word designed to encourage careful reading, thoughtful study, prayerful reflection, and faithful response.
+This plan is not intended to be a measure of spiritual achievement or a race to complete Scripture. It is one possible path through God's Word designed to encourage careful reading, thoughtful study, prayerful reflection, and faithful response.
 
 ---
 
-# How to Use This Guide
+## How to Use This Guide
 
-## Reading Method
+### Reading Method
 
 For each reading session:
 
@@ -27,30 +25,22 @@ For each reading session:
    - Personal observations
 4. Re-read difficult passages before moving on
 
----
+## Important Principles
 
-# Important Principles
+### Do not rush
 
-## Do not rush
+The goal is understanding and formation, not completion. Scripture is not simply a book to finish. It is God's Word to receive, understand, and live.
 
-The goal is understanding and formation, not completion.
+### Read whole sections
 
-Scripture is not simply a book to finish.
-
-It is God's Word to receive, understand, and live.
-
-## Read whole sections
-
-Avoid isolating single verses from their surrounding context.
-
-Consider:
+Avoid isolating single verses from their surrounding context. Consider:
 
 - The surrounding passage
 - The chapter
 - The purpose of the book
 - The broader story of Scripture
 
-## Expect different genres
+### Expect different genres
 
 The Bible contains:
 
@@ -63,7 +53,7 @@ The Bible contains:
 
 Each should be read with attention to its purpose and style.
 
-## Keep a notebook
+### Keep a notebook
 
 Track:
 
@@ -76,9 +66,7 @@ Track:
 
 Writing helps create reminders of what God is teaching.
 
----
-
-# PHASE 1 — Foundations of Jesus and the Early Church
+## PHASE 1 — Foundations of Jesus and the Early Church
 
 _Goal: understand the core Christian story before approaching the full biblical narrative._
 
@@ -86,11 +74,9 @@ _Formation Goal:_
 
 Learn to see Jesus not only as the subject of Scripture, but as the center of God's redemptive story.
 
----
+### 1. John
 
-## 1. John
-
-### Focus:
+#### Focus:
 
 - Identity of Jesus
 - Eternal life
@@ -98,68 +84,60 @@ Learn to see Jesus not only as the subject of Scripture, but as the center of Go
 - Relationship with the Father
 - Light/darkness imagery
 
-### Pay attention to:
+#### Pay attention to:
 
 - Repeated symbols
 - “I am” statements
 - Signs/miracles and their meanings
 - Long conversations
 
----
+### 2. Mark
 
-## 2. Mark
-
-### Focus:
+#### Focus:
 
 - Actions of Jesus
 - Urgency
 - Discipleship
 - Suffering servant themes
 
-### Pay attention to:
+#### Pay attention to:
 
 - How people react to Jesus
 - Misunderstanding by disciples
 - Conflict with religious leaders
 
----
+### 3. Luke
 
-## 3. Luke
-
-### Focus:
+#### Focus:
 
 - Compassion
 - Outsiders and marginalized people
 - Prayer
 - Historical detail
 
-### Pay attention to:
+#### Pay attention to:
 
 - Parables unique to Luke
 - Social reversal themes
 - Mercy and repentance
 
----
+### 4. Acts
 
-## 4. Acts
-
-### Focus:
+#### Focus:
 
 - Growth of the early church
 - Work of the Holy Spirit
 - Mission and persecution
 - Community life
 
-### Pay attention to:
+#### Pay attention to:
 
 - Sermons
 - Conversions
 - Church conflicts
 - Expansion outward geographically
 
----
-
-# PHASE 2 — Core Christian Teaching
+## PHASE 2 — Core Christian Teaching
 
 _Goal: understand foundational theology and Christian living._
 
@@ -167,55 +145,45 @@ _Formation Goal:_
 
 Allow the truth of the Gospel to shape identity, character, perseverance, and everyday faithfulness.
 
----
+### 5. James
 
-## 5. James
-
-### Focus:
+#### Focus:
 
 - Practical faith
 - Speech
 - Wisdom
 - Action vs empty religion
 
----
+### 6. 1 Peter
 
-## 6. 1 Peter
-
-### Focus:
+#### Focus:
 
 - Suffering
 - Endurance
 - Holiness
 - Humility
 
----
+### 7. Philippians
 
-## 7. Philippians
-
-### Focus:
+#### Focus:
 
 - Joy
 - Contentment
 - Perseverance
 - Christlike humility
 
----
+### 8. Ephesians
 
-## 8. Ephesians
-
-### Focus:
+#### Focus:
 
 - Identity
 - Unity
 - Grace
 - Spiritual maturity
 
----
+### 9. Romans
 
-## 9. Romans
-
-### Focus:
+#### Focus:
 
 - Sin
 - Grace
@@ -223,27 +191,21 @@ Allow the truth of the Gospel to shape identity, character, perseverance, and ev
 - Salvation
 - Transformation
 
-### Important:
+#### Important:
 
-Read slowly.
+Read slowly. Romans builds arguments progressively.
 
-Romans builds arguments progressively.
+### 10. Galatians
 
----
-
-## 10. Galatians
-
-### Focus:
+#### Focus:
 
 - Freedom
 - Law vs grace
 - Christian identity
 
----
+### 11. 1 Corinthians
 
-## 11. 1 Corinthians
-
-### Focus:
+#### Focus:
 
 - Church problems
 - Division
@@ -251,74 +213,60 @@ Romans builds arguments progressively.
 - Love
 - Resurrection
 
----
+### 12. 2 Corinthians
 
-## 12. 2 Corinthians
-
-### Focus:
+#### Focus:
 
 - Weakness
 - Suffering
 - Ministry
 - Reconciliation
 
----
+### 13. Colossians
 
-## 13. Colossians
-
-### Focus:
+#### Focus:
 
 - Supremacy of Christ
 - Spiritual maturity
 
----
+### 14. 1 & 2 Thessalonians
 
-## 14. 1 & 2 Thessalonians
-
-### Focus:
+#### Focus:
 
 - Hope
 - Perseverance
 - Return of Christ
 
----
+### 15. Pastoral Epistles
 
-## 15. Pastoral Epistles
-
-### Read:
+#### Read:
 
 - 1 Timothy
 - 2 Timothy
 - Titus
 
-### Focus:
+#### Focus:
 
 - Leadership
 - Teaching
 - Perseverance
 - Sound doctrine
 
----
+### 16. Hebrews
 
-## 16. Hebrews
-
-### Focus:
+#### Focus:
 
 - Jesus as fulfillment
 - Faith
 - Perseverance
 
-### Important:
+#### Important:
 
-This book assumes familiarity with the Old Testament sacrificial system.
+This book assumes familiarity with the Old Testament sacrificial system. Read slowly and pay attention to how Hebrews connects Jesus to the larger story of Scripture.
 
-Read slowly and pay attention to how Hebrews connects Jesus to the larger story of Scripture.
+### 17. Remaining New Testament Books
 
----
-
-## 17. Remaining New Testament Books
-
-### Read:
+#### Read:
 
 - 2 Peter
 - 1 John
@@ -327,7 +275,7 @@ Read slowly and pay attention to how Hebrews connects Jesus to the larger story 
 - Jude
 - Revelation
 
-### Focus:
+#### Focus:
 
 - Perseverance
 - Faithfulness
@@ -335,11 +283,9 @@ Read slowly and pay attention to how Hebrews connects Jesus to the larger story 
 - Hope
 - Final restoration
 
-### Revelation Focus:
+#### Revelation Focus:
 
-Do not obsess over timelines initially.
-
-Focus first on:
+Do not obsess over timelines initially. Focus first on:
 
 - Worship
 - Faithfulness
@@ -347,11 +293,9 @@ Focus first on:
 - Judgment
 - Hope
 
----
+### 18. Matthew — The Kingdom and the King:
 
-## 18. Matthew — The Kingdom and the King:
-
-### Focus:
+#### Focus:
 
 - Jesus as Messiah
 - The kingdom of heaven
@@ -360,7 +304,7 @@ Focus first on:
 - Discipleship
 - The Great Commission
 
-### Pay attention to:
+#### Pay attention to:
 
 - How Matthew connects Jesus to the Old Testament
 - Repeated references to fulfillment
@@ -370,13 +314,7 @@ Focus first on:
 
 ### Why Matthew concludes the New Testament section:
 
-After reading the New Testament writings that explain the Gospel and encourage believers in faithfulness, Matthew brings us back to Jesus Himself.
-
-The story begins and ends with Christ.
-
-The purpose of Scripture is not simply understanding information about God, but knowing the King who calls His people to follow Him.
-
----
+After reading the New Testament writings that explain the Gospel and encourage believers in faithfulness, Matthew brings us back to Jesus Himself. The story begins and ends with Christ. The purpose of Scripture is not simply understanding information about God, but knowing the King who calls His people to follow Him.
 
 ## Put It Into Practice
 

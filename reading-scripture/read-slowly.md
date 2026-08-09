@@ -8,9 +8,7 @@ How many books have I completed?
 
 How many times have I read through the Bible?
 
-Those questions are not unimportant, but they are not the most important ones. Over time, I have found that some of the passages I remember most clearly were not the ones I read the fastest, but the ones I returned to slowly and repeatedly.
-
-A better question is this:
+Those questions are not unimportant, but they are not the most important ones. Over time, I have found that some of the passages I remember most clearly were not the ones I read the fastest, but the ones I returned to slowly and repeatedly. A better question is this:
 
 **Did I truly listen to what God said?**
 
@@ -64,9 +62,7 @@ Slow down.
 
 Listen well.
 
-## God is speaking.
-
----
+_God is speaking._
 
 ## Put It Into Practice
 

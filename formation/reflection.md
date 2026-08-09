@@ -10,9 +10,7 @@ Reflection and journaling became important to me because I realized that simply 
 
 ## Reflection Is Not Self-Focus
 
-Reflection is not simply looking inward. It is not an exercise in evaluating ourselves apart from God. True reflection begins with Scripture.
-
-We do not start by asking:
+Reflection is not simply looking inward. It is not an exercise in evaluating ourselves apart from God. True reflection begins with Scripture. We do not start by asking:
 
 "How do I feel about this?"
 
@@ -22,21 +20,15 @@ We begin by asking:
 
 Only then do we consider how we should respond.
 
----
-
 ## Slow Down and Remain
 
 Some passages stay with us. A verse may return to our thoughts throughout the day. A question may continue to challenge us. A truth may become clearer with time. Reflection allows us to remain with what God has shown us instead of immediately moving on. Not every lesson is learned in the moment.
 
 Some truths take root slowly.
 
----
-
 ## Ask Good Reflection Questions
 
-Reflection does not require complicated methods. Simple questions can create space to continue listening to God through His Word.
-
-Consider asking:
+Reflection does not require complicated methods. Simple questions can create space to continue listening to God through His Word. Consider asking:
 
 What did I learn about God?
 
@@ -54,8 +46,6 @@ What should I remember?
 
 How should I respond?
 
----
-
 ## Write Things Down
 
 Writing helps us remember.
@@ -72,8 +62,6 @@ A verse that stood out.
 
 The goal is not to create perfect records. It is to create reminders of what God has been teaching. Written reflections become markers along the journey, helping us remember what God has shown us when future seasons make those truths easy to forget.
 
----
-
 ## Reflection Requires Honesty
 
 Not every reading will produce an obvious insight. Some days Scripture will bring comfort. Some days it will bring conviction. Some days it may leave us with questions. All of these can be meaningful encounters with God's Word.
@@ -82,13 +70,9 @@ Come honestly.
 
 God is not asking for a performance. He invites us to bring our real thoughts, questions, and responses before Him.
 
----
-
 ## Reflection Leads to Response
 
-Reflection should eventually move us toward action. A truth understood but ignored remains incomplete.
-
-Ask:
+Reflection should eventually move us toward action. A truth understood but ignored remains incomplete. Ask:
 
 What should I believe?
 
@@ -102,8 +86,6 @@ What step of faithfulness is before me?
 
 God's Word is meant to be lived.
 
----
-
 ## A Final Encouragement
 
 Reflection is a way of remembering that Scripture is not merely something we read. It is something we receive.
@@ -115,8 +97,6 @@ Consider it.
 Return to it.
 
 Allow God's Word to continue its work long after the page is closed.
-
----
 
 ## Put It Into Practice
 

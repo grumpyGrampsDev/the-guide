@@ -42,9 +42,7 @@ Each genre should be read according to what it is.
 
 ## Avoid Making the Bible About Yourself
 
-The Bible speaks to us. But it is not primarily about us. Every part of Scripture ultimately points toward God's character, His purposes, and His work of redemption.
-
-The central question is not:
+The Bible speaks to us. But it is not primarily about us. Every part of Scripture ultimately points toward God's character, His purposes, and His work of redemption. The central question is not:
 
 "What does this verse allow me to do?"
 
@@ -62,17 +60,7 @@ Application is essential. God's Word is meant to change how we think, believe, a
 
 ## A Final Encouragement
 
-The Bible is not a book whose meaning changes with every generation. It is a book that needs to be faithfully understood by every generation.
-
-Approach it with humility.
-
-Study it carefully.
-
-Trust that God has spoken.
-
-Then live in response to what He has said.
-
----
+The Bible is not a book whose meaning changes with every generation. It is a book that needs to be faithfully understood by every generation. Approach it with humility. Study it carefully. Trust that God has spoken. Then live in response to what He has said.
 
 ## Put It Into Practice
 

@@ -6,11 +6,9 @@ These are Stones.
 
 ---
 
-# Where Stones Come From
+## Where Stones Come From
 
-Stones can emerge from many places.
-
-They may come through:
+Stones can emerge from many places. They may come through:
 
 - A passage of Scripture that changes how we see God.
 - A prayer that God answers.
@@ -19,19 +17,13 @@ They may come through:
 - A lesson learned through community.
 - A reminder of God's character when circumstances are uncertain.
 
-The source may be different.
-
-The purpose is the same:
+The source may be different. The purpose is the same:
 
 To remember God's faithfulness.
 
----
+## Recording Stones
 
-# Recording Stones
-
-A Stone does not need a complicated format.
-
-It may be recorded as:
+A Stone does not need a complicated format. It may be recorded as:
 
 - A sentence in a journal.
 - A note beside a passage of Scripture.
@@ -41,49 +33,23 @@ It may be recorded as:
 
 The purpose is not to create perfect records. It is to preserve what God has taught.
 
----
+## Returning to Stones
 
-# Returning to Stones
-
-Stones are not only written for the moment they are discovered. They are written for future seasons. When circumstances change, when faith feels difficult, or when we need to remember what is true, Stones provide places to return.
-
-They remind us:
+Stones are not only written for the moment they are discovered. They are written for future seasons. When circumstances change, when faith feels difficult, or when we need to remember what is true, Stones provide places to return. They remind us:
 
 God was faithful then. God remains faithful now.
 
----
-
-# Stones and the Christian Walk
+## Stones and the Christian Walk
 
 Remembrance strengthens walking. When we remember God's past faithfulness, we are better prepared to trust Him with future steps. A Stone does not remove uncertainty. It reminds us who walks with us through it. The goal is not confidence in our own ability to endure. The goal is confidence in the God who remains faithful.
 
----
+## Stones and the Formation Stack
 
-# Stones and the Formation Stack
+Stones of Remembrance are part of a larger rhythm of walking with God. Scripture reveals God's truth. Prayer responds to what He has revealed. Reflection allows that truth to take root. Remembrance preserves what God has taught. Walking responds through faithful obedience. Remembrance is not the end of the process. It strengthens the steps that come next.
 
-Stones of Remembrance are part of a larger rhythm of walking with God.
+## Sharing Stones
 
-Scripture reveals God's truth.
-
-Prayer responds to what He has revealed.
-
-Reflection allows that truth to take root.
-
-Remembrance preserves what God has taught.
-
-Walking responds through faithful obedience.
-
-Remembrance is not the end of the process.
-
-It strengthens the steps that come next.
-
----
-
-# Sharing Stones
-
-Some Stones are personal. Some may encourage others. When shared, they should be shared with humility.
-
-The purpose is not:
+Some Stones are personal. Some may encourage others. When shared, they should be shared with humility. The purpose is not:
 
 "Look what I learned."
 
@@ -97,23 +63,9 @@ The purpose is:
 
 A personal reminder can become encouragement for someone else when it points beyond ourselves.
 
----
+## A Final Encouragement
 
-# A Final Encouragement
-
-Do not force remembrance. Do not rush to create markers.
-
-Walk faithfully.
-
-Open Scripture.
-
-Pray honestly.
-
-Reflect carefully.
-
-Over time, some truths will remain. Some lessons will deepen. Some moments will become Stones. Remember them. Return to them. Give thanks for the God who was faithful there and remains faithful now.
-
----
+Do not force remembrance. Do not rush to create markers. Walk faithfully. Open Scripture. Pray honestly. Reflect carefully. Over time, some truths will remain. Some lessons will deepen. Some moments will become Stones. Remember them. Return to them. Give thanks for the God who was faithful there and remains faithful now.
 
 ## Put It Into Practice
 

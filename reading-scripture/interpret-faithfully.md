@@ -40,9 +40,7 @@ Tradition.
 
 Previous teaching.
 
-Even good experiences can sometimes influence how we see a passage.
-
-Humility requires us to continually ask:
+Even good experiences can sometimes influence how we see a passage. Humility requires us to continually ask:
 
 "Am I seeing what the text says, or am I seeing what I expect it to say?"
 
@@ -66,13 +64,9 @@ Not every question receives an immediate answer. Some passages require more stud
 
 ## A Final Encouragement
 
-Faithful interpretation is an act of humility. We listen carefully. We study diligently. We seek understanding.
-
-And we trust that God has spoken clearly enough for us to know Him, while remaining greater than anything we can fully comprehend.
+Faithful interpretation is an act of humility. We listen carefully. We study diligently. We seek understanding. And we trust that God has spoken clearly enough for us to know Him, while remaining greater than anything we can fully comprehend.
 
 Open Scripture with humility. Listen carefully. Understand faithfully. Respond obediently.
-
----
 
 ## Put It Into Practice
 

@@ -6,7 +6,7 @@
 
 ---
 
-# Origin
+## Origin
 
 **Source:** Sermon Reflection
 
@@ -18,75 +18,31 @@ The sermon explored how envy distorts the way we view ourselves, others, and God
 
 One illustration especially stood out:
 
-A coal miner is not responsible for every section of the mine.
+A coal miner is not responsible for every section of the mine. They are responsible for the section they have been given. Their role is not to compare their section with someone else's. Their role is to faithfully work where they have been placed. This image connected deeply because of my own connection to coal country. It reminded me that faithfulness is not measured through comparison.
 
-They are responsible for the section they have been given.
+## The Truth
 
-Their role is not to compare their section with someone else's.
+My calling is not to compete with another child of God. My calling is to faithfully walk the path God has given me.
 
-Their role is to faithfully work where they have been placed.
+## Why This Became a Stone
 
-This image connected deeply because of my own connection to coal country.
+Envy often begins by looking sideways. We see what someone else has been given and begin to question what God has given us. But comparison distracts us from faithfulness. God does not ask me to live someone else's calling. He asks me to faithfully steward what He has placed in front of me. The gifts, opportunities, and responsibilities God gives others do not diminish His purposes for me.
 
-It reminded me that faithfulness is not measured through comparison.
+## The Stone
 
----
+Faithfulness is not measured by comparison. God has given me a path to walk. My responsibility is not to pursue someone else's path. My responsibility is to faithfully walk the one He has given me.
 
-# The Truth
-
-My calling is not to compete with another child of God.
-
-My calling is to faithfully walk the path God has given me.
-
----
-
-# Why This Became a Stone
-
-Envy often begins by looking sideways.
-
-We see what someone else has been given and begin to question what God has given us.
-
-But comparison distracts us from faithfulness.
-
-God does not ask me to live someone else's calling.
-
-He asks me to faithfully steward what He has placed in front of me.
-
-The gifts, opportunities, and responsibilities God gives others do not diminish His purposes for me.
-
----
-
-# The Stone
-
-Faithfulness is not measured by comparison.
-
-God has given me a path to walk.
-
-My responsibility is not to pursue someone else's path.
-
-My responsibility is to faithfully walk the one He has given me.
-
----
-
-# Looking Back
+## Looking Back
 
 When comparison begins to take root, I can return to this truth:
 
-God is not withholding from me because He has blessed someone else.
+God is not withholding from me because He has blessed someone else. His plan is not limited by another person's gifts, opportunities, or success. The next faithful step is the one He has placed before me.
 
-His plan is not limited by another person's gifts, opportunities, or success.
+_Lamp to my feet._
 
-The next faithful step is the one He has placed before me.
+_Left foot._
 
----
-
-Lamp to my feet.
-
-Left foot.
-
-Right foot.
-
----
+_Right foot._
 
 ## Put It Into Practice
 

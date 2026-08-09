@@ -14,11 +14,9 @@ A Stone is a way of recognizing and preserving those moments of God's faithfulne
 
 ---
 
-# Stones Often Begin Small
+## Stones Often Begin Small
 
-A Stone does not always appear as a dramatic moment.
-
-Sometimes it begins with:
+A Stone does not always appear as a dramatic moment. Sometimes it begins with:
 
 - A verse that stays in our thoughts.
 - A question that continues to challenge us.
@@ -28,9 +26,7 @@ Sometimes it begins with:
 
 At first, it may simply be something we notice. Over time, God may use it to shape how we understand Him and how we walk with Him. A Stone is not manufactured. It emerges as God uses His Word and His work in our lives to form us.
 
----
-
-# A Stone Points to God's Character
+## A Stone Points to God's Character
 
 The most important question is not:
 
@@ -51,25 +47,15 @@ A Stone may remind us that:
 
 The lasting value of a Stone is not the experience itself. The lasting value is the God revealed through it.
 
----
-
-# The Difference Between a Quiet Whisper and a Stone
+## The Difference Between a Quiet Whisper and a Stone
 
 The Quiet Whisper and the Stone of Remembrance are closely connected, but they serve different purposes. The Quiet Whisper captures what continues to echo from a specific passage or moment. It is the verse, phrase, image, or truth that remains with us after careful reading, reflection, and prayer. A Stone of Remembrance captures what we want to preserve because God has used that truth to shape us.
 
-A Quiet Whisper may become a Stone.
+A Quiet Whisper may become a Stone, but not every Quiet Whisper becomes one. The Whisper is what we notice. The Stone is what remains.
 
-But not every Quiet Whisper becomes one.
+## A Stone Often Returns
 
-The Whisper is what we notice. The Stone is what remains.
-
----
-
-# A Stone Often Returns
-
-Some patterns may help us recognize when a truth is becoming a Stone. One of those patterns is that it continues to return.
-
-A truth may appear:
+Some patterns may help us recognize when a truth is becoming a Stone. One of those patterns is that it continues to return. A truth may appear:
 
 - During prayer.
 - While reading Scripture.
@@ -79,13 +65,9 @@ A truth may appear:
 
 Repeated reminders do not mean we are forcing significance onto something. Sometimes God uses repetition to help truth take root.
 
----
+## A Stone Encourages Faithfulness
 
-# A Stone Encourages Faithfulness
-
-A Stone is not simply something we remember. It is something that shapes how we walk. A truth worth remembering should influence how we respond.
-
-It may help us:
+A Stone is not simply something we remember. It is something that shapes how we walk. A truth worth remembering should influence how we respond. It may help us:
 
 - Trust God during uncertainty.
 - Choose obedience over comfort.
@@ -94,9 +76,7 @@ It may help us:
 
 Remembering God's faithfulness strengthens future faithfulness.
 
----
-
-# A Stone Is Personal, But Not Private
+## A Stone Is Personal, But Not Private
 
 A Stone may come through a personal experience.
 
@@ -110,33 +90,13 @@ A quiet realization.
 
 But the purpose is not to elevate our own story. It is to point toward God's work. Personal remembrance can become encouragement for others when shared with humility.
 
----
+## Not Every Meaningful Moment Becomes a Stone
 
-# Not Every Meaningful Moment Becomes a Stone
+Not every verse that stands out, thought that encourages us, or lesson we learn becomes a Stone. Some things are meaningful in the moment. Some things become lasting markers. Time often reveals the difference. Do not rush the process.
 
-Not every verse that stands out, thought that encourages us, or lesson we learn becomes a Stone. Some things are meaningful in the moment. Some things become lasting markers. Time often reveals the difference.
+## A Final Encouragement
 
-Do not rush the process.
-
----
-
-# A Final Encouragement
-
-Do not search for Stones.
-
-Walk with God.
-
-Open His Word.
-
-Pray honestly.
-
-Reflect carefully.
-
-Remember faithfully.
-
-As God continues to work, some truths will remain. Some lessons will deepen. Some moments will become markers. When they do, preserve them. Not as monuments to yourself. But as reminders of God's faithfulness.
-
----
+Do not search for Stones. Walk with God. Open His Word. Pray honestly. Reflect carefully. Remember faithfully. As God continues to work, some truths will remain. Some lessons will deepen. Some moments will become markers. When they do, preserve them. Not as monuments to yourself. But as reminders of God's faithfulness.
 
 ## Put It Into Practice
 
