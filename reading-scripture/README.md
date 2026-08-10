@@ -18,7 +18,7 @@ These resources move from a humble approach to Scripture toward careful observat
 
 ## How to Use This Shelf
 
-Move slowly and return to the passage itself as you read. Let observation come before interpretation, and interpretation before application. When a question remains, allow yourself to sit with it. Refelct on it.
+Move slowly and return to the passage itself as you read. Let observation come before interpretation, and interpretation before application. When a question remains, allow yourself to sit with it. reflect on it.
 
 ## Related Shelves
 

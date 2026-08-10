@@ -16,8 +16,6 @@ The Guide follows a steady rhythm:
 
 This is not a formula for spiritual growth, but a way of remembering the practices that have helped me continue walking with God. This repository grows alongside my own walk with Christ. As I continue to learn, this guide will continue to develop.
 
----
-
 ## About This Guide
 
 The Guide is not a commentary, a study Bible, or a replacement for personal study. It is a companion for the journey of reading Scripture—a place to collect principles, practices, reflections, and questions that encourage careful engagement with God's Word.
@@ -37,8 +35,6 @@ Over time, this rhythm developed into the broader formation pattern:
 These practices are not a formula for spiritual growth. They are reminders of the ways God has used His Word to shape my own walk with Him.
 
 When you're ready to begin reading Scripture, the [A Reading Path Through Scripture](./reading-path/README.md) provides one possible path through the Bible while making use of the practices found throughout The Guide.
-
----
 
 ## Where Should I Begin?
 
@@ -68,13 +64,9 @@ From there, continue into:
 
 This path reflects the journey through the Guide, but it is not the only way to explore it. Feel free to wander, return, and revisit whatever is most helpful in your current season.
 
----
-
 ## Who is it for?
 
 This guide began as a personal record of what God was teaching me through His Word. If it proves helpful to others, I am grateful. My hope is simply to share what God has taught me through Scripture in a way that encourages others to open their Bibles, read carefully, and walk faithfully.
-
----
 
 ## Guiding Principles
 
@@ -87,21 +79,17 @@ This guide began as a personal record of what God was teaching me through His Wo
 - Let Scripture interpret Scripture.
 - Walk in the light God has given today.
 
----
-
 ## Repository Structure
 
     introduction/             Why this guide exists and where to begin.
     formation/                The Formation Map and practices of faithful walking.
     reading-scripture/        Principles for reading God's Word faithfully.
-    biblical-books/           Reading plans and resources organized around Scripture.
+    reading-path/           Reading plans and resources organized around Scripture.
     journaling/               Reflecting on what Scripture teaches.
     prayer/                   Responding to God through honest prayer.
     stones-of-remembrance/    Remembering God's faithfulness.
     walking/                  Living in response to God's Word.
     field-notes/              Reflections, examples, and observations from the journey.
-
----
 
 ## Philosophy
 
@@ -111,13 +99,9 @@ Always.
 
 Read more about the principles behind this project in [Guide Philosophy](introduction/philosophy-of-the-guide.md).
 
----
-
 ## Transparency
 
 The Guide has been developed with the assistance of modern software tools, including large language models (LLMs), as editorial and organizational aids. You can read more about how these tools have been used and the principles guiding their use in [Transparency](TRANSPARENCY.md).
-
----
 
 ## Field Notes
 
@@ -125,21 +109,15 @@ The practices described throughout The Guide are not merely theoretical. The Fie
 
 - [Field Notes](field-notes/)
 
----
-
 ## License
 
 The Guide is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You are welcome to read, share, and adapt this material for non-commercial purposes with attribution.
 
 For license details, see [LICENSE](LICENSE).
 
----
-
-## One More Thing
+### One More Thing
 
 The Guide exists to encourage a slower, more thoughtful engagement with God's Word through reading, prayer, reflection, remembrance, and faithful walking. If this guide helps you close this repository, open your Bible, and take one more faithful step with Christ, then it has fulfilled its purpose.
-
----
 
 _"Your word is a lamp to my feet and a light to my path."_  
 — Psalm 119:105 (NASB 1995)
