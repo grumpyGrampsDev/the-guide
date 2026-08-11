@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import { renderMarkdown } from "./markdown";
 
 const GUIDE_ROOT = path.resolve(process.cwd(), "..");
 
@@ -66,7 +67,7 @@ export interface RecommendedNext {
 }
 
 export interface PutIntoPractice {
-  content: string;
+  html: string;
 }
 
 export interface GuideDocument {
@@ -211,7 +212,10 @@ function extractRelatedReading(
   );
 }
 
-function extractPutIntoPractice(markdown: string): PutIntoPractice | undefined {
+function extractPutIntoPractice(
+  markdown: string,
+  documentSlug: string,
+): PutIntoPractice | undefined {
   const start = markdown.indexOf("## Put It Into Practice");
 
   if (start === -1) {
@@ -226,7 +230,7 @@ function extractPutIntoPractice(markdown: string): PutIntoPractice | undefined {
     .trim();
 
   return {
-    content: section,
+    html: renderMarkdown(section, documentSlug),
   };
 }
 
@@ -246,7 +250,7 @@ function createGuideDocument(
     slug,
     shelf,
     type: documentType,
-    putIntoPractice: extractPutIntoPractice(markdown),
+    putIntoPractice: extractPutIntoPractice(markdown, slug),
     recommendedNext: extractRecommendedNext(markdown, slug),
     relatedReading: extractRelatedReading(markdown, slug),
     content: markdown,

@@ -15,7 +15,7 @@ const { putIntoPractice } = Astro.props;
         Put It Into Practice
       </h2>
 
-      <p>{putIntoPractice.content}</p>
+      <Fragment set:html={putIntoPractice.html} />
     </section>
   )
 }

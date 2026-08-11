@@ -20,13 +20,11 @@ The measure of a fruitful Bible study is not how many notes were written or how 
 
 So, wherever you are as you begin reading—
 
-Whether you have walked with Christ for decades or are opening the Bible for the very first time—
+Whether you have walked with Christ for decades or are opening the Bible for the very first time,
 
 Welcome.
 
 Let's open God's Word together with humble hearts, attentive minds, and an expectation that He is faithful to accomplish His purposes through it.
-
----
 
 ## Put It Into Practice
 

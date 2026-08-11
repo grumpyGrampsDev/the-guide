@@ -1,7 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import Page from "../../components/layout/Page.astro";
-import BackLink from "../../components/navigation/BackLink.astro";
 import DocumentBody from "../../components/document/DocumentBody.astro";
 import ShelfCard from "../../components/ShelfCard.astro";
 import { getLibrary } from "../../lib/librarian";
@@ -11,11 +10,6 @@ const library = await getLibrary();
 
 <Layout title={library.introduction.title}>
   <Page>
-    
-      <BackLink
-        href="/front-desk"
-        label="Back to Front Desk"
-      />
 
     <DocumentBody
       document={library.introduction}

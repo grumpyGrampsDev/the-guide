@@ -1,0 +1,253 @@
+/* ==========================================================================
+   The Guide
+
+   Design Philosophy
+
+   Like paper instead of a monitor.
+
+   Warm.
+   Quiet.
+   Timeless.
+
+   The interface should feel more like sitting in the stacks of an old
+   library than using a modern web application.
+   ========================================================================== */
+
+:root {
+  /* --------------------------------------------------------------------------
+     Typography
+     -------------------------------------------------------------------------- */
+
+  --font-ui: "Inter", system-ui, sans-serif;
+  --font-reading: "Literata", Georgia, serif;
+
+  /* --------------------------------------------------------------------------
+     Paper
+     -------------------------------------------------------------------------- */
+
+  --paper: #f8f6f1;
+  --paper-elevated: #fcfbf8;
+
+  /* --------------------------------------------------------------------------
+     Ink
+     -------------------------------------------------------------------------- */
+
+  --ink: #34302b;
+  --ink-soft: #5a544d;
+  --ink-faint: #8d867c;
+
+  /* --------------------------------------------------------------------------
+     Accents
+     -------------------------------------------------------------------------- */
+
+  --burgundy: #6b3a3a;
+  --burgundy-soft: #7d5f5f;
+
+  /* --------------------------------------------------------------------------
+     Library
+     -------------------------------------------------------------------------- */
+
+  --oak: #6d5844;
+  --oak-light: #8a725a;
+  --burgundy: #6b3a3a;
+  --olive: #59634d;
+  --olive-dark: #48523d;
+
+  /* --------------------------------------------------------------------------
+     Structure
+     -------------------------------------------------------------------------- */
+
+  --divider: #ddd6ca;
+
+  /* --------------------------------------------------------------------------
+     Links
+     -------------------------------------------------------------------------- */
+
+  --link: var(--olive);
+  --link-hover: var(--olive-dark);
+
+  /* --------------------------------------------------------------------------
+     Layout
+     -------------------------------------------------------------------------- */
+
+  --content-width: 48rem;
+
+  /* --------------------------------------------------------------------------
+     Spacing
+     -------------------------------------------------------------------------- */
+
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 2rem;
+  --space-lg: 4rem;
+  --space-xl: 6rem;
+}
+
+/* ==========================================================================
+   Global
+   ========================================================================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+
+  background: linear-gradient(to bottom, #fbf9f5 0%, #f8f6f1 35%, #f7f4ee 100%);
+
+  color: var(--ink);
+
+  font-family: var(--font-reading);
+  line-height: 1.8;
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body::before {
+  content: "";
+
+  position: fixed;
+  inset: 0;
+
+  pointer-events: none;
+  z-index: -1;
+
+  opacity: 0.025;
+
+  background-image:
+    radial-gradient(circle at 20% 20%, #000 0.4px, transparent 0.6px),
+    radial-gradient(circle at 80% 70%, #000 0.4px, transparent 0.6px),
+    radial-gradient(circle at 60% 40%, #000 0.3px, transparent 0.5px);
+
+  background-size:
+    180px 180px,
+    220px 220px,
+    140px 140px;
+}
+
+main {
+  width: min(100% - 2rem, var(--content-width));
+  margin-inline: auto;
+  padding-block: 5rem;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-ui);
+  color: var(--ink);
+
+  line-height: 1.2;
+  font-weight: 700;
+
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-sm);
+}
+
+h1 {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.35rem;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  margin-block: 1.5rem;
+}
+
+strong {
+  font-weight: 600;
+}
+
+/* ==========================================================================
+   Lists
+   ========================================================================== */
+
+ul,
+ol {
+  padding-left: 1.5rem;
+}
+
+li + li {
+  margin-top: 0.35rem;
+}
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+
+a {
+  color: var(--link);
+
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+
+  transition: color 150ms ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+/* ==========================================================================
+   Dividers
+   ========================================================================== */
+
+hr {
+  margin: var(--space-xl) 0;
+
+  border: 0;
+  border-top: 1px solid var(--divider);
+}
+
+/* ==========================================================================
+   Blockquotes
+   ========================================================================== */
+
+blockquote {
+  margin-inline: 0;
+  padding-left: 1.5rem;
+
+  border-left: 2px solid var(--burgundy);
+
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+/* ==========================================================================
+   Images
+   ========================================================================== */
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}

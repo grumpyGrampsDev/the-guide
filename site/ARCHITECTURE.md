@@ -6,7 +6,7 @@ This document describes the architectural philosophy behind The Guide website. T
 
 ---
 
-# Purpose
+## Purpose
 
 The Guide repository and The Guide website serve different but connected purposes. The repository is the workshop. The website is the doorway.
 
@@ -21,17 +21,13 @@ The repository preserves the ongoing development of The Guide:
 
 The website presents those materials in a way that allows others to explore and walk alongside the journey.
 
----
+## Architectural Principles
 
-# Architectural Principles
-
-## Content First
+### Content First
 
 The Guide begins with content, not technology. The structure of the website should emerge from the structure of the journey already present in the repository. Technology exists to serve clarity, accessibility, and faithful engagement.
 
----
-
-## Scripture Remains Central
+### Scripture Remains Central
 
 The Guide is a companion to Scripture, not a replacement for it.
 
@@ -43,9 +39,7 @@ The website should continually point beyond itself:
 - toward remembrance
 - toward faithful walking
 
----
-
-## Formation Over Information
+### Formation Over Information
 
 The Guide is not designed as a course to complete or a collection of information to consume. The purpose is formation.
 
@@ -53,15 +47,11 @@ The website should encourage the rhythm:
 
 Scripture → Prayer → Reflection → Remembrance → Walking
 
----
-
-# Current Content Architecture
+## Current Content Architecture
 
 The repository currently contains the following areas of content. The website should reflect these categories while allowing them to grow naturally.
 
----
-
-## Introduction
+### Introduction
 
 Purpose:
 
@@ -85,9 +75,7 @@ Future possibilities:
 - guided entry points
 - explanations of the framework
 
----
-
-## Reading Path
+### Reading Path
 
 Purpose:
 
@@ -111,9 +99,7 @@ Future possibilities:
 
 The structure intentionally leaves room for growth without assuming a complete Scripture library.
 
----
-
-## Reading Scripture
+### Reading Scripture
 
 Purpose:
 
@@ -138,9 +124,7 @@ Future possibilities:
 - guided examples
 - learning paths
 
----
-
-## Formation
+### Formation
 
 Purpose:
 
@@ -169,9 +153,7 @@ Future possibilities:
 - connections between disciplines
 - guided formation paths
 
----
-
-## Prayer
+### Prayer
 
 Purpose:
 
@@ -194,9 +176,7 @@ Future possibilities:
 - examples
 - seasonal prayers
 
----
-
-## Journaling
+### Journaling
 
 Purpose:
 
@@ -218,9 +198,7 @@ Future possibilities:
 - printable resources
 - digital journaling support
 
----
-
-## Stones of Remembrance
+### Stones of Remembrance
 
 Purpose:
 
@@ -248,9 +226,7 @@ They are not collected as achievements.
 
 They point back to God.
 
----
-
-## Field Notes
+### Field Notes
 
 Purpose:
 
@@ -272,9 +248,7 @@ Future possibilities:
 - lessons learned
 - reflections from practice
 
----
-
-## Walking
+### Walking
 
 Purpose:
 
@@ -296,9 +270,7 @@ Future possibilities:
 - reflections on obedience
 - daily rhythms
 
----
-
-# Site Architecture
+## Site Architecture
 
 The website is organized as a library. Visitors are welcomed through a series of increasingly focused spaces:
 
@@ -356,8 +328,6 @@ Every book follows a consistent editorial structure:
 
 The website presents these books without changing their underlying content.
 
----
-
 ## Routing
 
 The current routing structure:
@@ -384,9 +354,7 @@ The routing intentionally separates:
 
 This allows visitors to either follow a recommended journey or explore freely.
 
----
-
-# Repository and Website Relationship
+## Repository and Website Relationship
 
 The repository remains the source of truth. The website is a presentation of that living work.
 
@@ -408,15 +376,25 @@ Reader engagement
 
 The website should not become detached from the practices and reflections that created it.
 
----
+## The Librarian
 
-# The Librarian
+The Librarian is responsible for discovering, organizing, and presenting the contents of The Guide.
 
-The Librarian is responsible for discovering, organizing, and interpreting the repository. It identifies shelves, books, editorial metadata, relationships between books, and presentation information while treating the repository as the source of truth. The Librarian discovers structure. It does not define structure.. It treats the repository as the source of truth and presents a simple API (getLibraryDocuments, getDocument, getSection) to the rest of the application. The Librarian discovers structure. It does not define structure.
+Rather than maintaining a separate catalog, it treats the repository itself as the source of truth. It discovers shelves by traversing the repository, identifies books and shelf introductions, extracts presentation metadata from Markdown, resolves relationships between documents, and assembles the library model consumed by the website.
 
----
+The Librarian does not define the structure of The Guide. It discovers the structure that already exists within the repository and exposes it through a small, focused API for the rest of the application.
 
-# Growth Philosophy
+Responsibilities include:
+
+- discovering shelves from the repository structure
+- locating books and shelf introductions (`README.md`)
+- extracting document metadata and navigation information
+- resolving related reading and recommended next steps
+- constructing the library, shelf, and document models used throughout the site
+
+As The Guide grows, the Librarian should continue to remain an interpreter of the repository rather than a source of configuration. The repository defines the library. The Librarian simply learns how to read it.
+
+## Growth Philosophy
 
 The Guide should grow organically. New sections should emerge from faithful practice rather than being created simply because future possibilities exist. The architecture should leave room for growth while resisting unnecessary complexity.
 
@@ -428,9 +406,7 @@ The question is:
 
 "What would help someone walk more faithfully with God through Scripture?"
 
----
-
-# Editorial Architecture
+## Editorial Architecture
 
 The Guide distinguishes between software architecture and editorial architecture.
 
@@ -445,15 +421,11 @@ Each individual book follows a consistent editorial structure.
 
 This consistency improves readability, accessibility, and allows the website to present books in a predictable way while preserving Markdown as the source of truth.
 
----
-
-# Future Considerations
+## Future Considerations
 
 Some decisions intentionally remain open.
 
----
-
-## Scripture Access
+### Scripture Access
 
 A future version of The Guide may include Scripture resources.
 
@@ -470,9 +442,7 @@ Any implementation should consider:
 - copyright and licensing
 - keeping Scripture central rather than secondary
 
----
-
-## Growth Without Rebuilding
+### Growth Without Rebuilding
 
 The architecture should allow The Guide to grow organically.
 
@@ -486,9 +456,7 @@ Potential future additions:
 
 New technology should serve the formation process, not define it.
 
----
-
-# Guiding Question
+## Guiding Question
 
 Every architectural decision should answer:
 
