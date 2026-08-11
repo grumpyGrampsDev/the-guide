@@ -1,7 +1,7 @@
 ---
 import Page from "../layout/Page.astro";
-import BackLink from "../navigation/BackLink.astro";
-import DocumentFooter from "./DocumentFooter.astro";
+import DocumentNavigation from "../navigation/DocumentNavigation.astro";
+import DocumentFooter from "./footer/DocumentFooter.astro";
 
 import type {
   GuideDocument,
@@ -23,10 +23,10 @@ const {
 ---
 
 <Page>
-  <BackLink
-    href={`/library/${shelf.slug}`}
-    label={`Back to ${shelf.name} Shelf`}
-  />
+  <DocumentNavigation
+  shelfHref={`/library/${document.shelf}`}
+  shelfLabel={`${shelf.name} Shelf`}
+/>
 
   <DocumentBody document={document} />
 

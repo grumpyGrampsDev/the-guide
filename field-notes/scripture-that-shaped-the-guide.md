@@ -1,7 +1,5 @@
 # The Scriptures That Shaped The Guide
 
-> _Field Notes_
-
 ## Looking Back
 
 When I first began collecting these passages, I simply considered them favorite Scriptures. I wasn't trying to develop a philosophy of Bible study or create a framework for spiritual formation. I was simply writing down passages that I found myself returning to again and again. Looking back now, I can see that these Scriptures quietly shaped far more than I realized. Many of the ideas found throughout _The Guide_, its journal rhythm, its Formation Map, its emphasis on remembrance, and especially its focus on walking faithfully, did not begin as systems or principles.

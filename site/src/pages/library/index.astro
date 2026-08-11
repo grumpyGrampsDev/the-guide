@@ -1,38 +1,25 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getGuideShelves } from "../../lib/librarian";
+import Page from "../../components/layout/Page.astro";
+import DocumentBody from "../../components/document/DocumentBody.astro";
+import ShelfCard from "../../components/ShelfCard.astro";
+import { getLibrary } from "../../lib/librarian";
 
-const availableShelves = await getGuideShelves();
+const library = await getLibrary();
 ---
 
-<Layout title="Library">
-  <h1>Library</h1>
+<Layout title={library.introduction.title}>
+  <Page>
 
-  <p>
-    Browse every shelf and every document currently available in The Guide.
-  </p>
+    <DocumentBody
+      document={library.introduction}
+    />
 
-  {
-    availableShelves.map((shelf) => (
-      <section>
-        <h2>
-          <a href={`/library/${shelf.slug}`}>
-            {shelf.name}
-          </a>
-        </h2>
+    {
+      library.shelves.map((shelf) => (
+        <ShelfCard shelf={shelf} />
+      ))
+    }
 
-        <ul>
-          {
-            shelf.documents.map((document) => (
-              <li>
-                <a href={`/library/${document.slug}`}>
-                  {document.title}
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </section>
-    ))
-  }
+  </Page>
 </Layout>

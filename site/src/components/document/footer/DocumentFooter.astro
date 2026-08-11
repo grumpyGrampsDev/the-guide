@@ -1,0 +1,49 @@
+---
+import PracticeSection from "./PracticeSection.astro";
+import RecommendedNextSection from "./RecommendedNextSection.astro";
+import RelatedReadingSection from "./RelatedReadingSection.astro";
+
+import type {
+  GuideLink,
+  RecommendedNext,
+  PutIntoPractice,
+} from "../../../lib/librarian";
+
+interface Props {
+  putIntoPractice?: PutIntoPractice;
+  recommendedNext?: RecommendedNext;
+  relatedReading: GuideLink[];
+}
+
+const {
+  putIntoPractice,
+  recommendedNext,
+  relatedReading,
+} = Astro.props;
+---
+
+<footer class="document-footer">
+  <PracticeSection
+    putIntoPractice={putIntoPractice}
+  />
+
+  <RecommendedNextSection
+    recommendedNext={recommendedNext}
+  />
+
+  <RelatedReadingSection
+    relatedReading={relatedReading}
+  />
+</footer>
+
+<style>
+  .document-footer {
+    margin-top: 5rem;
+    padding-top: 3rem;
+    border-top: 1px solid #ddd;
+  }
+
+  .document-footer > section + section {
+    margin-top: 3rem;
+  }
+</style>

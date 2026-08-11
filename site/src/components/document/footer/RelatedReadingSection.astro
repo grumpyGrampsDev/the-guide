@@ -1,0 +1,47 @@
+---
+import type { GuideLink } from "../../../lib/librarian";
+
+interface Props {
+  relatedReading: GuideLink[];
+}
+
+const { relatedReading } = Astro.props;
+---
+
+{
+  relatedReading.length > 0 && (
+    <section>
+      <h2 class="section-heading">
+        Related Reading
+      </h2>
+
+      <ul>
+        {
+          relatedReading.map((book) => (
+            <li>
+              <a href={`/library/${book.slug}`}>
+                {book.title}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  )
+}
+
+<style>
+  .section-heading {
+    text-align: center;
+    margin-bottom: 1.25rem;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.25rem;
+  }
+
+  li + li {
+    margin-top: 0.5rem;
+  }
+</style>

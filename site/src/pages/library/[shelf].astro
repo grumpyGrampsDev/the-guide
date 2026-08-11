@@ -3,7 +3,7 @@ import Layout from "../../layouts/Layout.astro";
 import { getGuideShelves, getShelf } from "../../lib/librarian";
 import DocumentBody from "../../components/document/DocumentBody.astro";
 import Page from "../../components/layout/Page.astro";
-import BackLink from "../../components/navigation/BackLink.astro";
+import DocumentNavigation from "../../components/navigation/DocumentNavigation.astro";
 
 export async function getStaticPaths() {
   const availableShelves = await getGuideShelves();
@@ -27,10 +27,11 @@ if (!currentShelf) {
 <Layout title={currentShelf.name}>
   <Page>
 
-      <BackLink
-        href="/front-desk"
-        label="Back to Front Desk"
-      />
+<header class="shelf-header">
+  <a href="/library">
+    &lsaquo; Browse the Library
+  </a>
+</header>
 
     {
       currentShelf.readme && (
@@ -38,23 +39,6 @@ if (!currentShelf) {
       )
     }
 
-    <section>
-      <h2>Continue Reading</h2>
-
-      <ul>
-        {
-          currentShelf.documents
-            .filter((document) => document.type !== "index")
-            .map((document) => (
-              <li>
-                <a href={`/library/${document.slug}`}>
-                  {document.title}
-                </a>
-              </li>
-            ))
-        }
-      </ul>
-    </section>
 
   </Page>
 </Layout>
