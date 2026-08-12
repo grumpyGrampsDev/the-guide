@@ -1,0 +1,115 @@
+---
+---
+
+<section class="door">
+  <article class="notice">
+    <h1>The Guide</h1>
+
+    <div class="motto">
+      <p>Don't panic.</p>
+      <p>Open your Bible.</p>
+    </div>
+
+    <p class="description">
+      Please come in.
+      Take your time.
+    </p>
+
+    <a href="/front-desk" class="door-link">
+      Open the Door &rsaquo;
+    </a>
+  </article>
+</section>
+
+<style>
+  .door {
+    min-height: 85vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 4rem 1rem;
+  }
+
+  .notice {
+    width: min(100%, 36rem);
+    min-height: 38rem;
+
+    padding: 4.5rem 4rem;
+
+    background: rgba(252, 251, 248, 0.55);
+
+    border: 1px solid rgba(109, 88, 68, 0.22);
+
+    text-align: center;
+    align-content: center;
+  }
+
+  .notice h1 {
+    margin: 0;
+
+    font-size: 3.5rem;
+    line-height: 1.05;
+    letter-spacing: 0.03em;
+
+  }
+
+  .motto {
+    margin: 3rem 0 2.75rem;
+  }
+
+  .motto p {
+    margin: 0;
+
+    font-size: 2rem;
+    font-weight: 600;
+
+    line-height: 1.4;
+  }
+
+  .motto p + p {
+    margin-top: 0.75rem;
+  }
+
+  .description {
+    max-width: 30rem;
+
+    margin: 0 auto;
+
+    color: var(--ink-soft);
+
+    font-size: 1.05rem;
+    line-height: 1.9;
+  }
+
+  .door-link {
+    display: inline-block;
+
+    margin-top: 3rem;
+
+    font-family: var(--font-ui);
+    font-weight: 500;
+    font-size: 1rem;
+
+    text-decoration: none;
+  }
+
+  .door-link:hover {
+    color: var(--link-hover);
+  }
+
+  @media (max-width: 700px) {
+    .notice {
+      padding: 3rem 2rem;
+    }
+
+    .notice h1 {
+      font-size: 2.75rem;
+    }
+
+    .motto p {
+      font-size: 1.5rem;
+    }
+  }
+</style>

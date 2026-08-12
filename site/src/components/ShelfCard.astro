@@ -6,25 +6,75 @@ interface Props {
 }
 
 const { shelf } = Astro.props;
+
+const bookCount = shelf.documents.length;
 ---
 
 <section class="shelf-card">
-  <h3>{shelf.name}</h3>
+  <h2>{shelf.name}</h2>
 
   {
     shelf.description && (
-      <p>{shelf.description}</p>
+      <p class="description">
+        {shelf.description}
+      </p>
     )
   }
 
-  <p>
-    {shelf.documents.length}
-    {" "}
-    {shelf.documents.length === 1 ? "document" : "documents"}
+  <p class="count">
+    {bookCount} {bookCount === 1 ? "book" : "books"}
   </p>
 
-
-  <a href={`/library/${shelf.slug}`}>
+  <a
+    class="browse"
+    href={`/library/${shelf.slug}`}
+  >
     Browse Shelf →
   </a>
 </section>
+
+<style>
+  .shelf-card {
+    display: flex;
+    flex-direction: column;
+
+    gap: 1.5rem;
+    min-height: 16rem;
+  }
+
+  .shelf-card h2 {
+    margin: 0;
+
+    font-family: var(--font-ui);
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .description {
+    margin: 0;
+
+    color: var(--ink-soft);
+  }
+
+  .count {
+    margin: auto 0 -2rem 0;
+
+    font-size: 0.95rem;
+    color: var(--ink-faint);
+  }
+
+  .browse {
+    align-self: flex-start;
+
+    font-family: var(--font-ui);
+    font-weight: 500;
+
+    color: var(--link);
+    text-decoration: none;
+  }
+
+  .browse:hover {
+    text-decoration: underline;
+  }
+</style>

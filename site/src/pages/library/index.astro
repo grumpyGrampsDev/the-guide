@@ -1,25 +1,59 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import Page from "../../components/layout/Page.astro";
-import DocumentBody from "../../components/document/DocumentBody.astro";
+import LibraryHeader from "../../components/library/LibraryHeader.astro";
 import ShelfCard from "../../components/ShelfCard.astro";
 import { getLibrary } from "../../lib/librarian";
 
 const library = await getLibrary();
 ---
 
-<Layout title={library.introduction.title}>
-  <Page>
+<Layout title="The Library">
+  <Page variant="library">
 
-    <DocumentBody
-      document={library.introduction}
-    />
+    <nav class="library-navigation" aria-label="Library navigation">
+      <a href="/front-desk">
+        &lsaquo; Return to the Front Desk
+      </a>
+    </nav>
 
-    {
-      library.shelves.map((shelf) => (
-        <ShelfCard shelf={shelf} />
-      ))
-    }
+    <LibraryHeader />
+
+    <section class="shelves">
+      {
+        library.shelves.map((shelf) => (
+          <ShelfCard shelf={shelf} />
+        ))
+      }
+    </section>
 
   </Page>
 </Layout>
+
+<style>
+  .library-navigation {
+    margin-bottom: 3rem;
+
+    font-family: var(--font-ui);
+    font-size: 0.95rem;
+  }
+
+  .library-navigation a {
+    color: var(--ink-faint);
+    text-decoration: none;
+
+    transition: color 150ms ease;
+  }
+
+  .library-navigation a:hover {
+    color: var(--link);
+  }
+
+  .shelves {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
+    gap: 5rem 4rem;
+
+    margin-top: 5rem;
+  }
+</style>

@@ -3,7 +3,7 @@ import Layout from "../../layouts/Layout.astro";
 import { getGuideShelves, getShelf } from "../../lib/librarian";
 import DocumentBody from "../../components/document/DocumentBody.astro";
 import Page from "../../components/layout/Page.astro";
-import DocumentNavigation from "../../components/navigation/DocumentNavigation.astro";
+import PageNavigation from "../../components/navigation/PageNavigation.astro";
 
 export async function getStaticPaths() {
   const availableShelves = await getGuideShelves();
@@ -27,11 +27,12 @@ if (!currentShelf) {
 <Layout title={currentShelf.name}>
   <Page>
 
-<header class="shelf-header">
-  <a href="/library">
-    &lsaquo; Browse the Library
-  </a>
-</header>
+  <PageNavigation
+    leftHref="/library"
+    leftLabel="Browse the Library"
+  />
+
+  <section class="shelf">
 
     {
       currentShelf.readme && (
@@ -39,11 +40,31 @@ if (!currentShelf) {
       )
     }
 
+  </section>
 
-  </Page>
+</Page>
 </Layout>
 
 <style>
+.shelf {
+  position: relative;
+
+  padding-top: 2rem;
+}
+
+.shelf::before {
+  content: "";
+
+  display: block;
+
+  width: 18rem;
+  height: 1px;
+
+  margin: 0 auto 3rem;
+
+  background: var(--divider);
+}
+
   .shelf-header {
     margin-bottom: 2rem;
   }
@@ -58,4 +79,5 @@ if (!currentShelf) {
   .shelf-header a:hover {
     color: #222;
   }
+
 </style>

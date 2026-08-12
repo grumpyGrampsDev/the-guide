@@ -1,6 +1,6 @@
 ---
 import Page from "../layout/Page.astro";
-import DocumentNavigation from "../navigation/DocumentNavigation.astro";
+import PageNavigation from "../navigation/PageNavigation.astro"
 import DocumentFooter from "./footer/DocumentFooter.astro";
 
 import type {
@@ -23,10 +23,12 @@ const {
 ---
 
 <Page>
-  <DocumentNavigation
-  shelfHref={`/library/${document.shelf}`}
-  shelfLabel={`${shelf.name} Shelf`}
-/>
+  <PageNavigation
+    leftHref={`/library/${document.shelf}`}
+    leftLabel={`Back to the ${shelf.name} Shelf`}
+    rightHref="/library"
+    rightLabel="Browse the Library"
+  />
 
   <DocumentBody document={document} />
 

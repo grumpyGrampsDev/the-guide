@@ -1,0 +1,70 @@
+---
+interface Props {
+  leftHref?: string;
+  leftLabel?: string;
+
+  rightHref?: string;
+  rightLabel?: string;
+}
+
+const {
+  leftHref,
+  leftLabel,
+  rightHref,
+  rightLabel,
+} = Astro.props;
+---
+
+<nav class="page-navigation" aria-label="Page navigation">
+  <div class="left">
+    {
+      leftHref && leftLabel && (
+        <a href={leftHref}>
+          &lsaquo; {leftLabel}
+        </a>
+      )
+    }
+  </div>
+
+  <div class="right">
+    {
+      rightHref && rightLabel && (
+        <a href={rightHref}>
+          {rightLabel} &rsaquo;
+        </a>
+      )
+    }
+  </div>
+</nav>
+
+<style>
+  .page-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 3rem;
+
+    font-family: var(--font-ui);
+    font-size: 0.95rem;
+  }
+
+  .page-navigation a {
+    color: var(--ink-faint);
+    text-decoration: none;
+
+    transition: color 150ms ease;
+  }
+
+  .page-navigation a:hover {
+    color: var(--link);
+  }
+
+  .left {
+    font-weight: 500;
+  }
+
+  .right {
+    font-weight: 400;
+  }
+</style>

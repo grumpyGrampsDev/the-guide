@@ -15,3 +15,25 @@ const html = renderMarkdown(
 ---
 
 <article set:html={html} />
+
+<style>
+  article > :global(h1:first-child) {
+    margin: 0 0 2.5rem;
+
+    text-align: center;
+    text-wrap: balance;
+  }
+
+  article :global(h2) {
+    margin-top: 3.5rem;
+  }
+
+  article :global(h3) {
+    margin-top: 2.25rem;
+  }
+
+  article :global(.section-heading) {
+    margin-top: 4rem;
+    text-align: center;
+  }
+</style>
