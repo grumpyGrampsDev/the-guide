@@ -310,7 +310,9 @@ async function discoverShelfLocations(): Promise<GuideShelfLocation[]> {
   return entries
     .filter(
       (entry) =>
-        entry.isDirectory() && entry.name !== ".git" && entry.name !== "site",
+        entry.isDirectory() &&
+        !entry.name.startsWith(".") &&
+        entry.name !== "site",
     )
     .map((entry) => ({
       name: entry.name,
