@@ -27,10 +27,12 @@ if (!currentShelf) {
 <Layout title={currentShelf.name}>
   <Page>
 
-    <PageNavigation
-      leftHref="/library"
-      leftLabel="Browse the Library"
-    />
+  <PageNavigation
+    leftHref="/library"
+    leftLabel="Browse the Library"
+  />
+
+  <section class="shelf">
 
     {
       currentShelf.readme && (
@@ -38,11 +40,31 @@ if (!currentShelf) {
       )
     }
 
+  </section>
 
-  </Page>
+</Page>
 </Layout>
 
 <style>
+.shelf {
+  position: relative;
+
+  padding-top: 2rem;
+}
+
+.shelf::before {
+  content: "";
+
+  display: block;
+
+  width: 18rem;
+  height: 1px;
+
+  margin: 0 auto 3rem;
+
+  background: var(--divider);
+}
+
   .shelf-header {
     margin-bottom: 2rem;
   }
@@ -57,4 +79,5 @@ if (!currentShelf) {
   .shelf-header a:hover {
     color: #222;
   }
+
 </style>
