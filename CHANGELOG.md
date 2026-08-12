@@ -6,7 +6,90 @@ The format is inspired by Keep a Changelog, with changes organized around meanin
 
 ---
 
-## [Unreleased] — Library Experience
+## [0.9.0] — The Guide Online
+
+This release establishes The Guide as a publicly accessible digital companion while preserving the repository as the source of truth.
+
+The website now provides a complete path into The Guide:
+
+Door → Front Desk → Library → Shelves → Documents
+
+The digital experience reflects the same posture as the repository itself: providing orientation, resources, and companions while pointing readers back toward Scripture.
+
+### Added
+
+- Added the public website experience for The Guide using Astro.
+- Added the complete navigation journey:
+  - Door
+  - Front Desk
+  - Library
+  - Shelves
+  - Documents
+- Added a visual entry point that invites visitors into The Guide:
+  - "Don't panic."
+  - "Open your Bible."
+- Added the Front Desk as the orientation point for new visitors.
+- Added the Library as a central location for discovering all Guide resources.
+- Added responsive presentation for reading documents across devices.
+- Added trailing slash normalization for GitHub Pages compatibility.
+
+### Changed
+
+- Improved the presentation layer of The Guide while preserving Markdown as the source of truth.
+- Refined navigation behavior for static hosting on GitHub Pages.
+- Improved mobile presentation for orientation spaces:
+  - Front Desk
+  - Library
+  - Navigation components
+- Refined URL handling to ensure consistent routes across local development and deployed environments.
+
+### Architecture
+
+This milestone completes the transition from repository structure to public companion experience:
+
+Markdown Documents
+|
+v
+The Librarian
+|
+v
+Document Relationships
+|
+v
+Astro Website
+|
+v
+GitHub Pages
+
+The website does not replace The Guide.
+
+It provides another doorway into the same journey.
+
+### Philosophy
+
+The purpose of the website is not simply to publish content.
+
+The structure exists to preserve the posture that shaped The Guide:
+
+> The Guide points.
+>
+> God transforms.
+
+The website serves as a quiet invitation:
+
+> Open your Bible.
+>
+> Take your time.
+>
+> Walk faithfully.
+
+### Notes
+
+This milestone represents the first public expression of The Guide as a digital resource.
+
+Future development will continue refining accessibility, navigation, search, and presentation while preserving the foundation:
+
+Scripture → Prayer → Reflection → Remembrance → Walking
 
 ---
 
