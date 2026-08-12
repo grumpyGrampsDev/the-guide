@@ -1,5 +1,6 @@
 ---
 import type { GuideShelf } from "../lib/librarian";
+import { guideUrl } from "../lib/urls"
 
 interface Props {
   shelf: GuideShelf;
@@ -27,7 +28,7 @@ const bookCount = shelf.documents.length;
 
   <a
     class="browse"
-    href={`/library/${shelf.slug}`}
+    href={guideUrl(`library/${shelf.slug}`)}
   >
     Browse Shelf →
   </a>

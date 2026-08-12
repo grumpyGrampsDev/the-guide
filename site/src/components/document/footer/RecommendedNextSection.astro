@@ -1,5 +1,6 @@
 ---
 import type { RecommendedNext } from "../../../lib/librarian";
+import { guideUrl } from "../../../lib/urls";
 
 interface Props {
   recommendedNext?: RecommendedNext;
@@ -18,8 +19,8 @@ const { recommendedNext } = Astro.props;
       <p>{recommendedNext.description}</p>
 
       <p>
-        <a href={`/library/${recommendedNext.link.slug}`}>
-          Continue →
+        <a href={guideUrl(`library/${recommendedNext.link.slug}`)}>
+        Continue →
         </a>
       </p>
     </section>

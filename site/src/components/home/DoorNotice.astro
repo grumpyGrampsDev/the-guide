@@ -1,4 +1,5 @@
 ---
+import { guideUrl } from "../../lib/urls";
 ---
 
 <section class="door">
@@ -15,7 +16,7 @@
       Take your time.
     </p>
 
-    <a href="/front-desk" class="door-link">
+    <a href={guideUrl("front-desk")} class="door-link">
       Open the Door &rsaquo;
     </a>
   </article>

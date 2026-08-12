@@ -1,5 +1,6 @@
 ---
 import type { GuideLink } from "../../../lib/librarian";
+import { guideUrl } from "../../../lib/urls";
 
 interface Props {
   relatedReading: GuideLink[];
@@ -19,7 +20,7 @@ const { relatedReading } = Astro.props;
         {
           relatedReading.map((book) => (
             <li>
-              <a href={`/library/${book.slug}`}>
+              <a href={guideUrl(`library/${book.slug}`)}>
                 {book.title}
               </a>
             </li>

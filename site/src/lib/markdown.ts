@@ -1,5 +1,6 @@
 import { marked } from "marked";
 import path from "node:path";
+import { guideUrl } from "./urls";
 
 function resolveGuideLink(href: string, documentSlug: string): string {
   if (!href || href.startsWith("http")) {
@@ -12,7 +13,7 @@ function resolveGuideLink(href: string, documentSlug: string): string {
     .replace(/\\/g, "/")
     .replace(/\.md$/, "");
 
-  return `/library/${slug}`;
+  return guideUrl(`library/${slug}`);
 }
 
 function findBodyEnd(markdown: string): number {

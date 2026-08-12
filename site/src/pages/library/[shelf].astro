@@ -4,6 +4,7 @@ import { getGuideShelves, getShelf } from "../../lib/librarian";
 import DocumentBody from "../../components/document/DocumentBody.astro";
 import Page from "../../components/layout/Page.astro";
 import PageNavigation from "../../components/navigation/PageNavigation.astro";
+import { guideUrl } from "../../lib/urls";
 
 export async function getStaticPaths() {
   const availableShelves = await getGuideShelves();
@@ -28,7 +29,7 @@ if (!currentShelf) {
   <Page>
 
   <PageNavigation
-    leftHref="/library"
+    leftHref={guideUrl("library")}
     leftLabel="Browse the Library"
   />
 

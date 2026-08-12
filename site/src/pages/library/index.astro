@@ -4,6 +4,7 @@ import Page from "../../components/layout/Page.astro";
 import LibraryHeader from "../../components/library/LibraryHeader.astro";
 import ShelfCard from "../../components/ShelfCard.astro";
 import { getLibrary } from "../../lib/librarian";
+import { guideUrl } from "../../lib/urls";
 
 const library = await getLibrary();
 ---
@@ -12,7 +13,7 @@ const library = await getLibrary();
   <Page variant="library">
 
     <nav class="library-navigation" aria-label="Library navigation">
-      <a href="/front-desk">
+      <a href={guideUrl("front-desk")}>
         &lsaquo; Return to the Front Desk
       </a>
     </nav>

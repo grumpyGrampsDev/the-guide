@@ -1,6 +1,7 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import DeskCard from "../../components/front-desk/DeskCard.astro";
+import { guideUrl } from "../../lib/urls";
 ---
 
 <Layout title="Front Desk | The Guide">
@@ -24,14 +25,14 @@ import DeskCard from "../../components/front-desk/DeskCard.astro";
         title="First Visit"
         description="Begin with the Introduction to understand the purpose, philosophy, and posture behind The Guide."
         action="Start the Journey"
-        href="/library/introduction/purpose-of-the-guide"
+        href={guideUrl("library/introduction/purpose-of-the-guide")}
       />
 
       <DeskCard
         title="Browse the Library"
         description="Explore every shelf and every book within The Guide. Read in order, or simply follow your curiosity."
         action="Enter the Library"
-        href="/library"
+        href={guideUrl("library")}
       />
     </section>
 

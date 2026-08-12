@@ -2,6 +2,7 @@
 import Page from "../layout/Page.astro";
 import PageNavigation from "../navigation/PageNavigation.astro"
 import DocumentFooter from "./footer/DocumentFooter.astro";
+import { guideUrl } from "../../lib/urls";
 
 import type {
   GuideDocument,
@@ -24,9 +25,9 @@ const {
 
 <Page>
   <PageNavigation
-    leftHref={`/library/${document.shelf}`}
+    leftHref={guideUrl("front-desk")}
     leftLabel={`Back to the ${shelf.name} Shelf`}
-    rightHref="/library"
+    rightHref={guideUrl("library")}
     rightLabel="Browse the Library"
   />
 
