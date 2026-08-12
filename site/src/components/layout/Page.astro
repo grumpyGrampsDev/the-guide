@@ -1,7 +1,14 @@
 ---
+interface Props {
+  variant?: "reading" | "library";
+}
+
+const {
+  variant = "reading",
+} = Astro.props;
 ---
 
-<main class="page">
+<main class={`page ${variant}`}>
   <div class="page-content">
     <slot />
   </div>
@@ -9,9 +16,16 @@
 
 <style>
   .page {
-    max-width: var(--content-width);
-    margin: 0 auto;
+    margin-inline: auto;
     padding: 4rem 0 6rem;
+  }
+
+  .page.reading {
+    max-width: var(--content-width);
+  }
+
+  .page.library {
+    max-width: 88rem;
   }
 
   .page-content {
@@ -26,8 +40,13 @@
     margin-top: 0;
   }
 
-  .page-content :global(article) > h1:first-child {
+  /* --------------------------------------------------------------------------
+     Reading Experience
+     -------------------------------------------------------------------------- */
+
+  .page-content :global(article > h1:first-child) {
     margin: 0 0 2.5rem;
+
     text-align: center;
     text-wrap: balance;
   }

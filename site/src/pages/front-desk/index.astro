@@ -1,53 +1,106 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import DeskCard from "../../components/front-desk/DeskCard.astro";
 ---
 
-<Layout title="The Guide">
-  <h1>The Guide</h1>
+<Layout title="Front Desk | The Guide">
+  <section class="front-desk">
 
-  <p>
-    The Guide is a companion for reading, studying, praying,
-    reflecting, remembering, and walking with Scripture.
-  </p>
+    <header class="welcome">
+      <h1>Front Desk</h1>
 
-  <p>
-    It is not a replacement for Scripture, but a collection of
-    practices and reflections gathered while learning
-    to walk faithfully with God.
-  </p>
+      <p>
+        Welcome.
+      </p>
 
-  <section>
-    <h2>New Here?</h2>
+      <p>
+        The Guide is a companion for reading Scripture with humility,
+        prayer, reflection, remembrance, and faithful walking.
+      </p>
+    </header>
 
-    <p>
-      If this is your first time visiting The Guide, begin here.
-    </p>
+    <section class="desk">
+      <DeskCard
+        title="First Visit"
+        description="Begin with the Introduction to understand the purpose, philosophy, and posture behind The Guide."
+        action="Start the Journey"
+        href="/library/introduction/purpose-of-the-guide"
+      />
 
-    <a href="/library/introduction/purpose-of-the-guide">
-      Start the Journey →
-    </a>
-  </section>
+      <DeskCard
+        title="Browse the Library"
+        description="Explore every shelf and every book within The Guide. Read in order, or simply follow your curiosity."
+        action="Enter the Library"
+        href="/library"
+      />
+    </section>
 
-  <section>
-    <h2>The Library</h2>
-
-    <p>
-      The Library gathers every shelf and every book within
-      The Guide into one place.
-    </p>
-
-    <p>
-      Each shelf focuses on a different part of the journey 
-      from learning to read Scripture carefully to prayer,
-      reflection, remembrance, faithful walking, and more.
-      Whether you're looking for something specific or simply
-      want to explore, you're welcome to browse at your own pace.
-    </p>
-
-    <p>
-      <a href="/library">
-        Enter the Library →
-      </a>
-    </p>
   </section>
 </Layout>
+
+<style>
+  .front-desk {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+  }
+
+  .welcome {
+    text-align: center;
+    max-width: 42rem;
+    margin-inline: auto;
+  }
+
+  .welcome h1 {
+    margin-bottom: 2rem;
+  }
+
+  .welcome p {
+    color: var(--ink-soft);
+  }
+
+  .welcome p:first-of-type {
+    margin-bottom: 1rem;
+
+    font-family: var(--font-ui);
+    font-size: 1.15rem;
+    font-weight: 600;
+
+    color: var(--ink);
+  }
+
+.desk {
+  position: relative;
+
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 5rem;
+
+  align-items: start;
+
+  padding-top: 4rem;
+}
+
+.desk::before {
+  content: "";
+
+  position: absolute;
+  top: 0;
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  width: 20rem;
+  height: 1px;
+
+ background: var(--divider);
+ opacity: 0.8;
+}
+
+  @media (max-width: 800px) {
+    .desk {
+      grid-template-columns: 1fr;
+      gap: 3rem;
+    }
+  }
+</style>

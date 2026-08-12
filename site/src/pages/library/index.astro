@@ -1,25 +1,37 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import Page from "../../components/layout/Page.astro";
-import DocumentBody from "../../components/document/DocumentBody.astro";
+import LibraryHeader from "../../components/library/LibraryHeader.astro";
 import ShelfCard from "../../components/ShelfCard.astro";
 import { getLibrary } from "../../lib/librarian";
 
 const library = await getLibrary();
 ---
 
-<Layout title={library.introduction.title}>
-  <Page>
+<Layout title="The Library">
+  <Page variant="library">
 
-    <DocumentBody
-      document={library.introduction}
-    />
+    <LibraryHeader />
 
-    {
-      library.shelves.map((shelf) => (
-        <ShelfCard shelf={shelf} />
-      ))
-    }
+      <section class="shelves">
+        {
+          library.shelves.map((shelf) => (
+            <ShelfCard shelf={shelf} />
+          ))
+        }
+      </section>
+
+      <style>
+        .shelves {
+          display: grid;
+
+          grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
+
+          gap: 5rem 4rem;
+
+          margin-top: 5rem;
+        }
+      </style>
 
   </Page>
 </Layout>
