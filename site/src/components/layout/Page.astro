@@ -9,58 +9,20 @@ const {
 ---
 
 <main class={`page ${variant}`}>
-  <div class="page-content">
-    <slot />
-  </div>
+  <slot />
 </main>
 
 <style>
-  .page {
-    margin-inline: auto;
-    padding: 4rem 0 6rem;
-  }
+.page {
+  margin-inline: auto;
+  padding-block: 4rem 6rem;
+}
 
-  .page.reading {
-    max-width: var(--content-width);
-  }
+.page.reading {
+  width: min(100% - 2rem, var(--content-width));
+}
 
-  .page.library {
-    max-width: 88rem;
-  }
-
-  .page-content {
-    width: 100%;
-  }
-
-  .page-content > :global(*) {
-    max-width: 100%;
-  }
-
-  .page-content > :global(:first-child) {
-    margin-top: 0;
-  }
-
-  /* --------------------------------------------------------------------------
-     Reading Experience
-     -------------------------------------------------------------------------- */
-
-  .page-content :global(article > h1:first-child) {
-    margin: 0 0 2.5rem;
-
-    text-align: center;
-    text-wrap: balance;
-  }
-
-  .page-content :global(article h2) {
-    margin-top: 3.5rem;
-  }
-
-  .page-content :global(article h3) {
-    margin-top: 2.25rem;
-  }
-
-  .page-content :global(.section-heading) {
-    margin-top: 4rem;
-    text-align: center;
-  }
+.page.library {
+  width: min(100% - 6rem, 88rem);
+}
 </style>

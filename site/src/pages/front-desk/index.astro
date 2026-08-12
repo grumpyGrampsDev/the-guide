@@ -47,8 +47,9 @@ import DeskCard from "../../components/front-desk/DeskCard.astro";
 
   .welcome {
     text-align: center;
-    max-width: 42rem;
+    max-width: 44rem;
     margin-inline: auto;
+
   }
 
   .welcome h1 {
@@ -74,11 +75,17 @@ import DeskCard from "../../components/front-desk/DeskCard.astro";
 
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+
   gap: 5rem;
 
   align-items: start;
 
-  padding-top: 4rem;
+  padding: 5rem 6rem 0;
+}
+
+.desk > * {
+  max-width: 28rem;
+  justify-self: center;
 }
 
 .desk::before {
@@ -90,7 +97,7 @@ import DeskCard from "../../components/front-desk/DeskCard.astro";
 
   transform: translateX(-50%);
 
-  width: 20rem;
+  width: 32rem;
   height: 1px;
 
  background: var(--divider);
