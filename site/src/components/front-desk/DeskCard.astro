@@ -29,6 +29,7 @@ const {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+
     padding-inline: 2rem;
   }
 
@@ -52,5 +53,23 @@ const {
     font-family: var(--font-ui);
     font-weight: 500;
     text-decoration: none;
+  }
+
+  @media (max-width: 800px) {
+    .desk-card {
+      gap: 1rem;
+      padding-inline: 0;
+
+      text-align: center;
+    }
+
+    .desk-card h2 {
+      font-size: 1.5rem;
+      text-align: center;
+    }
+
+    .desk-card a {
+      align-self: center;
+    }
   }
 </style>
