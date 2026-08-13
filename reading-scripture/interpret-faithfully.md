@@ -8,11 +8,11 @@ One of the most important habits in studying Scripture is separating meaning fro
 
 First ask:
 
-"What did God communicate through this passage?"
+> "What did God communicate through this passage?"
 
 Then ask:
 
-"How should I respond?"
+> "How should I respond?"
 
 A passage can have many applications. But it has one intended meaning. Understanding that meaning gives application a faithful foundation.
 
@@ -30,19 +30,16 @@ A single verse rarely communicates the complete thought. Read the verses before 
 
 ## Be Careful With Assumptions
 
-Every reader brings assumptions to Scripture.
+Every reader brings assumptions to Scripture:
 
-Culture.
-
-Personal experience.
-
-Tradition.
-
-Previous teaching.
+- Culture.
+- Personal experience.
+- Tradition.
+- Previous teaching.
 
 Even good experiences can sometimes influence how we see a passage. Humility requires us to continually ask:
 
-"Am I seeing what the text says, or am I seeing what I expect it to say?"
+> "Am I seeing what the text says, or am I seeing what I expect it to say?"
 
 ## The Heart of the Reader Matters
 

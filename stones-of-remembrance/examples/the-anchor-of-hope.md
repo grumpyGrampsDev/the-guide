@@ -10,8 +10,7 @@
 
 ## Origin
 
-**Source:** Personal Scripture Reflection
-
+**Source:** Personal Scripture Reflection  
 **Passage:** Hebrews 5–6
 
 During this reading, several truths stood out:
@@ -23,8 +22,7 @@ During this reading, several truths stood out:
 
 The Quiet Whisper from this entry was:
 
-> _"This hope we have as an anchor of the soul, a hope both sure and steadfast..."_
-
+> _"This hope we have as an anchor of the soul, a hope both sure and steadfast..."_  
 > _— Hebrews 6:19 (NASB 1995)_
 
 ## The Truth
@@ -47,10 +45,8 @@ When future seasons feel uncertain, I can return to this truth:
 
 God has not changed. The same God who was faithful before remains faithful now. My circumstances may shift. My feelings may change. My understanding may be incomplete, but the character of God remains the same.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

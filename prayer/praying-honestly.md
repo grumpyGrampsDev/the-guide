@@ -53,14 +53,13 @@ A moment of uncertainty.
 
 A simple whisper:
 
-> "Lord, help me."
+> "_Lord_, help me."
 
 God is not only present in the extraordinary. He meets us in the ordinary moments where we turn toward Him.
 
 ## A Simple Prayer
 
-> Lord,
->
+> _Lord_,  
 > Help me come before You honestly.
 > Teach me to trust You with what I cannot control.
 > Form my heart.
@@ -69,10 +68,8 @@ God is not only present in the extraordinary. He meets us in the ordinary moment
 >
 > Amen.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

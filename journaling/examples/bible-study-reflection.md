@@ -12,10 +12,8 @@
 
 ## Bible Study Information
 
-**Study:** 1 Peter Bible Study
-
-**Passage(s):** 1 Peter
-
+**Study:** 1 Peter Bible Study  
+**Passage(s):** 1 Peter  
 **Setting:** Group Bible Study
 
 ## Receive
@@ -76,16 +74,13 @@ Am I simply learning Scripture, or am I allowing Scripture to transform me?
 
 ## The Quiet Whisper
 
-> _"You shall be holy, for I am holy."_
-
-_— 1 Peter 1:16_
+> _"You shall be holy, for I am holy."_  
+> _— 1 Peter 1:16_
 
 Holiness is not about becoming worthy of God's love. It is a response to the God who has already called and redeemed us.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## The Stone of Remembrance

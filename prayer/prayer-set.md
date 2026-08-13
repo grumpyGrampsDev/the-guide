@@ -13,8 +13,7 @@ These words became especially meaningful during a season when prayer was still n
 
 ## One Sentence Anchor
 
-> Lord,
->
+> \__Lord_,\_  
 > Give me light, guide my steps, form my heart, and bear Your fruit in me.
 >
 > Amen
@@ -23,8 +22,7 @@ These words became especially meaningful during a season when prayer was still n
 
 ### Orientation
 
-> Lord,
->
+> _Lord_,  
 > Thank You for another day.
 > Give me light.
 > Guide my steps.
@@ -36,20 +34,16 @@ These words became especially meaningful during a season when prayer was still n
 
 ### Remember
 
-**Light**
-
+**Light**  
 Show me what You have for me today.
 
-**Steps**
-
+**Steps**  
 Help me walk faithfully.
 
-**Heart**
-
+**Heart**  
 Keep shaping me into Christ.
 
-**Fruit**
-
+**Fruit**  
 Produce Your character through me.
 
 ## Throughout the Day
@@ -66,8 +60,7 @@ These are reminders that God is present throughout ordinary moments. They help r
 
 ### Reflection
 
-> Lord,
->
+> _Lord_,  
 > Thank You for today.
 > Forgive where I wandered.
 > Grow what You planted.
@@ -78,30 +71,24 @@ These are reminders that God is present throughout ordinary moments. They help r
 
 ### Remember
 
-**Thank You**
-
+**Thank You**  
 Recognize God's goodness and faithfulness.
 
-**Forgive Me**
-
+**Forgive Me**  
 Bring failures and wandering honestly before Him.
 
-**Grow Me**
-
+**Grow Me**  
 Trust that God continues His work.
 
-**Grace**
-
+**Grace**  
 Rest in what God has done.
 
 ## The Daily Reminder
 
 God provides the light. My response is to walk faithfully in it.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

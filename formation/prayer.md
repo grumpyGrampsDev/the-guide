@@ -36,9 +36,7 @@ The purpose of prayer is not to sound spiritual. The purpose of prayer is to dra
 
 ## Prayer Before Scripture
 
-Prayer prepares our hearts to receive God's Word. Before opening Scripture, we can ask God to help us see clearly.
-
-Ask Him to:
+Prayer prepares our hearts to receive God's Word. Before opening Scripture, we can ask God to help us see clearly. Ask Him to:
 
 Give understanding.
 
@@ -60,9 +58,7 @@ Prayer is not only something we do before reading. It can continue as we read. A
 
 ## Prayer After Scripture
 
-After reading, prayer helps us respond.
-
-Ask:
+After reading, prayer helps us respond. Ask:
 
 What should I remember? What should I believe? What should I surrender? What should I practice? Where do I need God's help?
 

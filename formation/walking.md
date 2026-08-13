@@ -56,15 +56,11 @@ Every believer will stumble. Every believer will need correction. Walking faithf
 
 The Christian life was never intended to be lived alone. God forms us through His Word, but also through His people.
 
-Encouragement.
-
-Correction.
-
-Prayer.
-
-Community.
-
-Shared faithfulness.
+- Encouragement.
+- Correction.
+- Prayer.
+- Community.
+- Shared faithfulness.
 
 Walking together reminds us that we belong to something larger than ourselves.
 
@@ -76,10 +72,8 @@ Take the next step.
 
 Trust Him with the path.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

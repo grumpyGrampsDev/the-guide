@@ -148,7 +148,7 @@ Ask God for:
 
 A simple prayer:
 
-> Lord, give me light for today.
+> _Lord_, give me light for today.
 > Help me understand Your Word and faithfully respond.
 
 ### Reading Journal
@@ -210,32 +210,22 @@ When reading Scripture:
 
 The purpose of this plan is not to finish the Bible as quickly as possible. The purpose is to know God through His Word.
 
-Read slowly.
-
-Ask questions.
-
-Pay attention.
-
-Pray honestly.
-
+Read slowly.  
+Ask questions.  
+Pay attention.  
+Pray honestly.  
 Allow Scripture to shape you.
 
 The Bible is not merely a book to complete. It is God's Word to receive, understand, and live.
 
-Open your Bible.
-
-Read carefully.
-
-Reflect thoughtfully.
-
-Remember faithfully.
-
+Open your Bible.  
+Read carefully.  
+Reflect thoughtfully.  
+Remember faithfully.  
 Walk faithfully.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

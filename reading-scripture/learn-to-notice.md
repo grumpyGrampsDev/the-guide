@@ -6,7 +6,7 @@ The first skill of Bible study is not interpretation. It is observation. Before 
 
 It is surprisingly easy to read what we expect instead of what the text actually says. We bring assumptions. We remember sermons. We recall favorite verses. We think we already know the story. Good observation learns to hold those things lightly and asks a simple question:
 
-**"What does this passage actually say?"**
+> "What does this passage actually say?"
 
 Sometimes the answer surprises us.
 
@@ -14,15 +14,11 @@ Sometimes the answer surprises us.
 
 When Scripture repeats something, it is usually inviting us to slow down.
 
-Repeated words.
-
-Repeated ideas.
-
-Repeated questions.
-
-Repeated commands.
-
-Repeated names.
+- Repeated words.
+- Repeated ideas.
+- Repeated questions.
+- Repeated commands.
+- Repeated names.
 
 Authors repeat things because they matter. When you notice repetition, pause before moving on. Ask why the author chose to emphasize it.
 
@@ -52,15 +48,11 @@ Scripture is wonderfully interconnected. A phrase may remind you of Genesis. A p
 
 Observation grows stronger when it is recorded.
 
-A sentence.
-
-A question.
-
-A repeated word.
-
-A connection.
-
-A surprising detail.
+- A sentence.
+- A question.
+- A repeated word.
+- A connection.
+- A surprising detail.
 
 Not every observation will become a profound insight. That is perfectly fine. The discipline of noticing is what matters.
 
@@ -82,7 +74,7 @@ The Bible has more to show us than we often realize.
 
 ## Put It Into Practice
 
-As you read your next passage, write down at least five observations before asking what they mean. Focus only on what you can clearly see in the text—repeated words, contrasts, commands, questions, or anything else that captures your attention.
+As you read your next passage, write down at least five observations before asking what they mean. Focus only on what you can clearly see in the text: repeated words, contrasts, commands, questions, or anything else that captures your attention.
 
 ## Recommended Next Step
 

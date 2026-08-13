@@ -51,15 +51,15 @@ Stones of Remembrance are part of a larger rhythm of walking with God. Scripture
 
 Some Stones are personal. Some may encourage others. When shared, they should be shared with humility. The purpose is not:
 
-"Look what I learned."
+> "Look what I learned."
 
 or:
 
-"Look how far I have come."
+> "Look how far I have come."
 
 The purpose is:
 
-"Look how faithful God has been."
+> "Look how faithful God has been."
 
 A personal reminder can become encouragement for someone else when it points beyond ourselves.
 

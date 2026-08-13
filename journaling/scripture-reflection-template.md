@@ -6,12 +6,9 @@ Use it as a starting point. Adapt it as needed. The goal is not to create perfec
 
 ## Passage
 
-**Scripture:**
-
-**Date:**
-
-**Translation:**
-
+**Scripture:**  
+**Date:**  
+**Translation:**  
 **Notes:**
 
 ## Receive
@@ -86,14 +83,12 @@ Connect this passage to the larger work God is doing in your life.
 
 ### Lamp to my feet
 
-Am I allowing God's Word to guide my next step?
-
+Am I allowing God's Word to guide my next step?  
 Where is God providing light for me today?
 
 ### Left foot. Right foot.
 
-What is the next faithful step before me?
-
+What is the next faithful step before me?  
 Am I trusting God with the path ahead?
 
 ### Receive → Understand → Respond

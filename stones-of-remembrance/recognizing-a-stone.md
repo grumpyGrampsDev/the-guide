@@ -30,11 +30,11 @@ At first, it may simply be something we notice. Over time, God may use it to sha
 
 The most important question is not:
 
-"What did this teach me about myself?"
+> "What did this teach me about myself?"
 
 The first question is:
 
-"What does this reveal about God?"
+> "What does this reveal about God?"
 
 A Stone may remind us that:
 

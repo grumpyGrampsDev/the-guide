@@ -44,15 +44,15 @@ Each genre should be read according to what it is.
 
 The Bible speaks to us. But it is not primarily about us. Every part of Scripture ultimately points toward God's character, His purposes, and His work of redemption. The central question is not:
 
-"What does this verse allow me to do?"
+> "What does this verse allow me to do?"
 
 or
 
-"What does this verse say about my personal success?"
+> "What does this verse say about my personal success?"
 
 The deeper question is:
 
-"What does this reveal about God, His kingdom, and His purposes?"
+> "What does this reveal about God, His kingdom, and His purposes?"
 
 ## Application Comes After Understanding
 

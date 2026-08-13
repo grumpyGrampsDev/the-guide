@@ -34,10 +34,8 @@ When future circumstances feel uncertain, I can return to this truth:
 
 God is not asking me to carry tomorrow's entire path today. He is faithful with today's step. His Word remains a lamp. His presence remains steady. His grace remains sufficient.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

@@ -50,15 +50,11 @@ How should I respond?
 
 Writing helps us remember.
 
-A short note.
-
-A sentence.
-
-A prayer.
-
-A question.
-
-A verse that stood out.
+- A short note.
+- A sentence.
+- A prayer.
+- A question.
+- A verse that stood out.
 
 The goal is not to create perfect records. It is to create reminders of what God has been teaching. Written reflections become markers along the journey, helping us remember what God has shown us when future seasons make those truths easy to forget.
 

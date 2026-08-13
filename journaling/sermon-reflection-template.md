@@ -6,14 +6,10 @@ A sermon is an opportunity to receive teaching, examine Scripture, and consider 
 
 ## Sermon Information
 
-**Date:**
-
-**Title:**
-
-**Speaker:**
-
-**Passage(s):**
-
+**Date:**  
+**Title:**  
+**Speaker:**  
+**Passage(s):**  
 **Notes:**
 
 ## Receive
@@ -111,14 +107,12 @@ Connect this message to the larger work God is doing.
 
 ### Lamp to my feet
 
-What light has God provided through this teaching?
-
+What light has God provided through this teaching?  
 How should it guide my next step?
 
 ### Left foot. Right foot.
 
-What faithful step is before me?
-
+What faithful step is before me?  
 How can I trust God with the path ahead?
 
 ### Receive → Understand → Respond

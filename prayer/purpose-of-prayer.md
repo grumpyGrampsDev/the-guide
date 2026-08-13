@@ -83,10 +83,8 @@ The goal is not completing a prayer practice. It is is walking with God.
 
 Come before God honestly. Bring what is true. Listen for what He reveals. Trust His character. Allow Him to form your heart. Prayer is not simply where we ask God to make our path easier. It is where we learn to walk with Him.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

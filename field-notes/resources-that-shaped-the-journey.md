@@ -4,10 +4,8 @@
 > And a light to my path."_  
 > — Psalm 119:105
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Purpose
@@ -220,10 +218,8 @@ Hold every conclusion with conviction appropriate to the evidence God has given.
 - Keep my eyes fixed ahead.
 - Remember that only God truly knows the heart.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

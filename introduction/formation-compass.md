@@ -2,7 +2,7 @@
 
 The Guide is shaped around a simple rhythm of formation:
 
-Scripture → Prayer → Reflection → Remembrance → Walking
+> Scripture → Prayer → Reflection → Remembrance → Walking
 
 This is not a checklist to complete. It is not a measure of spiritual maturity. It is a rhythm of returning to God. The Formation Map helps us recognize how these practices work together as we learn to walk with Him. This rhythm emerged from the repeated practice of reading Scripture, praying, reflecting, remembering what God has done, and taking the next faithful step.
 
@@ -74,35 +74,28 @@ The goal is not perfect understanding. The goal is faithful obedience.
 
 The Formation Map is not completed once. It is a rhythm we return to again and again.
 
-When we feel lost:
+When we feel lost:  
+_Open Scripture._
 
-Open Scripture.
+When we need guidance:  
+_Pray honestly._
 
-When we need guidance:
+When truth needs to settle:  
+_Reflect carefully._
 
-Pray honestly.
+When we need encouragement:  
+_Remember God's faithfulness._
 
-When truth needs to settle:
+When the path ahead is unclear:  
+_Take the next faithful step._
 
-Reflect carefully.
-
-When we need encouragement:
-
-Remember God's faithfulness.
-
-When the path ahead is unclear:
-
-Take the next faithful step.
-
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
-The Guide points.
-
-God transforms.
+> The Guide points.
+>
+> God transforms.
 
 ## Put It Into Practice
 

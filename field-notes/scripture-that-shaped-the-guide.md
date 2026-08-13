@@ -51,10 +51,8 @@ As I continued returning to these passages, several simple truths gradually beca
 
 When even those feel difficult to hold together, I come back to something much simpler:
 
-> _Lamp to my feet._
->
-> _Left foot._
->
+> _Lamp to my feet._  
+> _Left foot._  
 > _Right foot._
 
 ## Recurring Themes

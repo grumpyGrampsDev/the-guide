@@ -8,8 +8,7 @@
 
 ## Origin
 
-**Source:** Bible Study Reflection
-
+**Source:** Bible Study Reflection  
 **Study:** 1 Peter
 
 The study focused on Peter's encouragement to believers learning how to live faithfully in the midst of difficulty.
@@ -37,16 +36,16 @@ When I feel discouraged by slow growth, I can return to this truth:
 
 God is not only asking me to change. He is forming me. The same God who calls me toward holiness is the God who provides the grace needed to walk faithfully.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice
 
 Look back over the stones you've recognized and ask a simple question:
-_How have these moments changed the way I walk with Christ today?_
+
+> _How have these moments changed the way I walk with Christ today?_
+
 Let those memories become encouragement for your next faithful step.
 
 ## Recommended Next Step

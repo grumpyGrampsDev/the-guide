@@ -12,11 +12,11 @@ The story of Scripture is filled with reminders to remember. God's people built 
 
 There is a difference between remembering God's work and celebrating ourselves. The purpose of remembrance is not:
 
-"Look what I accomplished."
+> "Look what I accomplished."
 
 It is:
 
-"Look how faithful God has been."
+> "Look how faithful God has been."
 
 Every answered prayer. Every moment of conviction. Every season of growth. Every unexpected provision. Every step His lamp illuminated. These are reminders of God's grace.
 

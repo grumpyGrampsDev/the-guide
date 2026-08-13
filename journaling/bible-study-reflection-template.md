@@ -8,14 +8,10 @@ The goal is not simply to record what others said. The goal is to faithfully und
 
 ## Bible Study Information
 
-**Date:**
-
-**Study Name:**
-
-**Leader/Teacher:**
-
-**Passage(s):**
-
+**Date:**  
+**Study Name:**  
+**Leader/Teacher:**  
+**Passage(s):**  
 **Notes:**
 
 ## Receive
@@ -120,9 +116,7 @@ The purpose of studying Scripture is not simply gaining knowledge. It is becomin
 
 ## Bear Fruit
 
-Understanding and reflection should eventually lead somewhere. We do not study Scripture merely to understand more, but to become more faithful in how we live. Consider what obedience looks like.
-
-Ask:
+Understanding and reflection should eventually lead somewhere. We do not study Scripture merely to understand more, but to become more faithful in how we live. Consider what obedience looks like. Ask:
 
 What does this truth look like lived out?
 
@@ -140,18 +134,17 @@ Connect this study to the larger work God is doing.
 
 ### Lamp to my feet
 
-What light has God provided through this study?
-
+What light has God provided through this study?  
 How should it guide my next step?
 
 ### Left foot. Right foot.
 
-What faithful step is before me?
-
+What faithful step is before me?  
 How can I trust God with the path ahead?
 
 ### Receive → Understand → Respond
 
+Have I faithfully received and understood what God has communicated?  
 Is this truth simply something I discussed, or something I am allowing God to use to shape me?
 
 ## The Quiet Whisper

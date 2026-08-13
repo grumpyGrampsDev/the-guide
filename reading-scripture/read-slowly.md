@@ -10,7 +10,7 @@ How many times have I read through the Bible?
 
 Those questions are not unimportant, but they are not the most important ones. Over time, I have found that some of the passages I remember most clearly were not the ones I read the fastest, but the ones I returned to slowly and repeatedly. A better question is this:
 
-**Did I truly listen to what God said?**
+> Did I truly listen to what God said?
 
 ## The Bible Is Not a Race
 
@@ -18,21 +18,14 @@ There are seasons for reading large portions of Scripture. There are also season
 
 ## Notice Before Moving
 
-Repeated words.
-
-Unexpected phrases.
-
-Questions.
-
-Commands.
-
-Connections to earlier passages.
-
-Images.
-
-Promises.
-
-Warnings.
+- Repeated words.
+- Unexpected phrases.
+- Questions.
+- Commands.
+- Connections to earlier passages.
+- Images.
+- Promises.
+- Warnings.
 
 The Bible rewards careful attention. Many of its treasures are found by readers who pause long enough to notice them.
 

@@ -69,20 +69,16 @@ God's promises are more secure than my circumstances.
 
 When uncertainty comes, remember:
 
-God cannot lie. Hope is an anchor because God is faithful.
+> God cannot lie. Hope is an anchor because God is faithful.
 
 ## Prayer
 
-> _Lord,_
+> _Lord_  
+> Thank You for being faithful. Help me continue to remember that my hope is not built on my ability to control what comes next. Teach me to trust Your promises, to continue growing, and to walk faithfully with the light You provide.  
+> Amen.
 
-> _Thank You for being faithful. Help me continue to remember that my hope is not built on my ability to control what comes next. Teach me to trust Your promises, to continue growing, and to walk faithfully with the light You provide._
-
-> _Amen._
-
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

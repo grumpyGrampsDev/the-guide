@@ -2,7 +2,7 @@
 
 The Guide begins where it began:
 
-Open your Bible.
+> Open your Bible.
 
 Not with a goal to accomplish. Not with a system to master. Not with a desire to simply collect information. With a willingness to listen.
 
@@ -50,25 +50,17 @@ God does not always reveal the entire path ahead. Often, He provides enough ligh
 
 The question is not:
 
-"Do I know the whole path?"
+> "Do I know the whole path?"
 
 The question is:
 
-"What is the next faithful step God has placed before me?"
+> "What is the next faithful step God has placed before me?"
 
 ## The Path
 
 The Guide follows this rhythm:
 
-    Scripture
-        ↓
-    Prayer
-        ↓
-    Reflection
-        ↓
-    Remembrance
-        ↓
-    Walking
+> Scripture → Prayer → Reflection → Remembrance → Walking
 
 God speaks. We respond. He forms us. We remember His faithfulness. We walk with Him.
 
@@ -76,15 +68,13 @@ God speaks. We respond. He forms us. We remember His faithfulness. We walk with 
 
 You do not need to have everything figured out. You do not need to begin with perfect understanding. Begin with the next faithful step. Open your Bible. Read carefully. Pray honestly. Reflect thoughtfully. Remember faithfully. Walk faithfully.
 
-_Lamp to my feet._
-
-_Left foot._
-
-_Right foot._
+> _Lamp to my feet._  
+> _Left foot._  
+> _Right foot._
 
 ## Put It Into Practice
 
-Choose a passage of Scripture and begin reading it using the practices you'll encounter throughout this guide. Resist the urge to rush ahead—the goal is not simply to finish the journey, but to be formed by it, one faithful step at a time.
+Choose a passage of Scripture and begin reading it using the practices you'll encounter throughout this guide. Resist the urge to rush ahead. The goal is not simply to finish the journey, but to be formed by it. One faithful step at a time.
 
 ## Recommended Next Step
 

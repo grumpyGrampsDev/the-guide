@@ -34,7 +34,7 @@ The goal is:
 
 The Bible reading path begins the journey:
 
-Scripture → Prayer → Reflection → Remembrance → Walking
+> Scripture → Prayer → Reflection → Remembrance → Walking
 
 God speaks through Scripture. We respond through prayer. We reflect on what He has revealed. We remember His faithfulness. We walk according to the light He provides.
 
@@ -88,16 +88,16 @@ These documents introduce the posture and practices that accompany this reading 
 
 There is no substitute for opening the Bible. A reading path is only a guide. The purpose is not the plan itself. The purpose is knowing the God who has revealed Himself through His Word.
 
-Open your Bible.
-Read carefully.
-Pray honestly.
-Reflect thoughtfully.
-Remember faithfully.
+Open your Bible.  
+Read carefully.  
+Pray honestly.  
+Reflect thoughtfully.  
+Remember faithfully.  
 Walk faithfully.
 
-Lamp to my feet.
-Left foot.
-Right foot.
+_Lamp to my feet._  
+_Left foot._  
+_Right foot._
 
 ## The Reading Path
 

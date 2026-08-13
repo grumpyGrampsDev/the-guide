@@ -17,9 +17,7 @@ The passage is the foundation of the entry. Everything else flows from what God 
 
 ## Observation
 
-Before seeking meaning, take time to notice.
-
-Ask:
+Before seeking meaning, take time to notice. Ask:
 
 What stands out?
 
@@ -77,9 +75,7 @@ Reflection is not about making Scripture revolve around us. It is about allowing
 
 ## Response
 
-Respond to what God has revealed.
-
-Ask:
+Respond to what God has revealed. Ask:
 
 How should I respond?
 

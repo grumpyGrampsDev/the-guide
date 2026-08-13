@@ -18,7 +18,7 @@ Most of all, I hope this guide encourages faithfulness.
 
 The measure of a fruitful Bible study is not how many notes were written or how much information was retained. It is whether God's Word has been believed, obeyed, and treasured. If these pages help someone become more impressed with this guide than with Christ, then they have missed their purpose. If they instead help someone linger a little longer over God's Word, pray a little more honestly, trust Christ a little more deeply, or walk a little more faithfully, then they have accomplished exactly what I hoped they would.
 
-So, wherever you are as you begin reading—
+So, wherever you are as you begin reading...
 
 Whether you have walked with Christ for decades or are opening the Bible for the very first time,
 
@@ -30,8 +30,9 @@ Let's open God's Word together with humble hearts, attentive minds, and an expec
 
 As you finish this chapter, ask yourself:
 
-> _What kind of person am I becoming as I read Scripture?_
-> Resist the urge to focus only on what you know. Instead, consider what God may be shaping in your heart.
+> What kind of person am I becoming as I read Scripture?
+
+Resist the urge to focus only on what you know. Instead, consider what God may be shaping in your heart.
 
 ## Recommended Next Step
 

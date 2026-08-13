@@ -12,12 +12,9 @@
 
 ## Sermon Information
 
-**Date:**
-
-**Title:** The Poison of Envy
-
-**Speaker:**
-
+**Date:**  
+**Title:** The Poison of Envy  
+**Speaker:**  
 **Passage(s):** 1 Corinthians 13:4
 
 ## Receive
@@ -54,11 +51,11 @@ I want to practice gratitude instead of comparison. I want to celebrate what God
 
 My question should not be:
 
-"Why did God give them that?"
+> "Why did God give them that?"
 
 My question should be:
 
-"How can I faithfully use what God has given me?"
+> "How can I faithfully use what God has given me?"
 
 ## Bear Fruit
 
@@ -83,16 +80,13 @@ Am I simply hearing truth, or am I allowing it to transform how I live?
 
 ## The Quiet Whisper
 
-> _"A tranquil heart is life to the body, but passion is rottenness to the bones."_
-
-_— Proverbs 14:30_
+> _"A tranquil heart is life to the body, but passion is rottenness to the bones."_  
+> _— Proverbs 14:30_
 
 Envy does not only affect how we view others. It slowly damages our own hearts. Peace comes from trusting God's goodness and faithfully walking the path He has given.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## The Stone of Remembrance

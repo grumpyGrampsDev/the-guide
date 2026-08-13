@@ -8,7 +8,7 @@ For a long time, I thought growing in knowledge was the goal. Over time, I began
 
 Walking does not begin with our own effort. It begins with what God has already done. Scripture reveals who God is. Prayer responds in dependence. Reflection allows truth to take root. Remembrance reminds us of His faithfulness. Walking is the response:
 
-"Because God has revealed Himself, how should I respond?"
+> "Because God has revealed Himself, how should I respond?"
 
 ## Walking Is Faithful Response, Not Spiritual Achievement
 
@@ -22,11 +22,11 @@ God often provides enough light for the next step, not the entire path. This doe
 
 Walking with God is not something we accomplish through our own strength. We need His guidance. We need His grace. We need His Spirit. The faithful question is not:
 
-"Can I do this on my own?"
+> "Can I do this on my own?"
 
 It is:
 
-"Lord, help me walk faithfully with You."
+> "_Lord_, help me walk faithfully with You."
 
 ## Walking Is Lived Out
 
@@ -48,24 +48,24 @@ Walking with God was never intended to be done alone. God forms His people throu
 
 Walking does not require knowing every step ahead. It requires faithfulness with the step God has placed before us. The question is not always:
 
-"Where will this entire path lead?"
+> "Where will this entire path lead?"
 
 Often, the question is:
 
-"What is the next faithful step?"
+> "What is the next faithful step?"
 
 God provides the light. Our calling is to walk faithfully in it.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice
 
 As you begin each day this week, ask yourself one simple question:
-_What is the next faithful step God is inviting me to take today?_
+
+> _What is the next faithful step God is inviting me to take today?_
+
 Resist the urge to think too far ahead. Faithfulness is lived one step at a time.
 
 ## Recommended Next Step

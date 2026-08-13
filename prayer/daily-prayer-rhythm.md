@@ -21,7 +21,7 @@ The beginning of the day is an opportunity to remember where our life begins. Be
 
 The posture is:
 
-> "Lord, help me walk faithfully with You today."
+> "_Lord_, help me walk faithfully with You today."
 
 ## Throughout the Day: Dependence
 
@@ -52,52 +52,42 @@ When prayer was still unfamiliar to me, I often struggled to know where to begin
 
 ### Morning
 
-**Light**
-
+**Light**  
 God provides what I need for today.
 
-**Steps**
-
+**Steps**  
 Help me walk faithfully.
 
-**Heart**
-
+**Heart**  
 Continue forming me into who You are making me.
 
-**Fruit**
-
+**Fruit**  
 Produce Your character through me.
 
 ### Evening
 
-**Thank You**
-
+**Thank You**  
 Recognize God's goodness and provision.
 
-**Forgive Me**
-
+**Forgive Me**  
 Bring failures and wandering honestly before Him.
 
-**Grow Me**
-
+**Grow Me**  
 Trust that God continues His work.
 
-**Grace**
-
+**Grace**  
 Rest in what God has done, not what I accomplished.
 
 ## A Returning Rhythm
 
 Prayer rhythms are not meant to create pressure. They are meant to create reminders. Some days prayer will be full. Some days prayer will be simple. Some days the only prayer we can offer is:
 
-> _"Lord, help me."_
+> _"\_Lord_, help me."\_
 
 God meets us there. The purpose is not perfect consistency. The purpose is returning to relationship.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

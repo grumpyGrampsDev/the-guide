@@ -8,10 +8,8 @@
 
 ## Origin
 
-**Source:** Sermon Reflection
-
-**Message:** The Poison of Envy
-
+**Source:** Sermon Reflection  
+**Message:** The Poison of Envy  
 **Primary Passage:** 1 Corinthians 13:4
 
 The sermon explored how envy distorts the way we view ourselves, others, and God's work.
@@ -38,10 +36,8 @@ When comparison begins to take root, I can return to this truth:
 
 God is not withholding from me because He has blessed someone else. His plan is not limited by another person's gifts, opportunities, or success. The next faithful step is the one He has placed before me.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

@@ -12,9 +12,9 @@ These principles emerged through the process of studying Scripture, journaling, 
 
 This guide cannot create faith, understanding, or spiritual growth. Only God can do that. Its purpose is simply to encourage faithful engagement with the means God has provided: His Word, prayer, the fellowship of believers, and the work of the Holy Spirit.
 
-The Guide points.
-
-God transforms.
+> The Guide points.
+>
+> God transforms.
 
 ## Scripture Is the Authority
 
@@ -60,11 +60,10 @@ Every sentence should earn its place. If something can be said more clearly, it 
 
 ## The Guide Is Never Finished
 
-This repository is intentionally living. As the Lord continues to teach, refine, convict, encourage, and mature me through His Word, this guide will continue to grow. Its purpose is not to become complete. Its purpose is to remain faithful.
+This repository is intentionally living. As the _Lord_ continues to teach, refine, convict, encourage, and mature me through His Word, this guide will continue to grow. Its purpose is not to become complete. Its purpose is to remain faithful.
 
-> "Your word is a lamp to my feet
-> And a light to my path."
->
+> "Your word is a lamp to my feet  
+> And a light to my path."  
 > — Psalm 119:105 (NASB 1995)
 
 ## Put It Into Practice

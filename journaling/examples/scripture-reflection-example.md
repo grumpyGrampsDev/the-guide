@@ -51,16 +51,13 @@ Am I receiving God's Word, understanding His truth, and allowing it to shape how
 
 ## The Quiet Whisper
 
-> _"This hope we have as an anchor of the soul, a hope both sure and steadfast and one which enters within the veil."_
-
-_— Hebrews 6:19 (NASB 1995)_
+> _"This hope we have as an anchor of the soul, a hope both sure and steadfast and one which enters within the veil."_  
+> _— Hebrews 6:19 (NASB 1995)_
 
 Hope is not an idea. Hope is anchored in the presence and character of God.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## The Stone of Remembrance

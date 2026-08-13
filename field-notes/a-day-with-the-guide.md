@@ -27,17 +27,16 @@ The goal is not to finish a passage quickly. The goal is to listen.
 
 Scripture invites a response. Prayer is where we come before God with humility and dependence. A simple prayer may be:
 
-> _Lord,_
+> _Lord_,  
+> Thank You for another day. Give me light. Guide my steps. Form my heart. Bear Your fruit through me. Help me walk faithfully today.
 >
-> _Thank You for another day. Give me light. Guide my steps. Form my heart. Bear Your fruit through me. Help me walk faithfully today._
->
-> _Amen_
+> Amen
 
 ## Throughout The Day — Walk In The Light Given
 
 God does not always reveal the entire path ahead. Often, He provides enough light for the next step. Throughout the day, return to simple prayers:
 
-> _Thank You. Give me light. Guide my next step._
+> Thank You. Give me light. Guide my next step.
 
 Pay attention to where God is leading. Look for opportunities to respond faithfully.
 
@@ -73,13 +72,10 @@ What truth do I want to carry into tomorrow?
 
 As we reflect, sometimes a truth continues to echo.
 
-A passage.
-
-A prayer.
-
-A lesson.
-
-A moment where God's faithfulness became clearer.
+- A passage.
+- A prayer.
+- A lesson.
+- A moment where God's faithfulness became clearer.
 
 Sometimes these moments become Stones of Remembrance. Not monuments to ourselves. Markers pointing back to God.
 
@@ -87,15 +83,7 @@ Sometimes these moments become Stones of Remembrance. Not monuments to ourselves
 
 The Guide follows this movement:
 
-    Scripture
-        ↓
-    Prayer
-        ↓
-    Reflection
-        ↓
-    Remembrance
-        ↓
-    Walking
+> Scripture → Prayer → Reflection → Remembrance → Walking
 
 God speaks.
 
@@ -113,10 +101,8 @@ Tomorrow begins the same way. Not with perfection. Not with having everything fi
 
 Open your Bible. Receive God's Word. Respond honestly. Remember His faithfulness. Take the next faithful step.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

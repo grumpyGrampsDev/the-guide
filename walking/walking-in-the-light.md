@@ -8,10 +8,9 @@ Throughout Scripture, light is used to describe God's presence, truth, guidance,
 
 The starting point of walking is not our ability to see. It is God's willingness to reveal. The Psalmist writes:
 
-> _"Your word is a lamp to my feet_
-> _And a light to my path."_
-
-_— Psalm 119:105_
+> _"Your word is a lamp to my feet_  
+> _And a light to my path."_  
+> _— Psalm 119:105_
 
 A lamp does not illuminate the entire road at once. It provides enough light for the next step. God's Word guides us as we walk. Over time, this verse became the foundation for the reminder that has shaped how I think about following Christ:
 
@@ -25,14 +24,13 @@ The reminder is not that we have been given the entire path. The reminder is tha
 
 Light does not only help us see. It helps us walk rightly. Proverbs gives this instruction:
 
-> _"Let your eyes look directly ahead_
-> _And let your gaze be fixed straight in front of you._
-> _Watch the path of your feet_
-> _And all your ways will be established._
-> _Do not turn to the right nor to the left;_
-> _Turn your foot from evil."_
-
-_— Proverbs 4:25–27_
+> _"Let your eyes look directly ahead_  
+> _And let your gaze be fixed straight in front of you._  
+> _Watch the path of your feet_  
+> _And all your ways will be established._  
+> _Do not turn to the right nor to the left;_  
+> _Turn your foot from evil."_  
+> _— Proverbs 4:25–27_
 
 Walking faithfully requires attention. There are many things that can distract us, pull us away, or cause us to lose sight of the path God has placed before us. The goal is not to understand every possible road. It is to faithfully walk the one God has illuminated.
 
@@ -40,9 +38,8 @@ Walking faithfully requires attention. There are many things that can distract u
 
 Walking in the light is not accomplished through our own strength. Jesus reminds His disciples:
 
-> _"I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing."_
-
-_— John 15:5_
+> _"I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing."_  
+> _— John 15:5_
 
 The light God provides does not remove our need for dependence. It reveals our need for Him. Faithful walking is not independent effort. It is a life connected to Christ.
 
@@ -69,11 +66,11 @@ Light is not given simply to be observed. It is given to guide our steps. When G
 
 The question is not only:
 
-"What has God shown me?"
+> "What has God shown me?"
 
 It is:
 
-"How should I walk because of what He has shown me?"
+> "How should I walk because of what He has shown me?"
 
 ## Walking in the Light Requires Honesty
 
@@ -90,15 +87,11 @@ The light of God does not expose us to condemn us. It reveals so that He can tra
 
 Walking with God is not usually built through one dramatic moment. It is formed through daily faithfulness.
 
-A prayer.
-
-A Scripture passage.
-
-A conversation.
-
-A decision.
-
-A small step of obedience.
+- A prayer.
+- A Scripture passage.
+- A conversation.
+- A decision.
+- A small step of obedience.
 
 Over time, God forms a life through countless faithful steps.
 
@@ -106,10 +99,8 @@ Over time, God forms a life through countless faithful steps.
 
 God provides the light. My calling is to walk faithfully in it. I do not need to see the entire path. I need to trust the One who guides me.
 
-_Lamp to my feet._
-
-_Left foot._
-
+_Lamp to my feet._  
+_Left foot._  
 _Right foot._
 
 ## Put It Into Practice

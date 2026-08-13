@@ -18,11 +18,11 @@ Sometimes it is obedience in an area where God is calling us to grow.
 
 The question is not only:
 
-"What does this passage mean?"
+> "What does this passage mean?"
 
 It is also:
 
-"How should I respond to what God has revealed?"
+> "How should I respond to what God has revealed?"
 
 ## Apply the Truth, Not Just the Details
 
@@ -32,21 +32,17 @@ Not every passage applies in exactly the same way. Some commands are directly gi
 
 A common temptation is to immediately ask:
 
-"What does this say about me?"
+> "What does this say about me?"
 
 A better first question is:
 
-"What does this reveal about God?"
+> "What does this reveal about God?"
 
-Scripture reveals His character.
-
-His holiness. His faithfulness. His mercy. His justice. His love. Understanding who God is changes how we understand ourselves and how we respond to Him.
+Scripture reveals His character. His holiness, faithfulness, mercy, justice, love. Understanding who God is changes how we understand ourselves and how we respond to Him.
 
 ## Move From Knowledge to Obedience
 
-Knowledge alone is not the goal. A person can understand many truths about Scripture and remain unchanged. God's Word invites a response.
-
-Ask:
+Knowledge alone is not the goal. A person can understand many truths about Scripture and remain unchanged. God's Word invites a response. Ask:
 
 What should I believe?
 
@@ -66,11 +62,11 @@ Application is personal, but it is not merely subjective. We do not ask Scriptur
 
 The question is not:
 
-"How can I make this passage fit my life?"
+> "How can I make this passage fit my life?"
 
 The question is:
 
-"How should my life be formed by this passage?"
+> "How should my life be formed by this passage?"
 
 ## Faithfulness Is Often Found in Small Steps
 

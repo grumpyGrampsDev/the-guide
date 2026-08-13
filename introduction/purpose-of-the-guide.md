@@ -18,7 +18,7 @@ Reflect thoughtfully.
 
 Walk faithfully.
 
-If these pages ever become more important than the Scriptures they point toward, then they have failed their purpose. The Bible is the treasure. This guide is only a map that reminds me where to look. As the Lord continues to teach me through His Word, this guide will continue to grow. Some pages will be rewritten. Others will be expanded. New lessons will be added. Better questions will be asked.
+If these pages ever become more important than the Scriptures they point toward, then they have failed their purpose. The Bible is the treasure. This guide is only a map that reminds me where to look. As the _Lord_ continues to teach me through His Word, this guide will continue to grow. Some pages will be rewritten. Others will be expanded. New lessons will be added. Better questions will be asked.
 
 That is intentional. Spiritual formation is not a finished project, and neither is this guide. My prayer is that, whether this guide serves only me or also proves helpful to others, it will always accomplish one thing:
 
