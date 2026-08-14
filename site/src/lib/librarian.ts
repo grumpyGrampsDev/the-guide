@@ -425,7 +425,6 @@ export async function searchLibrary(
   query: string,
 ): Promise<LibrarianSearchResult> {
   const documents = await getLibraryDocuments();
-
   const normalizedQuery = normalizeSearchText(query);
 
   if (!normalizedQuery) {
@@ -436,13 +435,11 @@ export async function searchLibrary(
   }
 
   const suggestion = findLibrarianConcept(query);
-
   const recommended = suggestion
     ? getConceptDocuments(suggestion.documents, documents)
     : [];
 
   const terms = normalizedQuery.split(" ");
-
   const results = documents
     .map((document) => {
       const title = normalizeSearchText(document.title);
@@ -453,7 +450,6 @@ export async function searchLibrary(
       if (title.includes(normalizedQuery)) {
         score += 100;
       }
-
       if (content.includes(normalizedQuery)) {
         score += 20;
       }
@@ -469,11 +465,9 @@ export async function searchLibrary(
           score += matchingTerms.length * 2;
         }
       }
-
       if (document.type === "document") {
         score += 2;
       }
-
       if (document.type === "index") {
         score -= 2;
       }

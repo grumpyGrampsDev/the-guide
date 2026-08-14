@@ -1,5 +1,6 @@
 ---
 import type { LibrarianSearchResult } from "../../lib/librarian";
+import { guideUrl } from "../../lib/urls";
 
 interface Props {
   result?: LibrarianSearchResult;
@@ -10,7 +11,7 @@ const { result, query = "" } = Astro.props;
 ---
 
 <section class="librarian-search">
-  <form method="get" action="/the-guide/front-desk/">
+  <form method="get" action={guideUrl("front-desk")}>
     <div class="search-box">
       <input
         id="query"
@@ -24,11 +25,21 @@ const { result, query = "" } = Astro.props;
   </form>
 
   {
-    result?.recommended && result.recommended.length > 0 && (
+    result?.suggestion && (
+      <section class="suggestion">
+        <h3>{result.suggestion.suggestion}</h3>
+
+        <p>{result.suggestion.description}</p>
+      </section>
+    )
+  }
+
+  {
+    result?.results && result.results.length > 0 && (
       <section class="recommendations">
         <h3>Recommended Reading</h3>
 
-        {result.recommended.map((item) => (
+        {result.results.map((item) => (
           <article>
             <h4>{item.document.title}</h4>
 
@@ -38,15 +49,23 @@ const { result, query = "" } = Astro.props;
       </section>
     )
   }
+
+  {
+    result && !result.suggestion && result.results.length === 0 && (
+      <section class="no-results">
+        <p>The Librarian could not find anything matching that question.</p>
+
+        <p>Try asking in another way, or browse the shelves of The Guide.</p>
+      </section>
+    )
+  }
 </section>
 
 <style>
   .librarian-search {
     max-width: 36rem;
-
     margin-inline: auto;
   }
-
   .search-box {
     display: flex;
     gap: 0.75rem;
@@ -54,38 +73,27 @@ const { result, query = "" } = Astro.props;
 
   input {
     flex: 1;
-
     padding: 0.75rem 1rem;
-
     border: 1px solid var(--divider);
-
     background: var(--paper-elevated);
-
     color: var(--ink);
-
     font-family: var(--font-reading);
-
     font-size: 1rem;
   }
 
   button {
     padding: 0.75rem 1.25rem;
-
     border: none;
-
     background: var(--oak);
-
     color: var(--paper);
-
     font-family: var(--font-ui);
-
     font-weight: 600;
-
     cursor: pointer;
   }
 
   .suggestion,
-  .recommendations {
+  .recommendations,
+  .no-results {
     margin-top: 3rem;
   }
 
@@ -96,9 +104,7 @@ const { result, query = "" } = Astro.props;
 
   article {
     margin-top: 1.5rem;
-
     padding-left: 1.5rem;
-
     border-left: 2px solid var(--burgundy);
   }
 
