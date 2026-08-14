@@ -13,16 +13,22 @@ const {
 </main>
 
 <style>
-.page {
-  margin-inline: auto;
-  padding-block: 4rem 6rem;
-}
+  .page {
+    margin-inline: auto;
+    padding-block: 4rem 6rem;
+  }
 
-.page.reading {
-  width: min(100% - 2rem, var(--content-width));
-}
+  .page.reading {
+    width: min(100% - 2rem, var(--content-width));
+  }
 
-.page.library {
-  width: min(100% - 6rem, 88rem);
-}
+  .page.library {
+    width: min(100% - 6rem, 88rem);
+  }
+
+  @media (max-width: 700px) {
+    .page.library {
+      width: min(100% - 2rem, 88rem);
+    }
+  }
 </style>
