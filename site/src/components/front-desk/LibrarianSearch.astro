@@ -2,102 +2,176 @@
 import type { LibrarianSearchResult } from "../../lib/librarian";
 
 interface Props {
-  result: LibrarianSearchResult;
+  result?: LibrarianSearchResult;
+  query?: string;
 }
 
-const { result } = Astro.props;
+const {
+  result,
+  query = "",
+} = Astro.props;
+
 ---
 
 <section class="librarian-search">
-  <header>
-    <h2>Ask the Librarian</h2>
 
-    <p>
-      Search the shelves of The Guide. The Librarian can help point you
-      toward related resources.
-    </p>
-  </header>
+  <form method="get" action="/the-guide/front-desk/">
+
+    <div class="search-box">
+
+      <input
+        id="query"
+        name="q"
+        value={query}
+        placeholder="Ask the Librarian..."
+      />
+
+      <button type="submit">
+        Ask
+      </button>
+
+    </div>
+
+  </form>
 
   {
-    result.suggestion && (
-      <section class="suggestion">
-        <h3>{result.suggestion.suggestion}</h3>
+    result?.recommended && result.recommended.length > 0 && (
+      <section class="recommendations">
 
-        <p>
-          {result.suggestion.description}
-        </p>
+        <h3>
+          Recommended Reading
+        </h3>
 
         {
-          result.recommended.length > 0 && (
-            <ul>
-              {
-                result.recommended.map((item) => (
-                  <li>
-                    <a href={`/the-guide/library/${item.document.slug}/`}>
-                      {item.document.title}
-                    </a>
-                  </li>
-                ))
-              }
-            </ul>
-          )
+          result.recommended.map((item) => (
+            <article>
+
+              <h4>
+                {item.document.title}
+              </h4>
+
+              <p>
+                {item.excerpt}
+              </p>
+
+            </article>
+          ))
         }
+
       </section>
     )
   }
 
-  {
-    result.results.length > 0 && (
-      <section class="results">
-        <h3>Search Results</h3>
-
-        <ul>
-          {
-            result.results.map((item) => (
-              <li>
-                <a href={`/the-guide/library/${item.document.slug}/`}>
-                  {item.document.title}
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </section>
-    )
-  }
 </section>
 
+
 <style>
-  .librarian-search {
-    max-width: 44rem;
-    margin-inline: auto;
 
-    padding: 3rem 0;
+.librarian-search {
 
-    text-align: center;
+  max-width: 36rem;
+
+  margin-inline: auto;
+
+}
+
+
+.search-box {
+
+  display: flex;
+
+  gap: 0.75rem;
+
+}
+
+
+input {
+
+  flex: 1;
+
+  padding: 0.75rem 1rem;
+
+  border: 1px solid var(--divider);
+
+  background: var(--paper-elevated);
+
+  color: var(--ink);
+
+  font-family: var(--font-reading);
+
+  font-size: 1rem;
+
+}
+
+
+button {
+
+  padding: 0.75rem 1.25rem;
+
+  border: none;
+
+  background: var(--oak);
+
+  color: var(--paper);
+
+  font-family: var(--font-ui);
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+}
+
+
+.suggestion,
+.recommendations {
+
+  margin-top: 3rem;
+
+}
+
+
+h3,
+h4 {
+
+  font-family: var(--font-ui);
+
+}
+
+
+article {
+
+  margin-top: 1.5rem;
+
+  padding-left: 1.5rem;
+
+  border-left: 2px solid var(--burgundy);
+
+}
+
+
+article p {
+
+  color: var(--ink-soft);
+
+}
+
+
+@media (max-width: 600px) {
+
+  .search-box {
+
+    flex-direction: column;
+
   }
 
-  header p {
-    color: var(--ink-soft);
+
+  button {
+
+    width: 100%;
+
   }
 
-  h2,
-  h3 {
-    font-family: var(--font-ui);
-  }
+}
 
-  .suggestion {
-    margin-top: 3rem;
-  }
-
-  ul {
-    list-style: none;
-    padding: 0;
-
-    margin-top: 2rem;
-  }
-
-  li + li {
-    margin-top: 1rem;
-  }
 </style>
