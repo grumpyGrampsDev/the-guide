@@ -2,6 +2,16 @@
 import Layout from "../../layouts/Layout.astro";
 import DeskCard from "../../components/front-desk/DeskCard.astro";
 import { guideUrl } from "../../lib/urls";
+import LibrarianSearch from "../../components/front-desk/LibrarianSearch.astro";
+import { searchLibrary } from "../../lib/librarian";
+
+const librarianResult = await searchLibrary(
+  "remember gods faithfulness",
+);
+
+const results = await searchLibrary("remember gods faithfulness");
+
+console.log(results);
 ---
 
 <Layout title="Front Desk | The Guide">
@@ -19,6 +29,11 @@ import { guideUrl } from "../../lib/urls";
         prayer, reflection, remembrance, and faithful walking.
       </p>
     </header>
+    
+    <section class="search">
+      <LibrarianSearch result={librarianResult} />
+
+    </section>
 
     <section class="desk">
       <DeskCard

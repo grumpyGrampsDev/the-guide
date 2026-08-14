@@ -1,0 +1,103 @@
+---
+import type { LibrarianSearchResult } from "../../lib/librarian";
+
+interface Props {
+  result: LibrarianSearchResult;
+}
+
+const { result } = Astro.props;
+---
+
+<section class="librarian-search">
+  <header>
+    <h2>Ask the Librarian</h2>
+
+    <p>
+      Search the shelves of The Guide. The Librarian can help point you
+      toward related resources.
+    </p>
+  </header>
+
+  {
+    result.suggestion && (
+      <section class="suggestion">
+        <h3>{result.suggestion.suggestion}</h3>
+
+        <p>
+          {result.suggestion.description}
+        </p>
+
+        {
+          result.recommended.length > 0 && (
+            <ul>
+              {
+                result.recommended.map((item) => (
+                  <li>
+                    <a href={`/the-guide/library/${item.document.slug}/`}>
+                      {item.document.title}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          )
+        }
+      </section>
+    )
+  }
+
+  {
+    result.results.length > 0 && (
+      <section class="results">
+        <h3>Search Results</h3>
+
+        <ul>
+          {
+            result.results.map((item) => (
+              <li>
+                <a href={`/the-guide/library/${item.document.slug}/`}>
+                  {item.document.title}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    )
+  }
+</section>
+
+<style>
+  .librarian-search {
+    max-width: 44rem;
+    margin-inline: auto;
+
+    padding: 3rem 0;
+
+    text-align: center;
+  }
+
+  header p {
+    color: var(--ink-soft);
+  }
+
+  h2,
+  h3 {
+    font-family: var(--font-ui);
+  }
+
+  .suggestion {
+    margin-top: 3rem;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    margin-top: 2rem;
+  }
+
+  li + li {
+    margin-top: 1rem;
+  }
+</style>

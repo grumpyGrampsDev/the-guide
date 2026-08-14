@@ -1,6 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { renderMarkdown } from "./markdown";
+import { LIBRARIAN_CONCEPTS } from "./librarian-concepts";
 
 const GUIDE_ROOT = path.resolve(process.cwd(), "..");
 
@@ -84,6 +85,24 @@ export interface GuideDocument {
 export interface GuideLibrary {
   introduction: GuideDocument;
   shelves: GuideShelf[];
+}
+
+export interface guideRecommendation {
+  document: GuideDocument;
+  score: number;
+  excerpt: string;
+}
+
+export interface LibrarianSuggestion {
+  suggestion: string;
+  description: string;
+  documents: string[];
+}
+
+export interface LibrarianSearchResult {
+  suggestion?: LibrarianSuggestion;
+  recommended: guideRecommendation[];
+  results: guideRecommendation[];
 }
 
 export interface GuideShelf {
@@ -265,10 +284,76 @@ function formatGuideTitle(value: string): string {
     .replace(/\bThe\b/g, "the");
 }
 
+function normalizeSearchText(value: string): string {
+  return value
+    .toLowerCase()
+    .replace(/[^\w\s]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function createSearchExcerpt(content: string, terms: string[]): string {
+  const normalizedContent = content.replace(/\s+/g, " ").trim();
+
+  const lowerContent = normalizedContent.toLowerCase();
+
+  const firstMatch = terms
+    .map((term) => lowerContent.indexOf(term))
+    .filter((index) => index >= 0)
+    .sort((a, b) => a - b)[0];
+
+  if (firstMatch === undefined) {
+    return normalizedContent.slice(0, 160);
+  }
+
+  const start = Math.max(firstMatch - 60, 0);
+  const excerpt = normalizedContent.slice(start, start + 220);
+
+  return `${start > 0 ? "..." : ""}${excerpt}${
+    start + 220 < normalizedContent.length ? "..." : ""
+  }`;
+}
+
+function isSearchableTerm(term: string): boolean {
+  return term.length >= 4;
+}
+
+function findLibrarianConcept(query: string): LibrarianSuggestion | undefined {
+  const normalizedQuery = normalizeSearchText(query);
+
+  const concept = LIBRARIAN_CONCEPTS.find((concept) =>
+    concept.terms.some((term) =>
+      normalizedQuery.includes(normalizeSearchText(term)),
+    ),
+  );
+
+  if (!concept) {
+    return undefined;
+  }
+
+  return {
+    suggestion: concept.suggestion,
+    description: concept.description,
+    documents: concept.documents,
+  };
+}
+
+function getConceptDocuments(
+  conceptDocuments: string[],
+  documents: GuideDocument[],
+): guideRecommendation[] {
+  return documents
+    .filter((document) => conceptDocuments.includes(document.slug))
+    .map((document) => ({
+      document,
+      score: 100,
+      excerpt: createSearchExcerpt(document.content, []),
+    }));
+}
+
 /**
  * Walks a Guide directory recursively and returns every Markdown document.
  */
-
 async function collectShelfDocuments(
   directoryPath: string,
   relativePath: string,
@@ -334,6 +419,80 @@ export async function getLibraryDocuments(
     documents.push(...(await collectShelfDocuments(shelf.path, shelf.name)));
   }
   return documents;
+}
+
+export async function searchLibrary(
+  query: string,
+): Promise<LibrarianSearchResult> {
+  const documents = await getLibraryDocuments();
+
+  const normalizedQuery = normalizeSearchText(query);
+
+  if (!normalizedQuery) {
+    return {
+      recommended: [],
+      results: [],
+    };
+  }
+
+  const suggestion = findLibrarianConcept(query);
+
+  const recommended = suggestion
+    ? getConceptDocuments(suggestion.documents, documents)
+    : [];
+
+  const terms = normalizedQuery.split(" ");
+
+  const results = documents
+    .map((document) => {
+      const title = normalizeSearchText(document.title);
+      const content = normalizeSearchText(document.content);
+
+      let score = 0;
+
+      if (title.includes(normalizedQuery)) {
+        score += 100;
+      }
+
+      if (content.includes(normalizedQuery)) {
+        score += 20;
+      }
+
+      for (const term of terms.filter(isSearchableTerm)) {
+        if (title.includes(term)) {
+          score += 20;
+        }
+
+        if (content.includes(term)) {
+          const matchingTerms = terms.filter((term) => content.includes(term));
+
+          score += matchingTerms.length * 2;
+        }
+      }
+
+      if (document.type === "document") {
+        score += 2;
+      }
+
+      if (document.type === "index") {
+        score -= 2;
+      }
+
+      return {
+        document,
+        score,
+        excerpt: createSearchExcerpt(document.content, terms),
+      };
+    })
+    .filter((result) => result.score > 10)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 8);
+
+  return {
+    suggestion,
+    recommended,
+    results,
+  };
 }
 
 export async function getGuideShelves(): Promise<GuideShelf[]> {
