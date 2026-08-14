@@ -6,19 +6,12 @@ interface Props {
   query?: string;
 }
 
-const {
-  result,
-  query = "",
-} = Astro.props;
-
+const { result, query = "" } = Astro.props;
 ---
 
 <section class="librarian-search">
-
   <form method="get" action="/the-guide/front-desk/">
-
     <div class="search-box">
-
       <input
         id="query"
         name="q"
@@ -26,152 +19,100 @@ const {
         placeholder="Ask the Librarian..."
       />
 
-      <button type="submit">
-        Ask
-      </button>
-
+      <button type="submit"> Ask </button>
     </div>
-
   </form>
 
   {
     result?.recommended && result.recommended.length > 0 && (
       <section class="recommendations">
+        <h3>Recommended Reading</h3>
 
-        <h3>
-          Recommended Reading
-        </h3>
+        {result.recommended.map((item) => (
+          <article>
+            <h4>{item.document.title}</h4>
 
-        {
-          result.recommended.map((item) => (
-            <article>
-
-              <h4>
-                {item.document.title}
-              </h4>
-
-              <p>
-                {item.excerpt}
-              </p>
-
-            </article>
-          ))
-        }
-
+            <p>{item.excerpt}</p>
+          </article>
+        ))}
       </section>
     )
   }
-
 </section>
 
-
 <style>
+  .librarian-search {
+    max-width: 36rem;
 
-.librarian-search {
-
-  max-width: 36rem;
-
-  margin-inline: auto;
-
-}
-
-
-.search-box {
-
-  display: flex;
-
-  gap: 0.75rem;
-
-}
-
-
-input {
-
-  flex: 1;
-
-  padding: 0.75rem 1rem;
-
-  border: 1px solid var(--divider);
-
-  background: var(--paper-elevated);
-
-  color: var(--ink);
-
-  font-family: var(--font-reading);
-
-  font-size: 1rem;
-
-}
-
-
-button {
-
-  padding: 0.75rem 1.25rem;
-
-  border: none;
-
-  background: var(--oak);
-
-  color: var(--paper);
-
-  font-family: var(--font-ui);
-
-  font-weight: 600;
-
-  cursor: pointer;
-
-}
-
-
-.suggestion,
-.recommendations {
-
-  margin-top: 3rem;
-
-}
-
-
-h3,
-h4 {
-
-  font-family: var(--font-ui);
-
-}
-
-
-article {
-
-  margin-top: 1.5rem;
-
-  padding-left: 1.5rem;
-
-  border-left: 2px solid var(--burgundy);
-
-}
-
-
-article p {
-
-  color: var(--ink-soft);
-
-}
-
-
-@media (max-width: 600px) {
+    margin-inline: auto;
+  }
 
   .search-box {
-
-    flex-direction: column;
-
+    display: flex;
+    gap: 0.75rem;
   }
 
+  input {
+    flex: 1;
+
+    padding: 0.75rem 1rem;
+
+    border: 1px solid var(--divider);
+
+    background: var(--paper-elevated);
+
+    color: var(--ink);
+
+    font-family: var(--font-reading);
+
+    font-size: 1rem;
+  }
 
   button {
+    padding: 0.75rem 1.25rem;
 
-    width: 100%;
+    border: none;
 
+    background: var(--oak);
+
+    color: var(--paper);
+
+    font-family: var(--font-ui);
+
+    font-weight: 600;
+
+    cursor: pointer;
   }
 
-}
+  .suggestion,
+  .recommendations {
+    margin-top: 3rem;
+  }
 
+  h3,
+  h4 {
+    font-family: var(--font-ui);
+  }
+
+  article {
+    margin-top: 1.5rem;
+
+    padding-left: 1.5rem;
+
+    border-left: 2px solid var(--burgundy);
+  }
+
+  article p {
+    color: var(--ink-soft);
+  }
+
+  @media (max-width: 600px) {
+    .search-box {
+      flex-direction: column;
+    }
+
+    button {
+      width: 100%;
+    }
+  }
 </style>
