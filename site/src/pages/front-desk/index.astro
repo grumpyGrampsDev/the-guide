@@ -5,18 +5,15 @@ import { guideUrl } from "../../lib/urls";
 ---
 
 <Layout title="Front Desk | The Guide">
-  <section class="front-desk">
-
+  <main class="front-desk">
     <header class="welcome">
       <h1>Front Desk</h1>
 
-      <p>
-        Welcome.
-      </p>
+      <p>Welcome.</p>
 
       <p>
-        The Guide is a companion for reading Scripture with humility,
-        prayer, reflection, remembrance, and faithful walking.
+        The Guide is a companion for reading Scripture with humility, prayer,
+        reflection, remembrance, and faithful walking.
       </p>
     </header>
 
@@ -35,8 +32,7 @@ import { guideUrl } from "../../lib/urls";
         href={guideUrl("library")}
       />
     </section>
-
-  </section>
+  </main>
 </Layout>
 
 <style>
@@ -51,7 +47,6 @@ import { guideUrl } from "../../lib/urls";
     text-align: center;
     max-width: 44rem;
     margin-inline: auto;
-
   }
 
   .welcome h1 {
@@ -72,49 +67,49 @@ import { guideUrl } from "../../lib/urls";
     color: var(--ink);
   }
 
-.desk {
-  position: relative;
-
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-
-  gap: 5rem;
-
-  align-items: start;
-
-  padding: 5rem 6rem 0;
-}
-
-.desk > * {
-  max-width: 28rem;
-  justify-self: center;
-}
-
-.desk::before {
-  content: "";
-
-  position: absolute;
-  top: 0;
-  left: 50%;
-
-  transform: translateX(-50%);
-
-  width: 32rem;
-  height: 1px;
-
- background: var(--divider);
- opacity: 0.8;
-}
-
-@media (max-width: 800px) {
   .desk {
-    grid-template-columns: 1fr;
-    gap: 3rem;
-    padding: 3rem 1rem 0;
+    position: relative;
+
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    gap: 5rem;
+
+    align-items: start;
+
+    padding: 5rem 6rem 0;
+  }
+
+  .desk > * {
+    max-width: 28rem;
+    justify-self: center;
   }
 
   .desk::before {
-    width: min(100%, 20rem);
+    content: "";
+
+    position: absolute;
+    top: 0;
+    left: 50%;
+
+    transform: translateX(-50%);
+
+    width: 32rem;
+    height: 1px;
+
+    background: var(--divider);
+    opacity: 0.8;
   }
-}
+
+  @media (max-width: 800px) {
+    .desk {
+      grid-template-columns: 1fr;
+      gap: 3rem;
+      padding: 3rem 1rem 0;
+    }
+
+    .desk::before {
+      width: min(100%, 20rem);
+    }
+  }
 </style>
