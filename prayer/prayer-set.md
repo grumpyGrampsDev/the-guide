@@ -13,7 +13,7 @@ These words became especially meaningful during a season when prayer was still n
 
 ## One Sentence Anchor
 
-> \__Lord_,\_  
+> _Lord_,  
 > Give me light, guide my steps, form my heart, and bear Your fruit in me.
 >
 > Amen

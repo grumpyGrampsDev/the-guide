@@ -234,7 +234,7 @@ Take time to reflect on the journey you've completed. Give thanks for what God h
 
 ## Recommended Next Step
 
-Return to the beginning of the [A Reading Path Through Scripture](./README.md) whenever you're ready to begin another journey through God's Word, or revisit any section of _The Guide_ that would encourage your current season.
+Return to the beginning of the [A Reading Path Through Scripture](./README.md) whenever you're ready to begin another journey through God's Word, or revisit any section of The Guide that would encourage your current season.
 
 ## Related Reading
 

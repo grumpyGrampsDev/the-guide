@@ -83,7 +83,7 @@ Purpose:
 
 Location:
 
-biblical-books/
+reading-path/
 
 Current content:
 
